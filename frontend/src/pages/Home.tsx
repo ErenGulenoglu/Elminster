@@ -1,105 +1,65 @@
 import { useState, useEffect } from "react";
 import api from "@/api";
+import type { Message } from "../types/chat";
 
-import { Textarea } from "../components/ui/textarea";
-
-type Message = {
-	role: "user" | "elminster";
-	content: string;
-};
+import ChatBar from "../components/ChatBar";
+import ChatLog from "../components/ChatLog";
 
 function Home() {
-	useEffect(() => {
-		document.title = "Elminster";
-	});
+  useEffect(() => {
+    document.title = "Elminster";
+  });
 
-	const [messages, setMessages] = useState<Message[]>([]);
-	const [input, setInput] = useState("");
-	const [loading, setLoading] = useState(false);
+  const [messages, setMessages] = useState<Message[]>([]);
+  const [input, setInput] = useState("");
+  const [loading, setLoading] = useState(false);
 
-	async function sendMessage() {
-		if (!input.trim()) return;
+  async function sendMessage() {
+    // Mesaj geri gelirken kullanicinin mesaj gonderememesi gerekir.
+    // Bu sure zarfi icerisinde textbari ve butonu deaktive et.
 
-		const userMessage: Message = {
-			role: "user",
-			content: input,
-		};
+    if (!input.trim()) return;
 
-		setMessages((prev) => [...prev, userMessage]);
-		setInput("");
-		setLoading(true);
+    const userMessage: Message = {
+      role: "user",
+      content: input,
+    };
 
-		try {
-			const res = await api.post("http://localhost:8000/chat", {
-				message: userMessage.content,
-			});
+    setMessages((prev) => [...prev, userMessage]);
+    setInput("");
+    setLoading(true);
 
-			const botMessage: Message = {
-				role: "elminster",
-				content: res.data.response,
-			};
+    try {
+      const res = await api.post("http://localhost:8000/chat", {
+        message: userMessage.content,
+      });
 
-			setMessages((prev) => [...prev, botMessage]);
-		} catch (error) {
-			setMessages((prev) => [
-				...prev,
-				{
-					role: "elminster",
-					content: "⚠️ Elminster is unavailable.",
-				},
-			]);
-		} finally {
-			setLoading(false);
-		}
-	}
-	return (
-		<div style={{ maxWidth: 600, margin: "40px auto", fontFamily: "serif" }}>
-			<h2>Elminster</h2>
+      const botMessage: Message = {
+        role: "elminster",
+        content: res.data.response,
+      };
 
-			<div
-				style={{
-					border: "1px solid #ccc",
-					padding: 16,
-					minHeight: 300,
-					marginBottom: 16,
-				}}
-			>
-				{messages.map((m, i) => (
-					<div key={i} style={{ marginBottom: 12 }}>
-						<strong>{m.role === "user" ? "You" : "Elminster"}:</strong> {m.content}
-					</div>
-				))}
-
-				{loading && <em>Elminster is thinking…</em>}
-			</div>
-
-			<input
-				className="resize-none focus:outline-none"
-				value={input}
-				onChange={(e) => setInput(e.target.value)}
-				onKeyDown={(e) => e.key === "Enter" && sendMessage()}
-				placeholder="Ask Elminster..."
-				style={{ width: "80%", padding: 8 }}
-			/>
-			<textarea
-				className="resize-none focus:outline-none"
-				value={input}
-				onChange={(e) => setInput(e.target.value)}
-				onKeyDown={(e) => {
-					if (e.key === "Enter" && !e.shiftKey) {
-						e.preventDefault();
-						sendMessage();
-					}
-				}}
-				placeholder="Ask Elminster..."
-				style={{ width: "80%", padding: 8 }}
-			/>
-			<Textarea value={input} onChange={(e: any) => setInput(e.target.value)} placeholder="Ask Elminster..." style={{ width: "80%", padding: 8 }} />
-			<button onClick={sendMessage} style={{ padding: 8, marginLeft: 8 }}>
-				Send
-			</button>
-		</div>
-	);
+      setMessages((prev) => [...prev, botMessage]);
+    } catch (error) {
+      setMessages((prev) => [
+        ...prev,
+        {
+          role: "elminster",
+          content: "⚠️ Elminster is unavailable.",
+        },
+      ]);
+    } finally {
+      setLoading(false);
+    }
+  }
+  return (
+    <div className="flex flex-col w-full h-100vh justify-center items-center">
+      <main className="flex flex-col w-[90%] xl:w-[40%] h-full my-16 gap-8">
+        <ChatLog messages={messages} loading={loading} />
+        <ChatBar input={input} setInput={setInput} sendMessage={sendMessage} />
+      </main>
+    </div>
+  );
 }
 
 export default Home;
