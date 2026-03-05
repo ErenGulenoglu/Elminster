@@ -1,5 +1,6 @@
 import React, { useEffect, useRef } from "react";
 import type { Message } from "../types/chat";
+import { formatElminsterResponse } from "../utils/formatElminsterResponse";
 
 type ChatLogProps = {
 	messages: Message[];
@@ -22,10 +23,9 @@ const ChatLog: React.FC<ChatLogProps> = ({ messages, loading }) => {
 
 			<div
 				ref={containerRef}
-				className="overflow-y-auto flex flex-col gap-4 p-5 h-[60vh] rounded-sm"
+				className="overflow-y-auto flex flex-col gap-4 p-5"
 				style={{
-					// height: "clamp(300px, 52vh, 520px)", FIX HERE
-					// FIX WITDH, FIX HEIGHT, develop on frontend
+					height: "clamp(300px, 52vh, 520px)",
 					background: "linear-gradient(rgba(8,10,20,0.88), rgba(8,10,20,0.88))",
 					scrollbarWidth: "thin",
 					scrollbarColor: "rgba(180,140,60,0.25) transparent",
@@ -70,7 +70,13 @@ const ChatLog: React.FC<ChatLogProps> = ({ messages, loading }) => {
 											}
 								}
 							>
-								{m.content}
+								{isUser
+									? m.content
+									: formatElminsterResponse(m.content).map((para, pIdx) => (
+											<p key={pIdx} className={pIdx > 0 ? "mt-3" : ""}>
+												{para}
+											</p>
+										))}
 							</div>
 						</div>
 					);

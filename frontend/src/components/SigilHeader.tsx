@@ -5,7 +5,7 @@ const harperSignBase64 =
 
 const SigilHeader: React.FC = () => {
 	return (
-		<div className="flex flex-col items-center gap-1">
+		<div className="flex flex-col items-center pb-4 gap-1">
 			{/* Sigil ring */}
 			<div
 				className="flex items-center justify-center rounded-full mb-2"
@@ -36,7 +36,7 @@ const SigilHeader: React.FC = () => {
 							width: 32,
 							height: 32,
 							objectFit: "contain",
-							filter: "drop-shadow(0 0 8px rgba(180,140,60,0.6)) invert(60%) sepia(60%) saturate(600%) hue-rotate(10deg) brightness(1.1)",
+							filter: "drop-shadow(0 0 8px rgba(180,140,60,0.6)) invert(100%) sepia(60%) saturate(600%) hue-rotate(10deg) brightness(1.1)",
 						}}
 					/>
 				</span>

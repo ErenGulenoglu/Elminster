@@ -23,6 +23,8 @@ def elminster_chat(message: str) -> str:
         2. If the answer is not in the LORE DATABASE, say: "I do not have that information in my archives."
         3. NEVER make up dates, names, or events
         4. NEVER cite sources not provided below
+        
+        Use paragraph breaks in your response.
 
         === LORE DATABASE ===
         {lore_text}
