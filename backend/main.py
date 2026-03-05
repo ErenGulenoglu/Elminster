@@ -1,7 +1,8 @@
 from fastapi import FastAPI
-import requests
-from schemas import *
+from schemas import ChatRequest
 from fastapi.middleware.cors import CORSMiddleware
+from chatbot.elminster import elminster_chat
+import traceback
 
 app = FastAPI()
 app.add_middleware(
@@ -14,14 +15,11 @@ app.add_middleware(
 
 @app.post("/chat")
 def chat(req: ChatRequest):
-    response = requests.post(
-        "http://localhost:11434/api/generate",
-        json={
-            "model": "mistral",
-            "prompt": req.message,
-            "stream": False
-        }
-    )
+    try:
+        reply = elminster_chat(req.message)
+        return {"response": reply}
+    except Exception as e:
+        # Log full traceback
+        traceback.print_exc()
+        return {"error": str(e)}
 
-    data = response.json()
-    return {"response": data["response"]}
