@@ -14,7 +14,7 @@ collections = client.list_collections()
 #     print(f"  - {c.name} ({c.count()} documents)")
 collection = client.get_collection("fr_lore")  # your collection name
 
-def get_relevant_lore(user_message: str, top_k: int = 7) -> str:
+def get_relevant_lore(user_message: str, top_k: int = 10) -> str:
     """
     Given a user message, return top-K relevant FR lore chunks.
     """

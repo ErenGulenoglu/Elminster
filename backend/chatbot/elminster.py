@@ -20,7 +20,7 @@ def elminster_chat(message: str) -> str:
 
         STRICT RULES:
         1. ONLY use information from the "LORE DATABASE" section
-        2. If the answer is not in the LORE DATABASE, say: "I do not have that information in my archives."
+        2. If the answer is not in the LORE DATABASE, kindly say you are not sure.
         3. NEVER make up dates, names, or events
         4. NEVER cite sources not provided below
         
