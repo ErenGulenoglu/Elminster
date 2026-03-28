@@ -1,0 +1,13 @@
+=== METADATA ===
+chunk_index : 142
+characters  : elmara, dunsteen
+events      : Elmara uses magic to confront Dunsteen and sends him to Ilhundyl
+location    : none
+=== CONTENT ===
+Blue-white light outlined the mage's head, and she saw his features twist and struggle as he found himself compelled to speak truthfully. The string of fearful curses he was spitting became the words, "I don't want half the folk in Faerun to work magic! What price my powers then, eh?" Dunsteen's voice rose into a wordless shriek of fear. "You live now only at my whim, wizard," Elmara told him, pretending a casualness she did not feel. If his fear would just keep him from weaving another fireball... Swallowing her own rising fear, Elmara uttered another prayer to Mystra. When the tingling in her limbs told her its magic had taken effect, she strode off the lip of the hollow, walking on empty air to stand facing the wizard. She pointed down, trembling with the effort to hold herself in midair. "I do not wish to slay ye, Lord Mage.
+
+Mystra bade me bring more magic into Faerun, not rob the Realms of the lives and skills of wizards." The Lord Mage gulped and took a quick step back. He obviously thought less of his powers than he'd pretended to in the tavern. "And so?" "Go to thy home and trouble me no more," Elmara said in a voice of doom, "and I shall not bring down the curse of Mystra on thee." That sounded good-and the priestess had told him to try everything. If Mystra thought her words ill said ... she'd doubtless say so soon enough. The night remained still and silent-except for the sounds made by Lord Mage Dunsteen, backing hurriedly away through ferns and brambles. "Hold!" Elmara put the ring of command into her words. She felt herself sinking slowly toward the ground as she turned her will back to her truth- compulsion spell.
+
+Dunsteen froze as if someone had tugged on a leash about his neck. Elmara said to his moonlit back, "I was told to learn all I could from the mages I met. Where would you suggest I go to learn more about being a mage?" The magic of her truth-compulsion glowed brightly around the Lord Mage-but he did not turn, so Elmara did not see his twisted smile. "Go see Ilhundyl, ruler of the Calishar, and ask him that... and you shall have the best answer any living man can give." ***** Most intruders wandered in the maze, calling helplessly until Ilhundyl tired of their cries and had them brought to an audience chamber, or released the lions to feed. This young lass, however, strode through the illusory walls and around the portal traps as if she could see them.
+
+Ilhundyl leaned forward to peer out the window in sudden interest as Elmara strode out onto the broad pavement in front of the Great Gate, peered

@@ -1,3 +1,9 @@
+=== METADATA ===
+chunk_index : 15
+characters  : saharel, manshoon, elminster, mystra, sylune, adon, cyric, kelemvor
+events      : Elminster's allies sacrificed themselves to protect him; malaugrym invasion of the Realms was held off
+location    : shadowdale, daggerdale
+=== CONTENT ===
 During the conflict, the archlich Saharel sacrificed herself to slay the mortal Manshoon and save Elminster's life. Despite their small victory, two great threats to the Heartlands emerged: the extra-planar malaugrym that saw this crisis as an opportunity to exact revenge by slaying Elminster, and the god Bane , who had taken mortal form in Zhentil Keep , and sought to take for himself the Tablets of Fate . In the middle of Kythorn , El and his fellow Chosen devised a plan to protect the Old Mage and keep the Realms safe. The ghost of Syluné used El's pipe to act as a decoy Elminster, attracting the attention of the malaugrym while the Rangers Three assisted the real Elminster in preserving Mystra and repairing what remained of the fractured Weave.
 
 On the same day as the avatar of Mystra was destroyed by the avatar of Bane, Elminster reunited with Syluné and the Rangers Three in Daggerdale , warning them of the growing conflict between the Dales and the Zhentarim of the North. Over the following tendays , El and Mystra's other Chosen, along with the Rangers Three and the Knights of Myth Drannor, held off the malaugrym invasion of the Realms for a time. They ventured into the Plane of Shadow, killed many of the malevolent shapeshifters in their Castle of Shadows , and destroyed the malaugrym spell loop , albeit at great cost. Having returned to the Prime Material plane , Elminster finally met with the adventurer Midnight on Flamerule 8 , along with her companions Adon , Cyric , and Kelemvor , at his tower in Shadowdale.

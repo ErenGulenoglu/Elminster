@@ -1,0 +1,13 @@
+=== METADATA ===
+chunk_index : 42
+characters  : helm, elminster
+events      : Knight of Athalantar and Elminster meet, plan strategies for battle
+location    : Lawless Castle
+=== CONTENT ===
+that he might not die this night after all. The knight of Athalantar leaned forward in his saddle. "We've just come from Lawless Castle," he said with raised brows. "Quite a few good men lying dead back there, but Mauri couldn't find Eladar among them." "When I ran out of armsmen to kill, I came here," Elminster replied gravely. "They'd found the castle, and I had to slay the rest before they had a chance to report it. They went to a camp- those fires, there-and there's another band of armsmen, probably larger than this one, over there somewhere." He pointed into the night. "They were circling to take me." Helm bellowed, "Onthrar! To me!" over his shoulder, and then said, "Join us, then, an' we'll ride 'em down together. There're empty saddles in plenty to spare!" Elminster shook his head.
+
+"My business lies yonder," he said, pointing with a nod of his head toward the unseen camp. "With wizards." Helm's fierce grin faded. "Are ye ready yet?" he asked quietly. "Really, lad?" Elminster spread his hands, crossbow in one. "There's one down there, at least, who knows who I am and what I look like." Helm frowned and nodded, urged his mount forward, and clapped Elminster on the shoulder. "Then I hope to see ye alive again, Prince." As his horse circled, he asked, "Would a wild outlaw charge into camp be any help?" El shook his head. "Nay, Helm-just ride down those arms-men. If ye get every last one of them, Lawless Castle may be safe for a winter or two yet- so long as all outlaws have the sense to abandon it this summer.
+
+When the snows are gone, the wizards'll be sure to scour these hills with all the spells and swords they can muster." Helm nodded. "Wise talk. Let us meet again among the living." He raised his blade in salute-Elminster lifted his bow in response-and spurred away as the snow began to fall again. Soft flakes drifted down endlessly. Elminster ate a handful of snow to get a drink, recovered his bows and readied them, and set out over the hills toward the camp. He walked in a wide curve to the right, hoping to come on it from the other side ... though with spells, couldn't wizards see in all directions? Well, no doubt they run out of magic the same way armsmen run out of quarrels. He'd just have to count on their not scrying for a lone boy on foot in the snows.
+
+If he saw this night through, El reflected, he'd owe the gods much, indeed.... *****

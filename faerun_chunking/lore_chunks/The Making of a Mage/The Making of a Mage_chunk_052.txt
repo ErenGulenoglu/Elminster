@@ -1,0 +1,13 @@
+=== METADATA ===
+chunk_index : 52
+characters  : elminster
+events      : Elminster prepares to leave after a meal, promises to hide his magical pendant.
+location    : Shadowdale
+=== CONTENT ===
+Warriors have to stand tall and wave blades . . . and be seen and slain by any mageling that points a wand their way, and outlaws must needs come out to seize food all too often. You've probably seen enough of the wilderlands of your realm to satisfy your curiosity. 'Tis time to learn the ways of the city, of thieving. It prepares one for ruling, some say." He lifted a corner of his mouth at his own jest. "Besides, a warrior's way is no more nor less safe than being a thief; any man can be overcome if caught alone-as you learned tonight-and if you wait long enough ..." El grinned like a wolf over dinner, rose, and took hold of the magelord's legs. "Have ye a shovel?" Broarn returned the look.
+
+"Aye, and a nice warm manure pile to dig with it, Prince." They clasped each other's arms, as one warrior to another. ***** "At least get some more food into you before you move on," Broarn grunted, handing a tray into the end stall. Elminster took it; steam and a delicious smell were rising together from a bowl on the tray. "Nay," he said, "I should be-" And then his stomach growled so loudly that he and the innkeeper both laughed. "Mind you take that pendant with you when you go, and hide it somewhere else," Broarn said sternly. "I don't want magelords tracing it here, digging it up from whatever clever hidingplace you've chosen, and then trying to gently 'question' me with their spells." "It will leave with me," Elminster promised.
+
+"It's under a stone on the road outside right now, where a road-thief might have left it." "Well enough," said Broarn, "so I-" He broke off and held up a hand to bid Elminster to silence.
+
+Then the innkeeper bent his head to the hatch at the back of the stables, listening intently. After a moment, he slid his hand back through the side door. It reappeared clutching the old axe, raised and ready. Elminster drew the broken Lion Sword and sank down in the stall, holding up a large armload of straw to conceal himself, though betraying steam rose idly from the tray. The hatch opened in well-oiled silence. Broarn stood calmly just inside it and broke into a smile at about the time a familiar voice said, "Waiting up for me, dearest? Wert expecting me?" "In with you, Helm, while there's still some warmth in my stables," the innkeeper growled in reply, stepping back. "I brought friends," the knight said as he stepped into the room, looking dirtier than ever.

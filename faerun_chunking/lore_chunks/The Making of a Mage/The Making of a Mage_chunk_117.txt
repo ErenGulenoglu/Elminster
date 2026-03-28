@@ -1,0 +1,13 @@
+=== METADATA ===
+chunk_index : 117
+characters  : elminster, mystra
+events      : Elminster meets Mystra in her temple; Mystra introduces herself and explains her divine role
+location    : Mystra's Temple
+=== CONTENT ===
+must be a wizard? What then?" "I'd try to be a good one," Elminster replied, shrugging again. Did temple wizards just talk to every intruder all the night through? Still, it felt good to speak openly at last to someone who listened and seemed to understand but not judge. "Would you make yourself king?" Elminster shook his head. "I'd not be a good one," he said. "I have not the patience." He smiled suddenly and added, "Yet if I found a man or a maid who'd wear the crown well, I'd stand behind him or her. That, I think, is the true work of a wizard-to make life in the lands he dwells in good for all who dwell there." Her smile, then, was dazzling. Elminster felt sudden power in the air around him. His hair crackled, and his skin tingled.
+
+"Will you kneel to me?" the sorceress asked, striding nearer. Elminster swallowed, mouth suddenly dry. She was very beautiful, and yet somehow terrifying, her eyes and hair alight with power like flame waiting to burst forth. Trembling, Elminster held his ground and asked, "L- Lady, what is thy name? Who are ye?" "I am Mystra," came a voice that crashed around him like a mighty wave smashing on rocks. Its echoes rolled around the chamber. "I am the Lady of Might and the Mistress of Magic! I am Power Incarnate! Wherever magic is worked, there am I- from the cold poles of Toril to its hottest jungles, whatever the hand or claw or will that works the sorcery! Behold me and fear me! Yet behold me and love me-as all who deal with me in honesty do. This world is my domain.
+
+I am magic, mightiest among all those men worship. I am the One True Spell at the heart of all spells. There is no other." Echoes rolled away. Elminster felt the very pillars of the temple shaking around him. He wavered in awe, like a man struggling in a high wind, but kept his feet. Silence fell, and their eyes met. Golden flames burned in her gaze. Elminster felt as if he were burning inside; hot fire raced along his veins, pain rising in him like an angry red wave. "Man," the goddess said, in an awful whisper, "do you defy me?" Elminster shook his head. "I came here to curse thee or desecrate thy holy place or demand aid from thee, but now-no. I wish ye hadn't let the magelords slay my parents and ruin my realm, and I would ... know why.
+
+But I have no wish to defy ye." "What do you feel, instead?" Elminster sighed. Somehow he'd felt he had to speak the truth since her

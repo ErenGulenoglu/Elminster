@@ -1,0 +1,15 @@
+=== METADATA ===
+chunk_index : 1
+characters  : elminster, mourngrym, lhaeo
+events      : Mourngrym searches Elminster's tower for him
+location    : shadowdale
+=== CONTENT ===
+Elminster: The Making of a Mage By Ed Greenwood
+
+There are only two precious things on earth: the first is love; the second, a long way behind it, is intelligence. Gaston Berger Life has no meaning but what we give it. I wish a few more of ye would give it a little. Elminster of Shadowdale verba volant, scripta manent
+
+Prelude "Of course, Lord Mourngrym," Lhaeo replied, gesturing up the stairs with a ladle that was still dripping jalanth sauce. "He's in his study. You know the way." Mourngrym nodded his thanks to Elminster's scribe and took the dusty stairs two at a time, charging urgently up into the gloom. The Old Mage's instructions had been quite- He came to a halt, dust swirling around him mockingly. The cozy little room held the usual crammed shelves, worn carpet, and comfortable chair . . . and Elminster's pipe was floating, ready, above the side table. But of the Old Mage himself, there was no sign. Mourngrym shrugged and dashed on up the next set of stairs, to the spell chamber. A glowing circle pulsed alone on the floor there, cold and white. The small circular room was otherwise empty.
+
+The Lord of Shadowdale hesitated a moment, and then mounted the last flight of stairs. He'd never dared disturb the Old Mage in his bedchamber before, but... The door was ajar. Mourngrym peered in cautiously, hand going to his sword hilt out of long habit. Stars twinkled silently and endlessly in the dark domed ceiling over the circular bed that filled the room-but that resting place hadn't been slept in since the dust had settled. The room was as empty of life as the others. Unless he was invisible or had taken on the shape of a book or something of the sort, Elminster was nowhere in his tower. Mourngrym looked warily all around, hairs prickling on the backs of his hands. The Old Mage could be anywhere, on worlds and planes only he and the gods knew of. Mourngrym frowned- and then shrugged.
+
+After all, what did anyone in the Realms- besides the Seven Sisters, perhaps-really know about Elminster's plans or his past? "I wonder," the Lord of Shadowdale mused aloud as he started the long walk back down to Lhaeo, "where Elminster came from, anyway? Was he ever a young lad? Where . . . ? And what was the world like then?" It must have been great fun, growing up as a powerful wizard....

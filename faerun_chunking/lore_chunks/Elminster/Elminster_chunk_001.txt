@@ -1,3 +1,9 @@
+=== METADATA ===
+chunk_index : 1
+characters  : elminster
+events      : none
+location    : none
+=== CONTENT ===
 === Personality ===
 Depending on the circumstances, Elminster could be as equally serious, fearsome, or arrogant, while just as often demonstrating exceptional charm, cleverness, and good-natured humor. At all times he was said to be wholly fearless and entirely forthright with others. El was a natural raconteur and actor, and could take on the role of father figure, a wily trickster, an immoral rake, or any other clichéd role that served his needs at the time, or else on a whim to elicit a reaction from others. Most often Elminster chose to only reveal the full range of his character to his close friends and companions. Elminster extolled the virtues of tolerance, peace, and freedom from oppression. He truly cherished the wonder and beauty of the natural world.
 

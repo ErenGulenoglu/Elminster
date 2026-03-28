@@ -1,0 +1,13 @@
+=== METADATA ===
+chunk_index : 13
+characters  : bellard, helm
+events      : Discussion about a dragon attack, planning looting
+location    : none
+=== CONTENT ===
+man's voice said sarcastically. "And the rest fell over just because they were tired of standing up, eh?" "Enough, Bellard. Everyone's dead, aye-but there's no sword work, not an arrow to be seen. Wolves have been at some of the bodies, but not a one's been rummaged. I found a gold ring on one lady's hand that shone at me clear down the street." "What kills with fire, then-an' knocks down cottages?" "Dragons," said another voice, lower still, and grim. "Dragons? And we saw it not?" The sarcastic voice rose almost jestingly. "More'n one thing befalls up an' down the Delimbiyr that ye see not, Bellard. What else could it be? A mage, aye-but what mage has spells enough to scorch houses an' haystacks an' odd patches of meadow, as well as every stone-built building in the place?" There was a brief silence, and the voice went on.
+
+"Well, if ye think of any other good answer, speak. Until then, if ye've sense, we'll raid only at dawn, before we can be well seen from the air-an' not stray far from the forest, for cover." "Nay! I'll not sit here like some old woman while others pick over all the coins and good, only to be left fighting with wolves over the refuse." "Go then, Bellard. I stay here." "Aye-with the sheep." "Indeed. That way there may be something for you to eat- besides cooked villager-when you're done ... or were you going to herd them all down there an' watch over them as you pick through the rubble?" There was a disgusted snort, and someone else laughed. "Helm's right, as usual, Bel. Now belt up; let's go.
+
+He'll probably have some cooked for us by nightfall, if you speak to him as a lover would instead of always wagging the sharp-tongue . . . what say, Helm?" The grim voice answered, "No promises. If I think something's lurking that might be drawn by a smoke-plume, the meat'll be cold. If any of ye sees a good cauldron there-big and stout, mind-have the sense to bring it back, will ye? Then I can boil enough food for us to eat all at once." "And your helm'll smell less like beans for a while, eh?" "That, too. Forget not, now." "I'll not waste my hands on a pot," Bellard said sullenly, "if there's coins or good blades to be had." "No, no, helmhead-carry thy loot in the pot, see? Then ye can bring that much more, nay?" There were chuckles.
+
+"He's got ye there, Bel." "Again." "Aye, let's be off." Then there came the sounds of scrambling and

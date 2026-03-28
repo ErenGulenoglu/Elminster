@@ -1,0 +1,13 @@
+=== METADATA ===
+chunk_index : 44
+characters  : elminster
+events      : Elminster fights through a camp, wounds mage-lord
+location    : none
+=== CONTENT ===
+thrust left him groaning over the blade in his guts. As El tugged his steel free, the next armsman approached warily. Elminster bent, plucked a dagger from the belt of the feebly moving man he'd just felled, and ran to one side. The surviving foe was still circling when Elminster sped away, back toward the camp. A man in gleaming armor met him just inside the circle of light, a halberd in his hands. Elminster ran for the blade, batted it aside with his own, and stabbed. The armor turned his point aside, but then he was past, charging right into a tripod of halberds. They toppled, and the lantern they held shattered and set a tent ablaze with a sudden roar. Men shouted.
+
+In the intense, leaping light, El saw the mage-lord stagger away, the quarrel still in his shoulder, but men with gleaming swords were running toward him, between him and the wizard. Elminster snarled and turned sharply to the right, dodging between tents and away from the light. He blundered right into a man coming out of one tent and stabbed frantically; the surprised armsman toppled onto the canvas without a sound. Wearily, Elminster headed out into the night. If he could circle back to his bows, and . . . but armsmen were close behind him and running hard. Well, at least there were no bowmen in camp, or he'd be dead already. Elminster hurried over a hill and dropped down out of sight of the raging flames that now marked the camp. Looking back, he could see two men following.
+
+He slowed to a walk, and began his wide circle. Let them draw nearer, and save him the breath. Panting, he topped another ridge and saw men gathered below, and horses; Helm's band. Some of them looked up and started toward him with swords drawn, but Helm saw him and waved. "Eladar! Done?" "One wizard dead, but the other just wounded," El managed to gasp. "Half... the camp ... is after me, too." Helm grinned. "We were resting our horses-and looting armsmen. Some o' them were wearing armor much too good for 'em. Change yer mind about that charge?" El nodded wearily. "Seems ... a better idea ... now," he said, breathing heavily. Helm grinned, turned and gave quick orders, and then pointed out a horse.
+
+"Take ye that one, Eladar, and follow me." Leaving four outlaws behind with the loot and extra horses, the ragged knights of Athalantar rode along the way Elminster had come. One had scrounged a short horse bow; as they crested the hill, he drew and loosed, shoulders rolling smoothly, and one of the armsmen who'd been following

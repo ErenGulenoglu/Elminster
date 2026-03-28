@@ -1,3 +1,9 @@
+=== METADATA ===
+chunk_index : 7
+characters  : elminster, mystra
+events      : Elminster's birth, parents' death, rescue by Helm Stoneblade, time as thief in Hastarl, meeting Magister Dorgon, transformation into Elmara by Mystra
+location    : Heldon, Athalantar, Hastarl
+=== CONTENT ===
 === History ===
 Elminster was born in the Year of the Awakening Magic, 212 DR , to Amrythale Goldsheaf and Elthryn Aumar , lord of the village of Heldon and prince of Athalantar . When he was just a boy, El's parents were slain and his village was decimated by Undarl , one of Athalantar's malevolent magelords . Left as the only survivor of the slaughter, the young Elminster took his father's broken blade, the Lion Sword that served as a symbol of the great king of the Stag Throne, and found a new life foraging for himself. El was rescued by Helm Stoneblade and taken to live with the outcast Knights of Athalantar , who had meted out their own form of justice as brigands out of their hideout in the Horn Hills .
 

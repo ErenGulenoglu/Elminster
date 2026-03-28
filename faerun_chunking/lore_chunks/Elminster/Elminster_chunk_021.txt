@@ -1,3 +1,9 @@
+=== METADATA ===
+chunk_index : 21
+characters  : elminster, amarune whitewave, manshoon, storm, alassra
+events      : Elminster survives assassination attempt, possesses Amarune's body, trains her; Manshoon manipulates Cormyr nobility; Alassra cured, restores Elminster, reveals mission against Imprisoner
+location    : Royal Palace, Forest Kingdom, Cormyr, Underdark
+=== CONTENT ===
 In order to achieve these ends, El specifically sought to recruit the efforts of his descendent, Amarune Whitewave . During one of his excursions into the Royal Palace that same year, Elminster seemed finally slain by Manshoon, who had secretly been peeling away the Old Mage's contingency spells over several years. However, Manshoon departed before he realized that Elminster had survived his body's destruction in a near- undead state. With Amarune's consent and the aid of Storm, Elminster's essence was placed in the body of his great-grandaughter by means of a spell the ex-Chosen had discovered in a cache once belonging to Azuth. He then sought to train his great-granddaughter while attempting to defend the Forest Kingdom from Manshoon and traitorous nobles alike.
 
 He shared Rune's body with her for a time, but soon discovered how to also cohabit the body of her paramore, Lord Arclath Delcastle , along with his consciousness. As El learned to navigate his new bodiless existence, Storm discovered a means of permanently curing Alassra of her madness: by helping her consume one of the powerful blueflame items seemingly created during the Spellplague. Meanwhile, the Manshoon of Westgate was enacting a convoluted scheme to manipulate the nobility of Cormyr and install himself as Emperor of Cormyr. The situation came to a head as El, Storm, and the others struggled to offer the blueflame item to Alassra within a secluded cave, and Manshoon appeared before them all.

@@ -1,3 +1,9 @@
+=== METADATA ===
+chunk_index : 3
+characters  : elminster
+events      : none
+location    : faerûn, toril, dalelands, coliar
+=== CONTENT ===
 === Activities ===
 Throughout his long life Elminster traveled across the Realms —along with other planets (including Oerth ) and extra-worldly planes of existence ―fighting off the forces of evil and preventing the destruction of Faerûn from one danger or another. He saw himself as a caretaker of the Realms, and more often than not something of a meddler, who always strived to preserve its long-term health and prosperity over any immediate threats that arose. Following his "retirement", Elminster continued to gallivant across Toril , but did spend more time in seclusion at his home in the Dalelands . During that time of his life, El was less inclined to speak to visitors or other strangers that came by his "humble abode".
 

@@ -1,3 +1,9 @@
+=== METADATA ===
+chunk_index : 11
+characters  : elminster, mystra, saeraede lyonora
+events      : El faces Dasumia, Mystra reveals herself; El frees Saeraede who attacks him before being killed; El is given visions by Mystra of his past and future tasks
+location    : none
+=== CONTENT ===
 As Dasumia tortured innocents and prepared a ritual for her dark god, El was compelled to take action. He refused to strike down her victims as directed and attacked Dasumia with what minimal magic he could cast. In the end, Dasumia revealed herself to be the goddess Mystra herself, once again testing El and his faith. Around that time, magic had become unreliable and unexpected effects appeared whenever spells were cast. Some began to panic and speculated about whether Mystra still lived. Elminster was drawn to an ancient repository of magic created by the Netherese arcanist Karsus , where he freed the long-imprisoned Spellcaster Saeraede Lyonora . Saeraede enticed El with powerful magic that had been forbidden by Mystra, and attacked him, before being slain herself by an embittered foe from El's past. After all he had gone through, Elminster felt dejected and lost.
 
 He reiterated his faith to Mystra and prayed to the goddess in earnest. El was given visions of all he could have had in life had he not devoted his life to his worship, saw everyone he had lost over the past 500-odd years, and even witnessed the arcane power he could have, had he chosen to take it for himself. In one of El's darkest moments, Mystra appeared before him and stated his most important task was just ahead: the rearing of her daughters. By the Year of the Awakening Wyrm, 767 DR , Dornal and Elué had seven daughters, but tragically Elué's mortal body could not handle Mystra's divine possession. When Dornal learned that Elué was in-effect possessed by a supernatural entity, he tried to murder her and then abandoned his daughters.

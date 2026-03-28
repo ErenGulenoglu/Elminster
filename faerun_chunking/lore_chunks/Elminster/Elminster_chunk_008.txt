@@ -1,3 +1,9 @@
+=== METADATA ===
+chunk_index : 8
+characters  : elminster, myrjala, undarl, helm stoneblade, mystra, srinshee
+events      : Stormed Athalantar's capital, defeated Undarl, Mystra proposed Elminster become one of her Chosen
+location    : Athalantar, Cormanthor
+=== CONTENT ===
 Over time however, Elmara felt compelled to "reveal" to Myrjala his true identity as Elminster, and shared his quest to take back Athalantar from the malevolent magelords. As an avatar of Mystra, Myrjala of course was fully aware of El's shared identities. Elminster and Myrjala set out together, rallying allies from among the elves of the High Forest , the exiled Knights of Athalantar, and the Velvet Hands of Hastarl. In the Year of the Chosen, 240 DR , Elminster and his friends stormed Athalantar's capital city, defeated Undarl Dragonrider , the Mage Royal that slew El's family, and reclaimed the Stag Throne from his uncle Belaur . But Elminster had no desire for kingship, and quickly abdicated in favor of his friend, Helm Stoneblade , honored knight of Athalantar. After a night of revelry and celebration, Elminster and Myrjala departed the kingdom.
 
 On their way out, however, Undarl revealed himself as one of the malaugrym from a different plane of existence and attacked them on the road out of the city. Myrjala's magic was ineffective against the otherworldly creature and she appeared to die from its spells. To prevent Elminster from foreswearing the use of magic, Mystra revealed herself to Elminster and proposed that he become one of her Chosen. Elminster readily agreed. The following year , Elminster traveled to the city of Cormanthor to continue his magical studies with the elves under Mystra's direction. He walked east from Athalantar, across the Heartlands and through eastern border of Cormyr before arriving at the Forest of Cormanthor . While in the forest, he unsuccessfully tried to defend a dying elf from hobgoblins .

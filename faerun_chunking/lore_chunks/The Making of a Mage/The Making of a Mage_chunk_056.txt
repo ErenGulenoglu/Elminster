@@ -1,0 +1,11 @@
+=== METADATA ===
+chunk_index : 56
+characters  : elminster
+events      : Elminster and Farl observe targets for nighttime robbery
+location    : Hastarl
+=== CONTENT ===
+Four THEY COME OUT AT NIGHT Thieves? Ah, such an ugly word . . . think of them instead as kings-in- training. Ye seem upset, even disputatious. Well, then, look upon them as the most honest sort of merchant. The character Oglar the Thieflord in the anonymous play Shards and Swords Year of the Screeching Vole It was just one more in an endless string of hot, damp days in the early summer of the Year of the Black Flame. Folk in Hastarl had taken to lying more or less unclad on the flat stretches of their rooftops and their balconies after sunset, hoping for a breeze to blow over their skin and bring them some fleeting moments of comfort. This was good for both pleasure and business-the predictable pleasure, and one business in particular. "Ah," Farl said softly, leaning forward to peer out of the slit window.
+
+The show of flesh beginneth again, so it doth." "When ye've finished drooling down the stonework," the slim, beak-nosed youth behind him said dryly, "do ye hold the line while I go down." "That'll be about dawn, I'd say," was the reply. "Aye, then, hold the line now and look later." Elminster cast a glance over the head of his fellow thief and squinted professionally. "Ah, yes, quite a tattoo there .. . though how the man sees it, with the curve of his belly between his eyes and where it is, only the gods can know." Farl chuckled. "Think of what it must have felt like, getting it, too." He winced with an exaggerated flourish, and added, "But you're supposed to be looking at the maids, El, not at the men!" "Ah, I've got to learn to tell the difference. It gets me into more trouble," Elminster replied serenely.
+
+Then what he'd been waiting for befell: a large bank of clouds drifted across the moon. Without another word, he slipped through the narrow window, one hand on the rope harness, and was gone. Farl settled the smooth leather rope slide securely on the sill, and with surprising strength slowed the line gliding through it to a gentle, continuous movement until a sharp jerk told him to stop. He thrust a dagger into one of the holes in the wheel from which the rope unwound, then looked out the window.

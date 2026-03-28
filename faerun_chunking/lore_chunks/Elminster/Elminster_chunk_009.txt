@@ -1,3 +1,9 @@
+=== METADATA ===
+chunk_index : 9
+characters  : srinshee, elminster
+events      : Elminster welcomed and framed, creates Myth Drannor mythal, Lady Laurlaethee attempts murder, Harpers founded
+location    : cormanthor, myth drannor
+=== CONTENT ===
 With the Srinshee's blessing, Elminster was openly welcomed as the first human granted permission to dwell in Cormanthor, named Sha'Quessir (or elf-friend), and granted the title of Armathor of the Coronal Guard by Coronal Eltargrim. However, those that opposed opening Cormanthor to non-elves tried to use Elminster as proof that humans and other undesirables were detrimental to elvenkind, and framed him for murder. Despite the allegations, El garnered some respect among the forward-thinking elves of the city, recognition that was bolstered in part due to Coronal Eltargrim and the blessing of Mystra. Eventually, Elminster was apprenticed to a cruel and powerful wizard from House Starym known only as "The Masked" , and compelled to toil away for 20 years under oppressive conditions. Despite the poor working conditions, Elminster's made significant contributions to the formation of Cormanthor's first mythal , which protected the city from outsiders.
 
 While some sought to subvert El's involvement in the High Magic ritual, and twist it to their own political aims, the raising of the mythal was a momentous occasion. The mythal was completed in the Year of Soaring Stars, 261 DR , and the newly renamed city of Myth Drannor was opened to non-elves for the first time in history. Unfortunately El could not find true peace in Myth Drannor and attempts on his life continued. On Tarsakh 4 of that year, Lady Laurlaethee Shaurlanglar attempted to slay the Old Mage, first by lacing his moonwine with srindym poison, and when that failed, attempting to kill him with spells. She was ultimately unsuccessful and was subdued by a greater mage.

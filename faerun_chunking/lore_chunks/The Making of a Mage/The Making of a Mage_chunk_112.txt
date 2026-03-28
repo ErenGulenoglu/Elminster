@@ -1,0 +1,13 @@
+=== METADATA ===
+chunk_index : 112
+characters  : elminster, lord ildru
+events      : Elminster captured and confronted by Lord Ildru in a temple
+location    : athalantar
+=== CONTENT ===
+Elminster began to glow. All of the stone in the temple began to shine until a soft, pearly-white radiance filled the room, revealing the young thief for everyone to see. In this case, 'everyone' was more than a score of armsmen, advancing across the chamber with grim faces and ready spears. The man who'd spoken stood in their midst and said, "Just a thief. Hold weapons." "What if he runs, lord?" The robed man smiled and said, "My magic will force him to walk where I want him to, and nowhere else." He gestured, and Elminster felt a sudden tugging at his limbs ... a tingling, numbing trembling akin to what he'd felt on that terrible day in the meadow above Heldon, long ago. His body was no longer his own; he found himself turning, sick despair rising inside, and walking toward the men. No, toward the altar.
+
+A bare circular block of stone, with not even a rune to grace it. The armsmen raised their spears and ringed him in as he came. "The law holds that those who desecrate temples be put to death," an old armsman growled, "on the spot." "Indeed," the robed man said, and smiled again. "I, however, shall choose that spot. When this fool's on the altar, you may throw your spears at will. Fresh blood on Mystra's altar will allow me to work a magic I've long wanted to try." Elminster strode steadily on toward the altar, raging inwardly. He had been a fool to come here. This was it, then. His death, and an end to his futile fight against the magelords. Sorry, Father . . . Mother. . . .
+
+Elminster broke into a run and charged the altar, hoping he might somehow break free and knowing he could do nothing else. At least he could die trying to do something. The wizard merely smiled and crooked one finger. Elminster's rush became a smooth trot until he stood in front of the altar. The mage turned him about again, until they stood facing each other. Then the wizard bowed. "Greetings, thief. I am Lord Ildru, magelord of Athalantar. You may speak. Who are you?" Elminster found that he could move his jaws. "As you said, Magelord," he responded coldly, "a thief." The wizard raised an eyebrow. "Why came you here, this night?" "To speak with Mystra," Elminster said, surprising himself. Ildru's eyes narrowed. "Why? Are you a mage?" "No," Elminster spat, "I am proud to say.
+
+I came to get Mystra's aid to cast down magelords like you-or curse her if she refused." The wizard's brows shot up again. "And just what made you think Mystra

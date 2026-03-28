@@ -1,3 +1,9 @@
+=== METADATA ===
+chunk_index : 2
+characters  : elminster
+events      : none
+location    : none
+=== CONTENT ===
 === Abilities ===
 Before he devoted his life to the Mystran faith or began his wizardly studies, the young Elminster possessed the innate ability to heal himself and detect magical auras at will. El was exceptionally intelligent—a gift that was bolstered by multiple castings of the wish spell. He was also blessed with an eidetic memory, that allowed him to recall information from years past in quite an impressive manner. Elminster's memories may not entirely have been his own, however. It was speculated that some of his remembrances were implanted in his mind by Mystra, to best facilitate his transformation to the instrument of her will that the Realms truly needed. Regardless of the veracity of his memories, El considered his exceptional memory as something of a curse.
 

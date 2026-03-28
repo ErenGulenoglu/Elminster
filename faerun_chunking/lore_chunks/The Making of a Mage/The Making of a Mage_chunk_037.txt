@@ -1,0 +1,11 @@
+=== METADATA ===
+chunk_index : 37
+characters  : elminster
+events      : Elminster chases after Heldreth's Horn
+location    : Lawless Castle, Heldreth's Horn
+=== CONTENT ===
+There was the horse-alone and unguarded, thank the gods! In a few breaths, Elminster had tied his gear to a seemingly endless collection of saddle-straps and thongs, and was in the saddle, urging the patrol-mount to follow the armsmen's trail. It went willingly enough, but slipped and slid in the snow in something a little faster than a trot and a lot slower than a gallop. The tracks ahead were clear and easy to follow so Elminster kicked his heels at the horse's flanks and urged it on. He had to get to Heldreth's Horn before any wizard there caught sight of him by some sort of scrying-spell and dealt death from afar. Soon he was riding hard, the crossbows bouncing bruisingly at his back, and the mist of his breath streaming back behind him into the darkening air. Night was coming down fast over the hills.
+
+He had to succeed; the lives of the outlaws trapped back at Lawless Castle depended on it. As he rode, he smiled at a sudden memory: his father's careful lessons on the duty of every man and maid in the kingdom, from farmer to king. If Elthryn had dwelt longer on the duties of king and prince than on those of a farmer or miller, Elminster had thought this only right-the duties were so much grander, the power mightier, the responsibilities heavier than those of all others. He'd not for a moment suspected that he was a prince or would become one when Elthryn died. He recalled clearly his father's words: "A king's first duty is to his subjects. Their lives are in his hands, and he must always look to their brightest, surest future in what he does.
+
+All depend on him-and all are lost if he neglects his duties, or governs by whim or wilful heart. Obedience is his due, aye, but he must earn loyalty. Some kings never learn this. And what are princes but young wilful lads learning to be kings?" "What indeed, Father?" Elminster asked the wind of his passing as he rode hard for the Horn. The wind did not deign to reply.

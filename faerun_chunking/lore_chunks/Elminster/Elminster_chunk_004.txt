@@ -1,3 +1,9 @@
+=== METADATA ===
+chunk_index : 4
+characters  : elminster, narnra shalace, simon aumar, farl, khelben arunsun, gorion, rhauntides, maris khorma terrabin, yandrin thorl, regent alusair obarskyr, count gamalon idogyr, mei lung, ed of the greenwood, mordenkainen, rautheene, dalamar, ambara, anamanue, astorma
+events      : Elminster's birth, relationships and lineage revealed
+location    : none
+=== CONTENT ===
 === Relationships ===
 While El's parentage and family were known to few, he was in fact born to Elthryn Aumar son of Uthgrael , one of the seven Princes of Athalantar, and Amrythale Goldsheaf , daughter of a woodsman. El was believed to have had many lovers over the course of his life, and sired at least one child, Narnra Shalace , the 'Silken Shadow' of Marsember . He was also the great-great grandfather of Simon Aumar , a half-elf sorcerer and thief. Elminster counted upon many friends and allies throughout his life, from his fellow thief Farl ; to long-time ally and friend, fellow archmage , and often ideological rival, Khelben Arunsun . He was colleagues with many prominent sages, scholars, and spellcasters, including Gorion of Candlekeep , Rhauntides of Highmoon , Maris Khorma Terrabin of Cormyr , and Yandrin Thorl of Archendale , among many others.
 

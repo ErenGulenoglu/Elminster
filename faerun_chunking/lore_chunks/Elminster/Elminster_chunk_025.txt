@@ -1,3 +1,9 @@
+=== METADATA ===
+chunk_index : 25
+characters  : elminster, mirt, laeral silverhand, gale dekarios, gerana
+events      : Investigation and battle against Penultima cult led by Sammaster
+location    : waterdeep, baldur's gate, adenthia
+=== CONTENT ===
 Later on, in the Year of the Scarlet Witch, 1491 DR , Elminster and former Lord of Waterdeep Mirt ―who had been restored to life after his consciousness remained within a blueflame weapon for over a century―returned to the city of Waterdeep. Together they aided the city's recently appointed Open Lord Laeral Silverhand identify the culprits responsible for murdering numerous Masked Lords . The following year , Elminster involved himself in the emergent Absolute crisis that threatened all of Baldur's Gate and the Sword Coast. He sought after Gale Dekarios , a fellow wizard and lover of Mystra, who bore a Netherese destruction orb within his chest. At some point, Mystra sent Elminster to the world of Adenthia to investigate dracoliches terrorizing its lands; Elminster suspected the Adenthian form of magical called chaos power was infecting her own magic.
 
 After destroying a few and learning they were connected to the local Penultima cult, he enlisted the aid of a local adventurer, the halfling mechanic Gerana , and her companions. At a local tavern, they ran into a Penultima cultist who boasted of the dracoliches' power and directed them to their next attack. There, they discovered weakened, imitation dracoliches raised using chaos power from ancient dragon bones, but prone to madness, rage, and spontaneous disintegration. Fortunately, Gerana resonated with the chaos power in the bones and led Elminster to a wizard's tower guarded by a Penultima cultist. Inside, they found a copy of the Tome of the Dragon , a long way from Toril, before cultists summoned them to meet their new leader: none other than Elminster's old foe Sammaster.
