@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 123
-characters  : elmara, mystra
-events      : A glowing elf threatens Elmara with a sword of light
+characters  : elmara, mystra, delsaran, baerithryn
+events      : First meeting between Elmara and an elven figure with a glowing hand; Elmara's prayer to Mystra heard, lighting a tree on fire
 location    : none
 === CONTENT ===
 She knelt there for a few breaths, hoping for some sign or word from the goddess, but there was nothing but darkness under the trees, and a faint whiff of woodsmoke. But then, why should she expect anything more? She'd never seen Mystra in all her life before last night. . . and there were other folk and other doings in Faerun besides Elminster of Athalantar. Elmara, she corrected herself absently. What did gods spend their days at, anyway? And then a booted foot came down softly on the ground she was staring at, treading firmly on the Lion Sword. She gasped and looked up. Proud eyes-elven eyes-stared down at her, and their gaze was not friendly. A hand was extended toward her, and there was a sudden glow of light from its palm.

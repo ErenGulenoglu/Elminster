@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 293
 characters  : elminster, mystra
-events      : Mystra grants Elminster power
+events      : Elminster joins Mystra's Chosen; painful transformation
 location    : none
 === CONTENT ===
 and your welcome in others will be born of fawning fear." She drifted a little apart from him and turned them both, until they hung upright in the air, facing each other. "Moreover, I will not think ill of you if you refuse. You have done far more already than most mortals ever do." Her eyes glowed. "More than that, you fought at my side, trusting me always, and never betraying me or seeking to use me for your own ends. It is a memory I shall always treasure." Elminster began to weep again. Through the tears, he managed to say huskily, "Lady, I beg of ye-command me! Ye offer me two things that are precious indeed, thy love and a purpose for my life! What more can any man ask than those? I would be honored to serve ye ...

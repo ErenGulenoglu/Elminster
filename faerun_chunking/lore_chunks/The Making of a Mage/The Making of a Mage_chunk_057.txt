@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 57
-characters  : elminster
-events      : Elminster steals gems from a merchant's room while he sleeps
-location    : none
+characters  : elminster, farl
+events      : Elminster enters merchant's bedchamber for theft, risks being caught
+location    : tower
 === CONTENT ===
 Directly under him, in the empty air beneath the outthrust upper room of the tower, Elminster calmly hung suspended outside the window of the room below. One of his hands-the hand wearing a wrapping coated with sticky honeycake-was on the tower wall; El was keeping himself to one side of the window, out of the view of the room's occupants. He peered in for what seemed a very long time before raising his hand in a signal, not looking up. Farl passed the reachers down on their own lines. Hanging there in the quickening night breeze, Elminster took hold of them: two long, thin wooden sticks with wrist-braces at one end, like crutches, and sticky balls of precious stirge glue on their other ends. A hooked and pad-ended side-prong jutted from one stick.
 

@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 128
 characters  : elminster
-events      : Elmara forgives Elminster
+events      : Elminster grants power to Elmara
 location    : none
 === CONTENT ===
 More than that: sometimes, things must be faced and fought alone." He took hold of her shoulders and gently pushed her away until they stood facing each other. Then he smiled and raised a hand-and it suddenly held a steaming bowl. A heavenly scent of cooked fowl swirled around them both. "Care to dine?" Elmara laughed weakly and nodded. Braer whirled his other hand, and out of nowhere a silver goblet appeared in it. He handed it to her with a flourish. When El took it, Braer spun his hand grandly again, and this time two ornate forks and dining-knives appeared. He gestured for her to sit. Elmara discovered she was ravenous. The forest bustards had been cooked in a mushroom sauce and were delicious-and the goblet proved to be full of the best mint wine, incredibly clear and heady.

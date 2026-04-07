@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 105
-characters  : none
-events      : none
-location    : none
+characters  : nanue, elminster
+events      : Nanue struggles in chaos; Elminster leaves; thieves clash over stolen stag
+location    : Stirges' Nest
 === CONTENT ===
 The reek that arose was incredible; it even made the thief, gloved hand about to close on what was left of the stag, recoil. This sudden movement sent him skidding on a fragment broken off the statue, and he sat down hard, jarring a portrait down off the wall. Roaruld Trumpettower, Scourge of Stirges-depicted holding a glass of blood aloft in one hand and a wrung-out, limp-winged stirge in the other-landed with a crash that shook the room, hopped forward as the frame shivered, and smashed down atop the thief. The stag spun away again, still growing smaller. Nanue sobbed at the overpowering smell as she wallowed in glass shards and spilled perfume; she was drenched with half a hundred secret oils and glowing daubs, and the tiles were so slippery she couldn't find footing. At length, weeping with frustration-and at the smell-she started to crawl toward the nearest rug.
 

@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 33
 characters  : elminster
-events      : Elminster fights outlaws near Athalantar
+events      : Elminster engages in battle for vengeance against outlaws in Athalantar.
 location    : Athalantar
 === CONTENT ===
 "For Elthryn, prince of Athalantar!" he snarled as he dealt death, and the warrior under his knees managed a startled look before all light fled from behind his eyes. Elminster flung himself aside in a roll. Quarrels and spears from both ends of the ravine crossed in the air above the dead warrior where he'd been kneeling. Scrabbling in the snow, El-minster slew the man who was still clutching his bleeding hand. "For my mother, Amrythale!" Panting, he took up the man's bow and ducked behind a rock to catch his breath and ready the weapon. His boots bristled with spare daggers now, and the bow was soon loaded. He crouched low, cradled it in his arms, and came around the last rock with his finger on the trigger. No one was there. Elminster stood frozen for a moment, and then knelt down.

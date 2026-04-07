@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 133
 characters  : elmara, braer
-events      : Braer encourages Elmara to leave him, reveals she'll meet a priestess of Mystra at Ladyhouse Falls.
-location    : Athalantar
+events      : Braer encourages Elmara to leave, revealing she'll meet an archmage priestess of Mystra at Ladyhouse Falls.
+location    : Farl, Ladyhouse Falls
 === CONTENT ===
 grow restless to move on." He held up a hand as she made a small sound of protest, and went on. "Nay, lass; I can see it in you and hear it in you, and for you it is right. You can never be free, never be yourself, until your parents have been avenged and you've set Athalantar back to what you think it should be. You're driven by this, and it's a burden no one in Faerun can lift but you, by doing the deeds you've set yourself." He smiled wryly. "You didn't want to leave Farl, and now you don't want to leave me. Are you sure you shouldn't stay a woman the rest of your days?" Elmara made a face and added softly, "I didn't know I had a choice." "Not yet, perhaps, but you will... when you start to become a realm- shattering archmage.
 

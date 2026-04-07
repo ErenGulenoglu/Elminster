@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 75
-characters  : elminster, farl
-events      : Farl shares his past, plans revenge
+characters  : farl, elminster
+events      : First meeting between Farl and Elminster; they plan revenge against Lord Hawklyn
 location    : Hastarl
 === CONTENT ===
 Besides, the magelords I know could never resist taunting their foes before smiting them down, face-to-face." "Then use his name," Elminster said deliberately, "and mayhap he'll come down where I can reach him." "After I do," Farl replied softly. "After I'm done tearing his tongue out by the roots and breaking all his fingers to stop his spells-then I'll let you have some fun. He shouldn't die in any great haste." "So who is he?" Farl lifted one side of his mouth in a mirthless smile. "Lord Hawklyn, master magelord. Mage Royal of Athalantar, to you." He turned his head to watch a fleetwing whirl from one broken pillar to another. "I was illegitimate.

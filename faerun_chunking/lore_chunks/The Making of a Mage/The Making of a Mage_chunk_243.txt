@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 243
 characters  : elminster, ruvaen
-events      : Knights leave for battle; Elminster visits Hastarl
-location    : Hastarl
+events      : Elminster thanks Ruvaen before leaving, warns about potential traitors among knights
+location    : none
 === CONTENT ===
 Twenty blades flashed in reply as they echoed his words in a ragged chorus. And then they were gone, running hard south through the trees with their drawn swords flashing in their hands, Helm at their head. "My thanks, Ruvaen," Elminster said to the leaves overhead. "Watch over them on their way south, won't ye?" "Of course," the musical voice replied. "This is a battle no elf or man loyal to Athalantar should miss . . . and we must keep sharp watch in case there are other traitors among the knights." "Aye," Elminster said soberly. "I hadn't thought of that. Well said. I go." He wove a brief gesture with one hand and vanished. The two elves descended from the tree to make sure one of the knights' cooking-fires was truly out. Ruvaen looked south, shook his head, and rose from the last drifting tendrils of smoke.
 

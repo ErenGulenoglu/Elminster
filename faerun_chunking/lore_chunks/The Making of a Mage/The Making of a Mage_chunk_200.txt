@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 200
 characters  : elmara
-events      : Elmara seeks shelter from farmer, is helped despite his fear of magelords
+events      : Elmara seeks shelter from a farmer, revealing herself as an enemy of the magelords.
 location    : Athalantar
 === CONTENT ===
 away and hastily descended the ladder. Oh, aye-these. Elmara pulled the cloak over herself and rolled up to one knee to peer over the edge of the loft. The farmer looked up at her as if he expected her to change shape of a sudden into some sort of forest cat and leap down on him. He caught up a pitchfork and brandished it uncertainly. "Wh-Who are you, lass? How came you here? Are ... are you ... all right?" The slim, sharp-nosed lady smiled wanly down at him, and said, "I am an enemy of the magelords. Hide me, if you will." The farmer stared at her in horror, gulped, drew himself up, and said, "Ye'll be as safe here as I can make it." Then he added awkwardly, "If there's anything I... or my men . . . can do ...

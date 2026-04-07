@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 227
-characters  : elminster, myrjala
-events      : Plan revenge against Athalgard magelords
+characters  : elminster
+events      : Elminster decides to involve allies in fight against magelords.
 location    : none
 === CONTENT ===
 "I never thought I'd feel this," he said slowly, "but after Ilhundyl and those slave-sorcerers . . . I've had a bellyful of vengeance." He looked up. "So how should we work it? Attack Athalgard, trying to slay all the magelords we can before they know a foe's come calling?" Myrjala shrugged and told her tankard, "Some folk get a thrill out of destroying things. With most, the delight fades quickly. The gods don't suffer the others to live all that long-if a mage goes about just hurling spells, he eventually runs into someone else doing the same thing, with just a few

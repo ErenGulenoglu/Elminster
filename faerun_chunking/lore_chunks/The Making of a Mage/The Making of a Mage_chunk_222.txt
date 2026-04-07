@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 222
-characters  : elminster
-events      : Elminster battles Ilhundyl in Castle of Sorcery
+characters  : elminster, ilhundyl
+events      : Elminster escapes Castle of Sorcery; Ilhundyl attacks Elminster with invisible blade; Elminster uses spell to destroy Ilhundyl's blade; Ilhundyl attempts soul-drain on Elminster but is repelled and experiences severe pain
 location    : Castle of Sorcery
 === CONTENT ===
 El spread his hands in a grand, sweeping gesture, and an instant before he would have smashed with bone-shattering force into the gallery wall, the wall suddenly wasn't there any more. With a grinding rumble, the ceiling began to fall. Ilhundyl stared up at tumbling stone blocks for a moment, and then broke into a run, gabbling the words of another spell. Outside the Castle of Sorcery, Elminster drifted to the ground, upright and alert. His feet touched the stones of the terrace, he turned toward the north tower, and then felt slashing pain as something unseen cut him across the ribs! It felt like spreading fire! El sprang back, doubling up in agony, and threw up his hands to protect his face. The next sweep of the invisible blade took the tip off one of his fingers.

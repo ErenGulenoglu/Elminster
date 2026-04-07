@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 152
 characters  : elminster
-events      : Elmara and Blades enter chamber, reveal guardians
-location    : great spherical room
+events      : Elmara and her Blades enter a vast chamber, encounter guardians protecting a magical tome
+location    : none
 === CONTENT ===
 soundlessly through the air, out from the balcony into the darkness beyond. As it went, the darkness parted before it like a tattered curtain, showing them the true size of the vast chamber. Even before it reached the far wall of the great spherical room, other radiances not of Elmara's making appeared, here and there in the air before them, brightening and growing until the Blades could all see their surroundings. Balconies like their own lined the curving wall on all sides, save where darkness lingered above and below. The spherical space within was huge-much larger across than Ondil's tower was on the outside. "Gods!" one of the warriors gasped. The priest beside him murmured, "Holy Tyche, be with us." Four spheres of hitherto dark, slowly brightening radiance floated in the center of the huge chamber.
 

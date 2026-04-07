@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 124
-characters  : elminster, mystra
-events      : Elmara meets an elf who reveals himself as Baerithryn
+characters  : elmara, mystra
+events      : First meeting between Elmara and Baerithryn
 location    : none
 === CONTENT ===
 "Mystra brought me here, and"-she gestured down at herself, and a sudden blush stole across her face- "changed me, thus. I mean no harm to you or to this place." The elf regarded her gravely for a moment and said, "Yet there is the will in you to do great harm to many folk." El stared into his eyes and found her throat suddenly dry. She swallowed and said, "I live to avenge my slain parents. My foes are the magelords of Athalantar." The elf stood silent, as still and dark as the trees around. The sword of light did not waver. He seemed to be awaiting more words. Elmara shrugged. "To destroy them, I must master magic- or find some way to destroy theirs. I... met with Mystra. She said I'd find a tutor here....

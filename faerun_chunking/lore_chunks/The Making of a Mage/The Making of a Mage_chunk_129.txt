@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 129
-characters  : elmara, elminster
-events      : Elmara learns about human nature from Braer
-location    : none
+characters  : elminster, elmara
+events      : First meeting between Elmara and Braer; Elmara learns about humans' impact on Faerun
+location    : the depths of the wood
 === CONTENT ===
 Magic is the life energy of Faerun, lass, gathered in its raw form and used to power specific effects by those who know how. Elves-and the Stout Folk, too, deep in the rocks beneath us-live close to the land... part of it, linked to it-and in balance with it. We grow no more numerous than the land will bear and shape our lives to what the land will support. Forgive me, but humans are different." Elmara nodded and waved at him to continue. Braer met her eyes with his own and said steadily, "Like orcs, humans know best how to do four things: breed too rapidly; covet everything around them; destroy anything and everything that stands in the way of any of their desires; and dominate what they can't or won't bother to destroy." Elmara stared at him.
 

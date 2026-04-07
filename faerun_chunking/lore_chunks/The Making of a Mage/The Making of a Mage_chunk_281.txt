@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 281
-characters  : myrjala, elminster
-events      : Myrjala summons folk, brings Elminster to throne
-location    : Athalgard
+characters  : myrjala, hannibur, shandathe, elminster
+events      : Myrjala orchestrates Elminster's coronation as king of Athalantar
+location    : Athalagard, throne room
 === CONTENT ===
 Standing there in the light she'd conjured, the woman looked like some sort of sorcerous goddess as she lifted her chin and stared around the chamber with those dark, mysterious eyes. Folk who met that gaze fell still and stared helplessly; Myrjala looked around the chamber until all the watching folk were in her thrall. Then she spoke, and every man and maid there swore until their dying day that she'd spoken to them, and to them alone. "This is the dawn of a new day in Athalantar," she said. "I want to see folk who were welcome in this hall when Uthgrael was king. Bring them here to the throne before night falls. If Belaur and his magelords suffered any to live this long, bring them, and bid them fair welcome! A new king summons them!" Myrjala snapped her fingers, and her eyes darkened.
 

@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 259
-characters  : helm, farl, anauviir, briost, alarashan, ortran
-events      : Party navigates flooded tunnels towards castle, thief guides them; Magelord Alarashan discovers murdered apprentice in privy
-location    : Hastarl
+characters  : helm, farl, anauviir, briost, alarashan, oran, undarl
+events      : A team enters a magical castle with plans to infiltrate and navigate its tunnels. One of their targets, Magelord Alarashan, discovers an intruder in the privy who kills his apprentice.
+location    : hastarl
 === CONTENT ===
 We lost a lot of competitors that way." "I don't doubt it, clever-tongue," Helm said sourly, trying to keep his sword dry. Filth swirled and rolled past him as he forged ahead in the chest- high waters, wondering why it was that the elves, who could have pushed back the waters, had chosen to hide nearby, and do their cloaking from their hideaway ... which was somewhere drier. "Here's the place," Farl said, pointing up into the darkness. "There're handholds cut into this shaft, because at its top is a chamber where six glory- holes meet and things sludge up; it all has to be raked clear every spring. Now remember, Anauviir: the Magelord Briost's chambers can be reached up either of the glory-holes off to the left ... that's this hand...." "Thank you, thief," Anauviir growled.
 

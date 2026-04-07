@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 282
 characters  : hannibur, shandathe, myrjala, elminster, mithtyn
-events      : Crowd kneels to Elminster, Myrjala reveals herself to Mithtyn, twenty warriors appear in the throne room
+events      : New king crowned; Myrjala reveals identity to Mithtyn
 location    : Hastarl
 === CONTENT ===
 "Speak, or kneel to a new king!" There were uneasy stirrings, but no one spoke. After a moment, Hannibur the baker knelt, drawing Shandathe down with him. Then a fat wine- merchant went to his knees, and then a horse-trader... and then folk were kneeling all over the room. Myrjala bowed her head in satisfaction, a long labor ended, and said, "So be it." On the throne, Elminster sighed. "At last, 'tis over." Sudden tears spilled down his face. Myrjala looked out over the kneeling crowd, at the older folk at the back of the chamber, searching among the faces-until she suddenly smiled and raised her hand in greeting. "Mithtyn," she said to an old, bearded man, "you were herald in Uthgrael's court.

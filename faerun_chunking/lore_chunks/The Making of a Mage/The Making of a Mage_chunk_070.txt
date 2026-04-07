@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 70
 characters  : elminster, farl
-events      : Two friends evade searchers in Athalgard
-location    : athalgard
+events      : Friends discuss their hiding spot while evading search parties.
+location    : athalgard, hastarl
 === CONTENT ===
 "Twisted it open and shortened the thing by a few links," he said innocently. "He was wearing his lion too low for the full effect, anyway." Farl burst into delighted laughter, and they clung together, chuckling, until Farl caught sight of a nearby signboard. "Let's go hoist a tankard," he puffed. "What?" Elminster's blue-gray eyes danced dangerously. "Again?" ***** Three times Selune had risen over the high towers of Athalgard since that night, and talk of the two young and very friendly sons of magelords was all over the city. The bodyguards of both were prowling through every tavern and beanpot dining room in the poorer parts of Hastarl, obviously looking for a certain hawk-nosed, black-haired youth and his clever-tongued friend ... so Eladar and Farl had judged it prudent to take a brief vacation until the searchers grew careless enough for accidents to happen to them-or until
 

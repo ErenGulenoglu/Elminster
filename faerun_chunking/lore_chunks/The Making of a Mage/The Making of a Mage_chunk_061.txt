@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 61
-characters  : elminster, farl, budaera
-events      : Farl finds a gold coin in his armpit, Budaera offers deal involving silver coins.
+characters  : farl, budaera, elminster, shandathe
+events      : Farl discovers gold coin in armpit, Farl and Budaera negotiate intimate exchange for silver coins.
 location    : none
 === CONTENT ===
 "Wait a bit, wait a bit-I've not checked all me hair, now have I?" Farl leered again and reached inside his dark shirt to scratch at his armpit. His fingers worked lustily, and then paused. Farl frowned, drew out an imaginary-at least, so Elminster hoped-pinch of lice, and examined them critically. Then he pretended to eat them, licked his fingers daintily, and when he was done darted his hand into his shirt again, trying the other armpit. Almost immediately his eyes grew round and wondering. Slowly he drew out-a gold coin! He sniffed at it, drew back in mock disgust, and then held it up with a laugh of triumph. "See you?" "Now that," Budaera purred, leaning forward again, "is worth more than a sneeze. Have you another?" Farl looked hurt. "Just how dirty d'you think my armpits are, anyway?" Tinkling, genuine laughter surrounded them; the ladies were amused.

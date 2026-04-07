@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 153
 characters  : gralkyn, dlartarnan, tarthe, ithym, elmara, tharp
-events      : A group of adventurers debate whether to fight or find another way through an enchanted forest
+events      : Group decides to face impending danger instead of retreating; Elmara volunteers to lead the first attack due to her magical affiliation
 location    : none
 === CONTENT ===
 mages to play with." "How so?" Gralkyn put in. "Yon book might be prayers to a god, or filled with writings that lead to treasure, or..." The warrior Dlartarnan gave him a sour look. "I know a spell-book when I see one," he grunted. "I did not ride all this way," Tarthe said crisply, "to turn back now-if there is a way back that won't kill us all. I also have no desire to ride back into that last inn empty-handed and have all the tankard-drainers there think us a pack of cowards who did nothing but ride out, eat a few rabbits in the wilderness, and ride home again, our untested blades rusting in their sheaths." "That's the spirit-" Ithym agreed, then added in a stage whisper "-that'll get us all killed." "Enough!" Elmara said.

@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 137
-characters  : elmara
-events      : Priestess sends Elmara on mission
+characters  : elminster, mystra
+events      : Elmara is tasked by Elminster to promote magic and train spellcasters, encouraged to experience everything in Faerun.
 location    : none
 === CONTENT ===
 we can do better with thee." She looked down at the bed in front of her and tapped thoughtfully at the loose earth. "What must I do to begin?" Elmara asked, looking down at the dirt. There seemed to be nothing of interest there, but perhaps the priestess meant that she should tend plants, as Braer had wanted her to learn the ways of the woods. She looked around ... hadn't there been a shovel thrust into the earth nearby? As if the old woman could read her thoughts (as of course she doubtless could, El thought wryly) the priestess shook her head. "After all these years," she said, "I've learned how to do this right, lass. The last thing I need is eager but careless hands mucking in or a young, impatient tongue asking me questions morn and even through.

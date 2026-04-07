@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 148
-characters  : elmara, tarthe
-events      : Sorceress Elmara uses magic to create platforms and climbs a rope; Blades follow her into the tower.
-location    : hanging keep
+characters  : elminster, mystra
+events      : Elminster demonstrates magic to Blades, tests platform before ascending rope; Blades follow.
+location    : the hanging keep
 === CONTENT ===
 hand. Nothing seemed to occur-but when the sorceress stepped off the rope to stand on empty air, it was clear that an unseen platform hung there. It sank a trifle under her boots, but Elmara calmly laid the coil of rope on it and began her first spell over again. When she was done, the second rope stretched straight up through the air, into the darkness of the riven, floorless chamber at the bottom of the hanging keep. The wizardess spared no breath on any words, but looked down at her fellow Blades as she traced a wide circle with her hands, showing them the limits of the platform. Then she turned, and without another look back, began her slow, awkward climb again. Sudden lightnings flashed in the air around the wizard, and she slid hastily down the rope, hugging it in pain.
 

@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 109
 characters  : elminster
-events      : Elminster steals gold from Farl to pay debts
+events      : Elminster steals into Shandathe's bedchamber
 location    : none
 === CONTENT ===
 Seven THE ONE TRUE SPELL In ancient days, sorcerers sought to learn the One True Spell that would give them power over all the world and understanding of all magic. Some said they'd found it, but such men were usually dismissed as crazed. I saw one of these "crazed" mages myself. He could ignore spells cast at him as if they did not exist, or work any magic himself by silent thought alone. I did not think he was mad-but at peace, driven by urges and vices no longer. He told me the One True Spell was a woman, that her name was Mystra-and that her kisses were wonderful. Halivon Tharnstar, Avowed of Mystra Tales Told To A Blind Wizard Year of the Wyvern The night was warm and still. Elminster took a deep breath and counted out most of what Farl had insisted he take. He owed a debt.

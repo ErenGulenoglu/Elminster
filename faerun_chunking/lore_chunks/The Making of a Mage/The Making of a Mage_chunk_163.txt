@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 163
-characters  : elmara, othbar, tarthe, gralkyn, ithym
-events      : Warrior killed by magical force; group discusses escape plan; Othbar attempts spell to bind Ondil
+characters  : elminster, srinshee
+events      : The Blades face Ondil's undead magic; Elmara and Othbar attempt escape, leading to Othbar's death and resurrection as a shade.
 location    : none
 === CONTENT ===
 The Blades watched in horror as the warrior's bones burst up out of his body in a grisly spray of blood and vanished near the ceiling. What was left collapsed in a boneless heap, blood raining down around it as Tharp's helm and armor rang on the floor. The five remaining Blades looked at each other in horror. Elmara moaned and closed her eyes, face pale-but no less white than Tarthe's, as he reached out a reassuring arm to grip her shoulder. Othbar, the Hand of Tyche, swallowed and said, "Ondil slays us with spells spun from his tomb. Undeath and fell magic will take us all if we do not set our feet right." Tarthe nodded, face sharp with fear. "What should we do? You and Elmara know more of magic than the rest of us here." "Dig our way out of the chamber?" Elmara asked faintly.

@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 186
-characters  : elmara, gartos
-events      : Elmara asks about Magelord Eth, Gartos attacks Elmara with a magical blade
+characters  : elmara, magelord eth, gartos
+events      : Elmara killed by Gartos, who then killed by Innkeeper.
 location    : none
 === CONTENT ===
 "Who was the wizard with ye?" "Magelord Eth-my watchdog, set by the magelords to make sure I don't do anything for Belaur that might work against them." "Ye make Belaur seem a prisoner." "He is," Gartos said simply, and Elmara saw his eyes dart aside, this way and that, looking for something. "Tell me more of this Magelord Eth," Elmara said, taking a step forward and drawing the wand from her belt. It would be best to keep this warrior talking and give him no time to plot an attack. Gartos shrugged again. "I know little; the magelords don't care to say much about themselves. He's called 'Stoneclaw;' he slew an umber hulk with his spells when he was young . . . but that's about all I... Thaerin!" At the warrior's shout, magical radiance pulsed. Elmara turned hastily-in time to see the rune-carved blade flashing toward her, point first.

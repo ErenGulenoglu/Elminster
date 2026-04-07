@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 271
 characters  : elminster, myrjala
-events      : Ithboltar's tower collapses, Elminster and Myrjala confront guards
-location    : Athalantar
+events      : Elminster and Myrjala demonstrate power, causing soldiers to flee in fear
+location    : Athalgard
 === CONTENT ===
 last contingency magic awoke. Too late. Stones were cascading down the walls of the riven tower when the courtyard itself rocked and shuddered. Gratings, paving stones, and dust leapt aloft, borne on sudden geysers of magical radiance, as something exploded in the unseen dungeon depths of the castle. The shattered stump of Ithboltar's tower swayed, sagged sideways, and crashed into utter ruin. Flames leapt up here and there about the courtyard, amid the frantically running arms-men. The soldiers of Athalantar stumbled on through smoke and dust vainly waving their halberds about as if cleaving the air would fell some invisible foe and set all to rights again. Somewhere a raw screaming arose and went on and on, amid fresh rumblings. "Come," Myrjala said, taking Elminster's hand and slipping up to the balcony rail. Elminster followed, and she stepped calmly off it into the air.
 

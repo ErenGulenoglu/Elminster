@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 27
 characters  : sargeth
-events      : Outlaws travel to Lawless Castle
-location    : Wind Cavern, Horn Hills, Lawless Castle
+events      : Sargeth and his outlaws return home after a successful hunt
+location    : Wind Cavern, Lawless Castle
 === CONTENT ===
 The outlaws left the steaming remnants of the carcass for the wolves to find. Then they rolled in deep drifts to clean off the worst of the gore and went on. North into the driving storm, up ravines narrow and dark, to Wind Cavern, where icy breezes moaned endlessly into a lightless cleft. Each man in turn bent and ducked through the narrow opening, by memory crossed the uneven cave beyond, and found the faint glowstone rock that marked the mouth of the next passage. They walked into the hollow dark until they saw the faint light ahead of another glow-stone. Sargeth tapped the wall of the passage slowly and deliberately six times, paused, and then tapped once more. There came an answering tap, and Sargeth took two steps and turned into an unseen side passage. The outlaws followed him into the narrow tunnel.
 

@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 172
-characters  : elmara
-events      : Elmara finds herself on an unknown shore with 'Athalantar' written in sand, Ilhundyl discovers Ondil's Book of Spells is blank
+characters  : elminster
+events      : Elminster discovers Ondil's Book of Spells is blank
 location    : Castle of Sorcery
 === CONTENT ===
 She was naked except for the Lion Sword, still on its thong around her neck. Elmara sighed, and wobbled to her feet. There was no sign of houses or docks or fences . . . just stunted trees, rocks, and a tangle of grasses, old stumps, and bushes where the beach ended and the living things began. She took a step forward, then froze. In the sand in front of her, someone had scratched one word: "Athalantar." El looked down at the word in the sand, and then at her bare limbs, and shivered. She coughed, shook her head, lifted her chin, and strode away from the water, heading toward the rising sun. ***** In a place where guardian spells glowed night and day, deep in the Castle of Sorcery, a man settled down to read. "Garadic," he said coldly, and sipped his drink.

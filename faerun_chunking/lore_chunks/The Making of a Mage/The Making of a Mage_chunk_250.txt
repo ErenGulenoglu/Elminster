@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 250
 characters  : malanthor, ithboltar, chantlarn, tassabra, elminster
-events      : Mages discuss war threats; Elminster teleports with Tassabra
+events      : Meeting (Ithboltar & Chantlarn), Departure (Elminster)
 location    : hastarl
 === CONTENT ===
 Pride usually precedes disaster, especially for mages." "And old men start to see things, until the shadows of their dreams seem more real than what is truly around them," Malanthor replied cuttingly, "if we're trading platitudes." Ithboltar shrugged. "Just be sure to prepare yourself with spells, wands, and the like as if for battle against mage-foes, in the days ahead." "Athalantar under attack again?" Chantlarn's tone was breezy as he strode into the room. "Armies at our gates and all that?" "I fear so," Malanthor said, putting a hand to his brow and affecting the broken tones of a hysterical matron. "I fear so." "And I do too," Chantlarn said heartily. "How does the morning find you, Ithboltar?" "Surrounded by idiots," the old wizard said sourly, and turned back to the spellbook on the table in front of him. The two younger magelords exchanged amused glances.

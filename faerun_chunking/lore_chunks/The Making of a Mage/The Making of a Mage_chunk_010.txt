@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 10
-characters  : elthryn, elminster
-events      : Elthryn prepares for his death while Elminster receives a message from him
+characters  : elthryn, belaur
+events      : First meeting between Elthryn and mysterious wizard riding dragon; Elthryn's final words to his son before imminent death
 location    : none
 === CONTENT ===
 and then by a roar so loud and deep that the shops and houses around trembled, and the very cobbles of the street shifted under his boots. Amid the dust that curled up from them, the prince looked up and saw it, aloft, wheeling with contemptuous laziness over the trees: an elder red dragon of great size, its scales dark as dried blood. A man rode it, a man in robes who held a wand ready, a man Elthryn did not know but a wizard without a doubt, and that could mean only one thing: the cruel hand of his eldest brother Belaur was finally about to close on him. Elthryn had been his father's favorite, and Belaur had always hated him for it. The king had given Elthryn the Lion Sword-it was all he had left of his father, now. It had served him often and well...

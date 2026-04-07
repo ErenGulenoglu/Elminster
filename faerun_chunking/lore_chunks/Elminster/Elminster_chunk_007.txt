@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 7
 characters  : elminster, mystra
-events      : Elminster's birth, parents' death, rescue by Helm Stoneblade, time as thief in Hastarl, meeting Magister Dorgon, transformation into Elmara by Mystra
+events      : Elminster's parents slain, village decimated by Undarl; rescued by Helm Stoneblade; left bandit life at 16; befriended Farl; met Magister of Mystra Dorgon; transformed into Elmara by Mystra for bonding with magic and understanding world; trained in spellcasting by Mystra/Myrjala Talithyn
 location    : Heldon, Athalantar, Hastarl
 === CONTENT ===
 === History ===

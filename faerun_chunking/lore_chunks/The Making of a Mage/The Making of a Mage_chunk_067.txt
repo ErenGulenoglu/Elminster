@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 67
-characters  : elminster
-events      : Elminster knocks out Jansibal and retrieves Shandathe's earring.
-location    : none
+characters  : elminster, jansibal, shandathe, farl, otharr, thelorn
+events      : Elminster knocks out Jansibal in a struggle; Elminster steals Shandathe's earring and uses it to flirt with Thelorn on her behalf.
+location    : tavern
 === CONTENT ===
 Then he had no time left to spare for looking at anyone except the noble under him. Jansibal was oiled and perfumed, slippery under Elminster's hands. He'd never known the hard hours and harsh battle that the youth from Heldon had felt-but he was shorter and heavier, and fury lent him strength. He threw himself sideways, dragging Elminster with him, and tried to bite the fingers that were smothering him. Elminster drew back one arm, dagger-hilt foremost, and slugged the noble hard on the jaw. Jansibal's head snapped around, spittle and blood flying together. The dandy gave a little grunt, shook his head-and toppled over sideways on the bed, knocked senseless. One open eye stared up unseeing at Elminster; satisfied, El spun to look behind them and be sure no one had noticed the sudden dousing of the light behind the curtain, or heard the brief, unloving sounds.
 

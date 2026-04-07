@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 193
-characters  : ithil_sprandorn, thorstel, phaernos_bauldyn
-events      : Phaernos meets a girl who swam the river
-location    : saskar, river_shining, athalantar
+characters  : ithil_sprandorn, thorstel
+events      : Ithil Sprandorn advises Thorstel about mortality and power.
+location    : none
 === CONTENT ===
 Thirteen SPELLS ENOUGH TO DIE Think on this, arrogant mageling: even the mightiest archmage has no spells strong enough to let him cheat death. Some take the road of lichdom ... a living death. The rest of us find graves, and our dust is no grander than that of the next man. So when next you lord it over some farmer with your fireballs, remember: we all master spells enough to die. Ithil Sprandorn, Lord Mage of Saskar said to the prisoner wizard Thorstel Year of the Watching Wood Flamerule had been warm and wet in this Year of Bloodflowers, and if the gods sent rain sparingly in the fall, a plentiful harvest could be expected all down the River Shining. Phaernos Bauldyn, keeper of the Ambletrees Arms, leaned against his doorpost and watched the last light of the setting sun fade over the hills to the west.
 

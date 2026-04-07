@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 114
 characters  : elminster, ildru
-events      : Elminster curses Ildru, spears hang motionless, golden radiance freezes armsmen
+events      : Elminster curses Ildru before being surrounded by magical spears; mysterious woman appears from altar flame
 location    : none
 === CONTENT ===
 "I-I tried to be a true prince!" The magelord whirled about. "What?" And then the spears were in the air, and Elminster glared into the wizard's eyes and hissed, "I curse thee, Ildru of the magelords, with my death and the-" He broke off in confusion. He hadn't expected to get this far in his curse, and he could see the wizard had raised his hands to weave some spell, crying out, "Wait! Stop! No spears!" He could also see the armsmen staring at him as if he were a dragon-a purple dragon with three heads and a maiden's body, at that! And the spears . . . they hung in the air, motionless, surrounded by pearly radiance. Elminster found he could move, and whirled around.

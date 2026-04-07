@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 30
-characters  : kadeln olothstar, landorl valadarm, sargeth, brerest, eladar
-events      : Mages and warriors agree on hunt for outlaws; Outlaws' hideout discovered
-location    : Horn, Sarn Torel
+characters  : kadeln olothstar, magelord landorl valadarm, swordmaster, elminster
+events      : Negotiation between Kadeln Olothstar and Swordmaster; Outlaws' hideout discovered
+location    : Sarn Torel
 === CONTENT ===
 Twenty armsmen- all I dare spare-ride with them to the Horn, and from there act as necessary to hunt these outlaws with magic and destroy them." They stared at each other for a long, chill moment, and then, slowly, Magelord Kadeln Olothstar smiled-thinly, but the swordmaster had wondered if the man knew how. "A stout plan, indeed, Swordmaster. I knew we could agree on something this day." He looked north over the snow-clad farms across the river for a moment, then added, "I hope a suitable sledge can be speedily found rather than one that comes not or must be built and finds us still preparing come spring." The swordmaster pointed down over the battlements with one gauntleted hand. "See the logs there by the mill?
 

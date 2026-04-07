@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 95
 characters  : farl, elminster
-events      : Thieves steal from tailors' shipment; Moonclaws fight nearby
+events      : Thieves steal from master tailors, compete with Moonclaws gang
 location    : waterdeep
 === CONTENT ===
 Crowds at the docks were heavy. Some of the fat, strutting cloth merchants didn't even bother to climb the streets to the tall, narrow shops of the master tailors, but sold all their wares on the docks. Farl and Elminster thought themselves subtle indeed not to try for a single thread of that first exciting landing. When a second followed, they left it alone, too, and watched from afar as an unfortunate grab-artist of the Moonclaws was caught stealing silks, whipped skinless, and hanged from the city wall. The master tailors had no guild because the magelords did not hold with guilds. They did, however, meet earnestly over wine and roast boar in the Dancing Dryad feasting house and come to a business agreement of mutual advantage.

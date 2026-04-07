@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 246
 characters  : elminster, farl, tassabra
-events      : Elminster visits Farl and Tassabra
+events      : Elminster finds Farl and Tassabra together, reflects on past choices
 location    : Athalantar
 === CONTENT ===
 At least he could now compel the wizards of Athalantar into battle with the crown ... so these foes wouldn't find too many more of them alone and unsuspecting. And nothing this side of the archmages' tombs of Netheril, short of a god, could hope to stand against the magical might of the gathered mage-lords of Athalantar. And gods interested in the Kingdom of the Stag seemed in short supply these days. ***** "Yes," Elminster said softly. "In this building here." Braer and one of the other elves nodded silently, and stepped forward to touch El's shoulders. As he faded into wraith form, he heard them muttering softly, weaving cloaking magics more powerful than anything he knew. They alone could still hear him, so he thanked them before stepping off the rooftop and flying through the moonlight to the window below. A single

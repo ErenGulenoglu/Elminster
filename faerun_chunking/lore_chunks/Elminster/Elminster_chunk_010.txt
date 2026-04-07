@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 10
-characters  : elminster
-events      : Elminster fights in battles at Myth Drannor, joins Harpers, awakens after stasis
-location    : Myth Drannor
+characters  : elminster, nameless one, mystra, dornal silverhand, elué shundar, azuth, dasumia
+events      : Elminster fought in battles, disappeared into other planes, joined Gathering of the Gods, Mystra chose Chosen ones, Azuth tested Elminster, Elminster apprenticed to Dasumia
+location    : myth drannor, silversgate, dancing place
 === CONTENT ===
 Elminster returned to Myth Drannor and fought in the city's defense during the Weeping War . El joined the conflict about four months after the Army of Darkness first laid siege to Cormanthor in Nightal of the Year of Despairing Elves, 711 DR . He fought alongside the Nameless One and contributed to the elves' victory in the conflict known as Dawn at Erolith's Knoll . Months later, he fought again in the legendary battle at Silversgate , which saw the Army of Darkness driven from the city. Elminster himself destroyed the gate that linked Myth Drannor to Silverymoon Pass , but was inadvertently sucked into other planes of existence and lost to his allies for some time. After the tragic loss of the city, Elminster joined those in attendance of the Gathering of the Gods at the Dancing Place in the Year of the Dawn Rose, 720 DR .
 

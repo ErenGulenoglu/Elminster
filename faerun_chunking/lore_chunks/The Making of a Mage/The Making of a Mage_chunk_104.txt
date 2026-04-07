@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 104
 characters  : elminster, farl
-events      : Elminster and Farl fight Moonclaws thieves in a mansion
-location    : none
+events      : Farl aids Elminster in battle against Moonclaws thieves; Elminster retrieves treasure.
+location    : waterdeep
 === CONTENT ===
 "Wish I were younger and Peeryst was calling for help...." Promptly there came a faint, quavering cry. "Help!" "Well," Darrigo said in delight, "if the lad ain't the very shinin' image of his old uncle, indeed! Where're those stairs? Hope I can remember how to do the deed, after all these years...." ***** Elminster danced backward, wincing. The Moonclaws man lunged at him, blade flashing, and then grunted in surprise as Farl reached out and wrapped himself around the man's leg. The Moonclaws thief toppled like a felled tree, and Farl stabbed him in the throat before he'd even stopped bouncing. The stag statue, cracked and somewhat smaller now, spun away from under the man's sprawled body. Elminster saw what Farl had done, turned his head away, and promptly emptied his dinner all over a blue-dyed fur rug from Calimshan.
 

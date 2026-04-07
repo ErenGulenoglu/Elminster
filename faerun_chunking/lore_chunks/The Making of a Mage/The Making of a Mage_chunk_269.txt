@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 269
 characters  : braer, myrjala, elminster, undarl
-events      : Braer falls, is rescued by Myrjala; Undarl attempts to rebuild his body
+events      : Braer severely injured, rescued by Myrjala; Undarl struggles to rebuild body
 location    : athalgard
 === CONTENT ===
 as not to see the destruction. Pain ruled him now. Braer felt his magic failing, his torn and bleeding body shifting and dwindling. As his wings receded back into the slim shoulders of an elf, he began to fall. The rooftops were very close; he hadn't much time for a last prayer. "Mother Mystra," he gasped, fighting to open his eyes. He had a brief glimpse of smoke trailing from his own limbs, and then he was caught by something and cradled gently, the rushing wind around him slowing. Tears were blinding him. Furiously Baerithryn blinked them away and stared up into the face of his rescuer. Dark eyes glowed with power in the face bent so close over his own. It was Elminster's colleague, Myrjala, and yet- Braer's eyes widened in recognition and awe.

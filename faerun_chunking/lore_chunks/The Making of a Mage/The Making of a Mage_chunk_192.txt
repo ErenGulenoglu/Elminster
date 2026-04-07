@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 192
-characters  : elmara, asmartha, tempus
-events      : Elmara leaves Narthil; enchanted sword flies northeast
-location    : narthil
+characters  : elmara, asmartha
+events      : Elmara departs Narthil; enchanted sword flies northeast towards Elmara
+location    : Narthil
 === CONTENT ===
 ***** Elmara walked off as she had come, alone, her pack on her back, heading northeast over the rolling fields. The innkeeper watched her march out of sight, hoping no ill would befall her. Once Asmartha had dreamed of a life of adventure, seeing all the fabled sights of Faerun and befriending elves . . . and there went a lass who'd done just that. The innkeeper smiled at the crest of a far-off hill as the tiny dark figure of her guest disappeared over it. She shook her head. Perhaps the gods would smile enough on the reckless maid to keep her alive through her fight against the mighty magelords, and she'd come back to Narthil one day with time enough to spare to tell a fat and aging innkeeper where she'd gone and what she'd seen ... but more likely that would never happen.
 

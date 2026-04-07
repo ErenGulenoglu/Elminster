@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 258
 characters  : undarl, anglatham-maroth
-events      : Armor suits raised halberds; Undarl summoned Anglatham-maroth and they flew southeast
+events      : Undarl summons Anglatham-maroth; they fly southeast together.
 location    : none
 === CONTENT ===
 It would be a simple matter to arrange things so that the spell that broke the stasis also slew them before they could arrange any defenses. Musing, Undarl strode down the winding stone stair and out into the courtyard, the floating, empty suits of armor raising their halberds to let him pass through the door. "Anglatham-maroth!" he called. "To me!" A step later, he was gone. When the huge shadow fell over the courtyard two breaths later, all it found were a few dwindling motes of light. It beat its wings once, the sound of a thunderclap breaking over the Horn Hills, climbed toward the stars, turned, and soared southeast. ***** The warm, sweet smell of bread rolled out over the arms-men. They sniffed appreciatively and hauled open the door of the bake shop, striding straight over to Shandathe, who was bent over pans of cooling loaves.

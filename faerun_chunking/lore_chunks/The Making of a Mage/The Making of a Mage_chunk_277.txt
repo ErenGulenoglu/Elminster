@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 277
-characters  : elminster
-events      : Elminster defends throne from King Belaur
+characters  : elminster, belaur
+events      : First meeting between Elminster and Belaur; conflict begins
 location    : The Stag Throne
 === CONTENT ===
 the whirling sparks of its destruction rays of light leapt out in all directions: a protective spell-cage flashed into being around the fallen mage. Elminster glared at Undarl and spoke a clipped, precise incantation. A second cage, its glowing bars thicker and brighter than Undarl's, enclosed the first. The mage royal struggled up to one elbow, face pinched in pain, and his hand went to his belt. Hannibur stared down at the purposeful magelord and the radiances that had just consumed his only blade, shook his head in slow anger, and turned away. It was only two steps to the nearest courtier. A quick jerk freed the startled man's sword from its jeweled scabbard. Holding it like a toy, the baker turned slowly to survey the room, like a heavy-helmed knight peering about in search of foes. Then, implacably, he started down the green carpet toward the king.

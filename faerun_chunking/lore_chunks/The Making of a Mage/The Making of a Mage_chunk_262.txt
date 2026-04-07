@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 262
-characters  : thelorn, jansibal, nanue_trumpettower, darrigo, peeryst
-events      : Thelorn mocks Jansibal, causing him to draw his sword. Peeryst leaves to investigate an alarm but is injured, Nanue rushes out and gets injured as well
-location    : guard_room
+characters  : thelorn, jansibal, nanue trumpettower, darrigo, peeryst
+events      : Thelorn mocks Jansibal; Peeryst investigates alarm, is injured; Nanue rushes out, gets injured by noble
+location    : none
 === CONTENT ===
 Thelorn was striding along toward him, his slim-filigreed blade drawn. Jansibal's face darkened, and he struggled to belt on his own blade and get it out into his hand before Selemban reached him-in such chaos, "accidents" could all too easily happen. Thelorn's eyes were dancing with amusement as he bore down on Jansibal. "Fair even, lover mine," he said lightly, knowing his reference to that little embarrassment in the Kissing Wench would enrage the only scion of the noble house of Otharr. Jansibal snarled and jerked his blade free-but Thelorn was past him with a mocking laugh, and hurrying down a broad flight of stairs toward the guard room below. A twisted, sneering smile slid onto Jansibal's face, and the perfumed dandy hurried after his rival. Accidents could happen, yes, especially from behind...
 

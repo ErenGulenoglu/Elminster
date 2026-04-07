@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 103
-characters  : janatha glarmeir, darrigo trumpettower, peeryst, farl, elminster
-events      : Families toast downstairs while upstairs Elminster, Peeryst, Farl fight Moonclaws over a woman.
-location    : Shadowdale
+characters  : elminster, peeryst, farl
+events      : Elminster and Peeryst fight against intruders; Elminster gets injured.
+location    : the Trumpettower mansion
 === CONTENT ===
 They crashed into the door together; it boomed, burst open from the impact, and was instantly smashed shut again by their falling bodies. ***** Downstairs, the befurred and bejeweled elders of both families heard the crash, raised their eyebrows at each other, and poured another toast. "Well," Janatha Glarmeir said brightly, staring around as color rose prettily into her cheeks, "they certainly seem to be ... hitting it off, don't they?" "Hitting sounds like it would be about right," Darrigo Trumpettower agreed with a guffaw, leering at her. "I remember my second wife was like that...." ***** Elminster rose from atop Peeryst's unconscious form, made sure the door was bolted this time, and hurried to where Farl, eyes still streaming from the perfume, was staggering away from the bed. "We've got to get out of here," he muttered, shaking Farl. "Damned Moonclaws," his partner snarled.
 

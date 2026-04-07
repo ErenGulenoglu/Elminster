@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 165
 characters  : elmara, tarthe
-events      : Attempted to resist lich Ondil's escape; prepared for battle
-location    : Othbar's tower
+events      : Preparation for battle against Ondil; Elmara grants Tarthe ability to fly.
+location    : Ondil's tower
 === CONTENT ===
 I would not like to try to break his spells here in his own keep-not while Othbar's sacrifice holds." Elmara looked at the silent and motionless image holding the coffin shut-and noted its flickering, fading extremities. She pointed. "Even now, the lich tries to break out of its coffin." Tarthe's eyes went to the flickering hands of the image. "How long do we have?" Elmara shrugged. "If I knew that, I'd be Ondil." Tarthe waved his sword. "Don't jest about such things! How can I tell you haven't fallen under some spell or other and become Ondil's slave?" Elmara stared at him, then slowly nodded. "Ye raise a wise concern." Tarthe's eyes narrowed, and he drew a dagger, eyes fixed on the young sorceress. Then he turned and threw it back through the opening where Tharp had died.
 

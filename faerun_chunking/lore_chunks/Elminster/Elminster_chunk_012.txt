@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 12
-characters  : elminster, alustirel, laeral, sammaster, azuth, halueve starym, srinshee, khelben arunsun, rundorl moonsklan
-events      : Elminster and Laeral rescue fellow Chosen, slay Sammaster; Elminster confronts Halueve Starym; Elminster searches for Harpers with Khelben Arunsun; Harpers found; Elminster fights malaugrym on various planes; Rundorl Moonsklan takes control of Harpers
-location    : toril
+characters  : elminster, alustirel, laeral, sammaster, azuth, halueve starym, srinshee, khelben arunsun, malaugrym
+events      : Elminster and Laeral slay Sammaster; Elminster confronts Halueve Starym, defeating him with Srinshee's aid; Elminster forms Harpers organization around Year of Wandering Wyvern; Elminster battles malaugrym on Toril, leading to Harpstar Wars; Khelben Arunsun defeats Shadowmaster, ending war after 40 years
+location    : toril, plane of shadow
 === CONTENT ===
 Elminster and Alustirel's sister Laeral rescued their fellow Chosen and were forced to slay Sammaster, leaving his remains to Mystra's consort Azuth . On Hammer 14 in the Year of Waiting, 907 DR , Elminster confronted Halueve Starym for attempting to control devils . During the ensuing battle, the Srinshee advised Elminster through his silver fire on how to defeat the elven mage. In the early 11 century DR, Elminster and Khelben Arunsun spent much of their time searching for suitable adventurers to take up the mantle of the Harpers of some centuries past. In the Year of the Wandering Wyvern, 1022 DR , they found the champions they sought in the form of the newly chartered company known as the Wanderers of Espar .
 

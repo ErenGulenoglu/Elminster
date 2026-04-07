@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 183
-characters  : elminster, eth
-events      : Mystra sends Elmara to avenge apprentices' deaths, knights ride to Narthil
+characters  : elminster, mystra
+events      : Elminster receives warning and prepares to leave the inn due to approaching knights seeking revenge; Knights of Athalantar ride towards Narthil, finding it deserted
 location    : Narthil
 === CONTENT ===
 Some mad traveling wizard's had the temerity to slay all of Seldinor's apprentices at an inn west of Narthil-and he's 'too busy' to avenge them. So I'm going to reap the idiot's head for the greater glory of the magelords!" ***** The hand that shook Elmara was soft but insistent. She came awake in the best bed in Myrkiel's Rest and peered at the woman bending over her. The innkeeper wore but a blanket, clutched about her. "Lass, lass," she hissed, hovering over El in the darkness, "ye'd best be gone from here right speedily, out into the woods. Word's come that armsmen are riding here to take thee!" Elmara yawned, stretched, and said, "My thanks, fair lady. Would there be such a thing as hot cider about, and some sausage?" The innkeeper stared at her.

@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 263
-characters  : darrigo, peeryst
-events      : Darrigo helps Peeryst chase Jansibal
+characters  : darrigo, peeryst, jansibal, thelorn
+events      : Darrigo saves Jansibal's rival, Darrigo humiliates Jansibal in duel
 location    : none
 === CONTENT ===
 With the other, he shoved the young hope of the Trumpettowers at his wife. "Bind her wounds," he snarled, setting off down the passage after the hurrying noble. "But-how?" Peeryst called after him desperately. "Use yer shirt, man!" Darrigo snarled. "But, but-'tis new, and-" "Then use yer hose, stonehead," Darrigo roared back, as he took a flight of stairs three at a time. He was wheezing and stumbling by the time he reached the bottom, but he caught up with the hurrying noble there. His quarry was just raising his blade, looking for all the world like he was going to plant it in the ribs of another dandified fellow a little farther along the hall. Darrigo smacked him across the back of the head with his sword. Thankfully, the dainty weapon didn't break. The dandy whirled, the reek of his perfume swirling about him.

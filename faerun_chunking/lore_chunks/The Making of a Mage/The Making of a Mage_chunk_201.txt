@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 201
-characters  : elminster, mystra
-events      : Elmara encounters hostile armsmen targeting a sorceress.
-location    : Haunted Vale, High Forest
+characters  : elmara
+events      : Elmara encounters armsmen attacking a sorceress in a field
+location    : Athalantar
 === CONTENT ===
 north toward Heldon, she found her way blocked by several encampments of armsmen, and a band of magelings being trained by several watchful magelords-and with a weary sigh, decided to go west into the Haunted Vale, and try to reach the High Forest from that direction. She'd never thought fighting magelords would involve so much walking.... ***** It was late one day when she found battle again. She trudged up a hill, frowned curiously at a trampled, fresh-broken gap in a farm fence, and went through it. The field was empty, but the hilltop in the field beyond it was a crowded place. A large band of Athalantan armsmen stood in a large ring about a lone figure- a woman in robes-firing at her with crossbow quarrels. A farmer stood leaning on a stout cane at the gate where the two fields met.
 

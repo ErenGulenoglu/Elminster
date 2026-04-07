@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 84
 characters  : elminster
-events      : Elminster confronts a Magister in a ruined hall
+events      : First meeting between Elminster and the Magister; Elminster expresses disdain for wielders of magic
 location    : none
 === CONTENT ===
 Are ye no better than these cruel mages who rule Athalantar?" He waved his blade at the roaring flames around him. "Or are all who wield magic so twisted by its power that they become tyrants who delight in maiming, destroying, and spreading fear among honest folk?" "Are you not-with these?" the Magister asked, spreading his hand to indicate the bodies hanging silently around him. "With them?" Elminster spat. "I fight them whenever I dare-and hope one day to destroy them all so men can walk Athalantar free and happy again!" His face twisted at a sudden thought. "I sound a bit like a high minstrel, don't I?" he added, more quietly. The Magister regarded him thoughtfully. "That's not a bad way to think," he said quietly, "if you survive the dangers of talking the same way." A sudden smile lit his face, and Elminster found himself smiling back.

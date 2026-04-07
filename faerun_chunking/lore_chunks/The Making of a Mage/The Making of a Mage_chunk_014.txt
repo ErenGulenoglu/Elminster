@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 14
 characters  : elminster
-events      : Elminster encounters Helm outside cave after hearing voices; Helm accuses Elminster of being a shepherd and thief
-location    : none
+events      : Elminster's village is attacked; he encounters Helm, a knight of Athalantar who offers him help
+location    : Heldon
 === CONTENT ===
 scuffling; stones turned and rolled by the mouth of the cave, and then clattered and were still. Silence fell. Elminster waited for a long time, but heard only the wind. They must have all gone. Carefully he rose, stretched his stiff arms and legs, and crept forward in the darkness, around the corner-and almost onto the point of a sword. The man at the other end of it said calmly, "An' who might ye be, lad? Run from the village down there?" He wore tattered leather armor, rusty gauntlets, a dented, scratched helm, and a heavy, stubbly beard. This close, Elminster could smell the stench of an unwashed man in armor, the stink of oil and wood smoke. "Those are my sheep, Helm," he said calmly. "Leave them be." "Thine?
 

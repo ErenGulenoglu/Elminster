@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 125
 characters  : elmara, braer
-events      : Braer heals Elmara and they become friends
+events      : First meeting between Elmara and Braer; Elmara kisses Braer, he calls her 'daughter of a prince' before making her fall asleep.
 location    : none
 === CONTENT ===
 "You've given the forest blood," he said, "which satisfies a ritual some find unpleasant." His grip on her heel became stronger, and he made a surprised sound and let her foot fall. A moment later-he moved like soundless liquid, or a smooth-flowing shadow-the elf was kneeling by her head. "Allow me," he said, and added, "Lie still." Elmara felt his fingers touch her lightly over each eye, and linger there . . . and slowly, very slowly, the ache in her head subsided, the pain stealing away. With it went all her weariness, and she was suddenly alert, eager, and awake. "Wh-My thanks, sir-what did you do?" "Several things. I used simple magic, what you'll need to learn first. Then I winced at being called 'sir' and waited patiently to be called 'Braer' and seen as a person, not some sort of magic-wielding monster." The words were

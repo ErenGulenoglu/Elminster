@@ -2,15 +2,19 @@
 build_database.py
 
 Single-pass pipeline:
-  1. Reads raw source .txt files from pdf_reader/Output/
-  2. Chunks each file using the same logic as split_lore_file.py
-  3. Tags each chunk with Mistral (characters, events, location, era)
-  4. Embeds and stores directly into ChromaDB
+  1. Reads raw source .txt files from SOURCE_DIRS
+  2. Chunks each file
+  3. Tags each chunk with Mistral (characters, events, location)
+  4. Embeds and stores into ChromaDB
+
+TWO COLLECTIONS:
+  - fr_lore_wiki  : web-scraped summary files (./lore/)
+  - fr_lore_books : PDF-scraped narrative files (./pdf_reader/Output/)
 
 Run:
     python build_database.py
 
-To rebuild from scratch, delete .chromadb/ first:
+To rebuild from scratch:
     rm -rf .chromadb && python build_database.py
 """
 
@@ -22,31 +26,32 @@ import chromadb
 from sentence_transformers import SentenceTransformer
 
 # ── Config ────────────────────────────────────────────────────────────────────
-# Both folders are scanned automatically — add more entries if needed
-SOURCE_DIRS = [
-    "./lore",                  # web-scraped .txt files (e.g. Elminster.txt)
-    "./pdf_reader/Output",     # PDF-scraped .txt files (e.g. The Making of a Mage.pdf.txt)
-]
-CHUNKS_DIR   = "./lore_chunks"         # human-readable chunks for inspection
-CHROMA_PATH  = ".chromadb"
-COLLECTION   = "fr_lore"
-OLLAMA_URL   = "http://localhost:11434/api/generate"
-# EMBED_MODEL  = "sentence-transformers/all-MiniLM-L6-v2"
-EMBED_MODEL  = "sentence-transformers/all-mpnet-base-v2"
-MIN_WORDS    = 200
-MAX_WORDS    = 500
+SOURCE_DIRS = {
+    "wiki":  "./lore",                # web-scraped .txt files → fr_lore_wiki
+    "books": "./pdf_reader/Output",   # PDF-scraped .txt files → fr_lore_books
+}
+
+COLLECTION_WIKI  = "fr_lore_wiki"
+COLLECTION_BOOKS = "fr_lore_books"
+
+CHUNKS_DIR  = "./lore_chunks"
+CHROMA_PATH = ".chromadb"
+OLLAMA_URL  = "http://localhost:11434/api/generate"
+EMBED_MODEL = "sentence-transformers/all-mpnet-base-v2"
+MIN_WORDS   = 200
+MAX_WORDS   = 500
 
 NAME_ALIASES = {
     "elminster aumar":        "elminster",
     "the old mage":           "elminster",
     "the sage of shadowdale": "elminster",
-    "el":                     "elminster",  # common shorthand in the books
+    "el":                     "elminster",
     "lady of mysteries":      "mystra",
     "midnight":               "mystra",
     "mystra (midnight)":      "mystra",
 }
 
-# ── Chunking (from split_lore_file.py) ───────────────────────────────────────
+# ── Chunking ──────────────────────────────────────────────────────────────────
 def count_words(text: str) -> int:
     return len(text.split())
 
@@ -112,10 +117,6 @@ def create_chunks(text: str, min_words: int = MIN_WORDS, max_words: int = MAX_WO
 
 # ── Tagging ───────────────────────────────────────────────────────────────────
 def flatten_field(value) -> str:
-    """
-    Safely convert any metadata value to a plain string.
-    Handles: str, list, None, int, float, or anything else Mistral might return.
-    """
     if value is None:
         return ""
     if isinstance(value, list):
@@ -135,7 +136,7 @@ def extract_metadata(chunk_text: str) -> dict:
     prompt = f"""Read this Forgotten Realms lore chunk and extract metadata.
 Return ONLY a single JSON object with these fields:
 - characters: list of character names present or implied in this chunk
-- events: short description of what happens (max 10 words)
+- events: describe what happens and its significance to the characters, including whether this is a first meeting, betrayal, death, transformation, or other milestone. Max 15 words.
 - location: list of place names mentioned, empty list if none
 
 Rules for characters:
@@ -159,19 +160,12 @@ JSON:"""
     try:
         response = requests.post(
             OLLAMA_URL,
-            json={
-                # "model": "mistral"
-                "model": "mistral-nemo",
-                "prompt": prompt, "stream": False},
-
+            json={"model": "mistral-nemo", "prompt": prompt, "stream": False},
             timeout=60
         )
         raw = response.json()["response"].strip()
-
-        # Strip markdown fences
         clean = raw.replace("```json", "").replace("```", "").strip()
 
-        # If Mistral returned multiple JSON blocks, take only the first complete one
         brace_count = 0
         end_index = 0
         for i, char in enumerate(clean):
@@ -192,13 +186,8 @@ JSON:"""
         print(f"    ⚠️  Tagging failed: {e}")
         return {"characters": [], "events": "", "location": []}
 
-# ── Disk output (human-readable inspection) ───────────────────────────────────
+# ── Disk output ───────────────────────────────────────────────────────────────
 def save_chunk_to_disk(chunk_id: str, book_name: str, chunk_index: int, chunk_text: str, metadata: dict) -> None:
-    """
-    Save a chunk as a .txt file under lore_chunks/{book_name}/
-    The file includes a metadata header so you can inspect both
-    the tags and the raw content in one place.
-    """
     book_dir = os.path.join(CHUNKS_DIR, book_name)
     os.makedirs(book_dir, exist_ok=True)
 
@@ -221,108 +210,96 @@ def save_chunk_to_disk(chunk_id: str, book_name: str, chunk_index: int, chunk_te
     with open(file_path, "w", encoding="utf-8") as f:
         f.write(content)
 
-
 # ── Main pipeline ─────────────────────────────────────────────────────────────
 def build_database():
     print("=" * 60)
     print("Building Elminster lore database")
     print("=" * 60)
 
-    # Init ChromaDB
     chroma_client = chromadb.PersistentClient(path=CHROMA_PATH)
-    collection = chroma_client.get_or_create_collection(COLLECTION)
 
-    # Init embedding model
+    # Two separate collections — wiki summaries vs book narratives
+    wiki_collection  = chroma_client.get_or_create_collection(COLLECTION_WIKI)
+    books_collection = chroma_client.get_or_create_collection(COLLECTION_BOOKS)
+
     print("\nLoading embedding model...")
     embed_model = SentenceTransformer(EMBED_MODEL)
 
-    # Collect source files from all configured source dirs
-    source_files = []
-    for src_dir in SOURCE_DIRS:
+    total_chunks_added = 0
+
+    for source_type, src_dir in SOURCE_DIRS.items():
         if not os.path.exists(src_dir):
             print(f"⚠️  Source dir not found, skipping: {src_dir}")
             continue
+
+        # Route to correct collection
+        collection = wiki_collection if source_type == "wiki" else books_collection
+        collection_name = COLLECTION_WIKI if source_type == "wiki" else COLLECTION_BOOKS
+
         found = [
             os.path.join(src_dir, f)
             for f in os.listdir(src_dir)
             if f.endswith(".txt")
         ]
-        print(f"📂 {src_dir}: {len(found)} file(s) found")
-        source_files.extend(found)
+        print(f"\n📂 {src_dir} → {collection_name}: {len(found)} file(s) found")
 
-    if not source_files:
-        print("No .txt files found in any source directory.")
-        return
+        for file_path in found:
+            raw_name = os.path.basename(file_path)
+            book_name = raw_name.split(".")[0]
+            print(f"\n📖 Processing: {book_name}")
 
-    print(f"\nTotal source files to process: {len(source_files)}\n")
+            with open(file_path, "r", encoding="utf-8") as f:
+                text = f.read()
 
-    total_chunks_added = 0
+            chunks = create_chunks(text)
+            print(f"   Created {len(chunks)} chunks")
 
-    for file_path in source_files:
-        # Strip all extensions (handles .pdf.txt, .txt etc.)
-        raw_name = os.path.basename(file_path)
-        book_name = raw_name.split(".")[0]  # takes only the part before first dot
-        print(f"\n📖 Processing: {book_name}")
+            for idx, chunk_text in enumerate(chunks, 1):
+                chunk_id = f"{book_name}_chunk_{idx:03d}"
 
-        with open(file_path, "r", encoding="utf-8") as f:
-            text = f.read()
+                existing = collection.get(ids=[chunk_id])
+                if existing["ids"]:
+                    print(f"   [{idx}/{len(chunks)}] Skipping (already exists): {chunk_id}")
+                    continue
 
-        chunks = create_chunks(text)
-        print(f"   Created {len(chunks)} chunks")
+                print(f"   [{idx}/{len(chunks)}] Tagging + embedding: {chunk_id} ...", end=" ", flush=True)
 
-        for idx, chunk_text in enumerate(chunks, 1):
-            chunk_id = f"{book_name}_chunk_{idx:03d}"
+                metadata = extract_metadata(chunk_text)
 
-            # Skip if already in ChromaDB
-            existing = collection.get(ids=[chunk_id])
-            if existing["ids"]:
-                print(f"   [{idx}/{len(chunks)}] Skipping (already exists): {chunk_id}")
-                continue
+                flat_metadata = {
+                    "source":      chunk_id,
+                    "book":        book_name,
+                    "chunk_index": idx,
+                    "characters":  flatten_field(metadata.get("characters")),
+                    "events":      flatten_field(metadata.get("events")),
+                    "location":    flatten_field(metadata.get("location")),
+                }
 
-            print(f"   [{idx}/{len(chunks)}] Tagging + embedding: {chunk_id} ...", end=" ", flush=True)
+                enriched_text = (
+                    f"characters: {flat_metadata['characters']}\n"
+                    f"events: {flat_metadata['events']}\n"
+                    f"location: {flat_metadata['location']}\n\n"
+                    f"{chunk_text}"
+                )
+                embedding = embed_model.encode(enriched_text).tolist()
 
-            # Tag
-            metadata = extract_metadata(chunk_text)
+                collection.add(
+                    documents=[chunk_text],
+                    metadatas=[flat_metadata],
+                    ids=[chunk_id],
+                    embeddings=[embedding],
+                )
 
-            # Flatten for ChromaDB — every value must be str/int/float/bool
-            flat_metadata = {
-                "source":      chunk_id,
-                "book":        book_name,
-                "chunk_index": idx,
-                "characters":  flatten_field(metadata.get("characters")),
-                "events":      flatten_field(metadata.get("events")),
-                "location":    flatten_field(metadata.get("location")),
-            }
+                save_chunk_to_disk(chunk_id, book_name, idx, chunk_text, metadata)
 
-            # Embed enriched text — metadata tags + raw content combined
-            # This improves retrieval by encoding the interpreted meaning
-            # (characters, events, location) alongside the raw text
-            enriched_text = (
-                f"characters: {flat_metadata['characters']}\n"
-                f"events: {flat_metadata['events']}\n"
-                f"location: {flat_metadata['location']}\n\n"
-                f"{chunk_text}"
-            )
-            embedding = embed_model.encode(enriched_text).tolist()
-
-            # Store in ChromaDB
-            collection.add(
-                documents=[chunk_text],
-                metadatas=[flat_metadata],
-                ids=[chunk_id],
-                embeddings=[embedding],
-            )
-
-            # Save human-readable copy for inspection
-            save_chunk_to_disk(chunk_id, book_name, idx, chunk_text, metadata)
-
-            total_chunks_added += 1
-            print(f"✓  {flat_metadata['characters'] or 'no characters tagged'}")
+                total_chunks_added += 1
+                print(f"✓  {flat_metadata['characters'] or 'no characters tagged'}")
 
     print("\n" + "=" * 60)
-    print(f"Done. {total_chunks_added} chunks added to ChromaDB.")
-    print(f"Total chunks in collection: {collection.count()}")
-    print(f"Readable chunks saved to  : {CHUNKS_DIR}/")
+    print(f"Done. {total_chunks_added} chunks added.")
+    print(f"  Wiki  collection : {wiki_collection.count()} chunks")
+    print(f"  Books collection : {books_collection.count()} chunks")
+    print(f"  Readable chunks  : {CHUNKS_DIR}/")
     print("=" * 60)
 
 

@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 274
-characters  : elminster
-events      : Elminster infiltrates Athalgard castle
-location    : Athalgard, Athalantar
+characters  : elmminster, myrjala
+events      : Elminster infiltrates Athalgard palace to reach throne room
+location    : Athalgard, Athalantar, throne room
 === CONTENT ===
 together in the darkened passage. Myrjala laid a hand on his arm, and gave him a smile. "I shall not be far. Call if you want me." El saluted her with the stump of the Lion Sword and strode away down the passage, exchanging the remnant of his father's sword for a more serviceable blade. The last prince of Athalantar had very few spells left, and lurched in weariness as he went. In his tattered tunic and breeches, drawn sword in hand, he could not have been a usual sight in the grand central rooms and halls of Athalgard as he made his way to the throne room. Servants he passed-and there were many-kept their eyes downcast and stepped smoothly out of his way, as if long used to making way for swaggering warriors.
 

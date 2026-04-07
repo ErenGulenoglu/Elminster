@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 113
-characters  : elminster
-events      : Elminster captured by Athalantar magelords
-location    : Athalantar
+characters  : elminster, mystra
+events      : Elminster seeks power from Mystra; Elminster captured by magelord and sentenced to death
+location    : none
 === CONTENT ===
 would aid you?" Elminster swallowed and found he couldn't shrug. Or move anything except his mouth. "The gods exist," he said slowly, "and their power is real. I have need of that power." "Oh? The traditional way," the wizard said pleasantly, "is to study-long and hard, for most of a lifetime-and abase oneself as an apprentice, and risk life in trying spells one doesn't understand or in devising one's own new magics. What colossal arrogance, to think Mystra would just give you something when you asked for it!" "The colossal arrogance in Athalantar," Elminster said softly, "is held by magelords. Your hold on this land is so tight that no other men in it have the luxury of colossal arrogance." There was a murmur, somewhere among the ring of arms-men. Ildru glared around, and abrupt silence returned. Then the wizard sighed theatrically. "I weary of your bitter words.
 

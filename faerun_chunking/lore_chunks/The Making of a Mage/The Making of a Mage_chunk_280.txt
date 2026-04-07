@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 280
-characters  : elminster, undarl, hannibur, shan
-events      : Elminster kills Undarl who transforms into a scaled creature before disappearing; Hannibur stabs an intruder attempting to kill Elminster; Shan reunites with Hannibur
-location    : throne room
+characters  : elminster, undarl
+events      : Undarl transforms into a dragon-like creature and dies; Elminster collapses due to exhaustion
+location    : none
 === CONTENT ===
 And-for me, gods blast you!" The body beneath his blade started to flow and twist. Suddenly fearful of contingencies, Elminster sprang clear. The blood that sprayed from his dripping weapon as he did so was ... black! El stared in horror at the bloody ruin of the master of the magelords. The wizard Undarl swayed up to his feet, took one sagging step, and clawed weakly at Elminster-with hands that were suddenly scaled and taloned. His pain-twisted face lengthened into a scaled snout as the wizard fell, and a long, forked tongue flopped onto the tiles before his writhing body was suddenly surrounded by twinkling lights. Amid those lights, the scaly thing slowly and quietly faded from view, leaving behind only a black pool of blood on the tiles. Elminster stared down at where his greatest enemy had lain, feeling suddenly so weary that he could scarce . . .
 

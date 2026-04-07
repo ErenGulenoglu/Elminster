@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 226
 characters  : elminster, myrjala
-events      : Elminster decides to free Athalantar
-location    : athalantar, launtok
+events      : Elminster decides to rule Athalantar but grows weary of the idea; Myrjala holds him accountable for his past actions and they decide to continue their quest for vengeance.
+location    : Athalantar, Launtok
 === CONTENT ===
 what should I do with my life?" "Why, rule Athalantar, of course." "Now that the throne comes into my reach," Elminster said slowly, "I find myself wanting it less and less." The arms around him tightened. "That's good," Myrjala said quietly. "I've grown weary waiting for you to grow up." Elminster looked at her and frowned. "Outgrowing blind vengeance? I suppose ... why go through with it all, then?" Myrjala looked at him steadily in the darkness, her dark eyes large and mysterious. "For Athalantar. For your dead mother and father-and all who lived and laughed in Heldon before the dragon came down on them. For the folk in the taproom of the Unicorn's Horn, and those in Narthil . . . and for your outlaw comrades who died in the Horn Hills." Elminster's lip's thinned. "We'll do it," he said with quiet determination. "Athalantar shall be free of magelords.
 

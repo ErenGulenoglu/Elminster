@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 79
-characters  : neldryn hawklyn, havilyn, elminster
-events      : Mage Royal Neldryn Hawklyn demonstrates a powerful magical chain and discusses the mightiest mage in Faerun
+characters  : neldryn hawklyn, elminster
+events      : Neldryn Hawklyn displays his magical power to Elminster.
 location    : none
 === CONTENT ===
 the magic you've belittled as mere tricks and flame-balls to cow the common folk." There was a strange, high ringing and clanking sound. "Behold this chain," came the cold voice of Neldryn Hawklyn, Mage Royal of Athalantar. "Set it down and withdraw; my thanks." There was a glassy shifting sound and then the receding tread of soft and hasty feet. The clink of moving glass came again, and reflections of flame suddenly danced on the wall above Elminster. He peered at them narrowly and saw that a transparent chain was rising by itself from the floor, rising and coiling upward to hang in the air and turn slowly in a great spiral. The cold voice of Hawklyn spoke again. "This is the Crystal Chain of Binding, wrought in Netheril long ages ago. Elves, dwarves, and men all searched for it and failed and thought it lost forever.

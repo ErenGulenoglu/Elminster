@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 118
 characters  : elminster, mystra
-events      : Elminster meets Mystra and becomes a mage
-location    : none
+events      : Elminster meets Mystra, who grants him power; Elminster kneels to Mystra and is transformed
+location    : temple
 === CONTENT ===
 first words to him, and it was still so. "I fear ye, and ..." He was silent for a time, and then what might have been a smile touched his lips, and he went on. "... I think I could learn to love ye." Mystra was very close to him now, and her eyes were dark pools of mystery. She smiled, and suddenly Elminster felt cool and refreshed, at ease. "I let mages use spells freely so that all beings who use magic may escape tyranny. But from that freedom come such as the magelords in this land," she said. "If you would overthrow them, why not become a mage yourself? It is but a tool in your hand... and it seems to fit your hand better than many I have seen grasping at it." Elminster took a pace back, lifting his hands in an unconscious warding gesture.
 

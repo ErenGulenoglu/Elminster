@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 119
 characters  : elminster
-events      : Mystra speaks to Elminster through her altar; Elminster remembers how he first served Mystra
-location    : none
+events      : Elminster first serves Mystra
+location    : athalantar
 === CONTENT ===
 glow of magic was everywhere in this vast chamber, but brightest of all behind him. He turned and beheld the altar. Mystra was gone, and her scepter with her, but as he looked, words flamed out brightly on the altar. He hurried forward to read them. "Teach thyself magic, and see the Realms. You will know when to come back to Athalantar. Worship me always with that keen mind and that lack of pride, and you will please me well. Serve me first by touching my altar." As he finished reading, the words faded. When the altar was bare and dark again, he reached forward tentatively-paused in sudden, trembling fear-and then laid a hand firmly on the cold stone. He thought he heard a faint chuckle, somewhere nearby .. . and then darkness claimed him again.
 

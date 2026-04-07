@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 168
-characters  : elmara
-events      : Elmara flies from a burning scene, travels by boat to Mystra's Dance island
+characters  : elminster, mystra
+events      : Elminster escapes burning temple, seeks audience with Mystra
 location    : Mystra's Dance
 === CONTENT ===
 Hands still moving in the feeble, useless gestures of a broken spell, Elmara found herself hurled out the shattered window where the two thieves had gone, a coil of flames crackling and searing around her. She roared in pain, the flames clawing at her, and twisted about as she fell so as to appear helpless for as long as possible before she called on the powers of her still- working flight spell. The book strapped to her stomach seemed to ward off the flames, but her ears were full of the sizzle of her burning hair. Below lay the shattered bodies of the two thieves, and a large blackened area where lumps still gave off smoke-all Briost had left of the youngest Blade and the horses he'd guarded. Scant feet above them, Elmara bent her will and darted away, soaring just above the ground, smoke trailing from her blackened clothes.

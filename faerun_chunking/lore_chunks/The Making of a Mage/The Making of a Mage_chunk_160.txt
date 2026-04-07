@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 160
-characters  : elminster, elmara
-events      : Elmara retrieves a bound book, discovers an inscription., The Blades discover a new chamber with a tomb.
-location    : The Chamber of Balconies
+characters  : elmara, tarthe, dlartarnan, ithym
+events      : Elmara obtains mysterious book, triggers transformation; group discovers new chamber
+location    : chamber of balconies
 === CONTENT ===
 "Elmara-beware!" Tarthe called, his voice hoarse and cracked. Elmara cast a look at him, saw the lights, and stared hard at them for a moment. Then she waved a dismissive hand and turned back to the floating book. Across the chamber, the trapped beholder threw itself helplessly against the wall again and again, the wet thuds of its impacts marking a steady beat as Elmara bent to peer at the pages. As her fingers touched the book, the moving lights suddenly rushed forward with a loud sigh. Elmara stiffened as they enveloped her. The Blades saw the book drift out of her motionless hands and close smoothly. A band of shining metal crawled out of one end of the binding, darted smoothly around the tome, and tightened. There was a flash of light, and the book was bound shut.
 

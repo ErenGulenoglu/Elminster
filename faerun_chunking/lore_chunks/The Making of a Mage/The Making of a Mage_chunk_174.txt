@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 174
 characters  : elminster
-events      : Traveler arrives at inn, enjoys meal and music, witness to minstrel's sudden illness
-location    : Athalantar
+events      : Elmara listens to a ballad about King Uthgrael while enjoying her meal; minstrel suddenly falls ill; Elmara observes a man nearby, possibly responsible.
+location    : The roadside inn
 === CONTENT ===
 The roadside inn stood amid a cluster of sheep farms well west of Athalantar; to reach it, she'd walked all that day with nothing but brook water to drink and nothing at all to eat. The innkeeper heard the traveler's stomach growl as she stalked past, and greeted her affably. "A table and some stew right off, goodwoman? With a roast and wine to follow, of course...." The young woman nodded, a smile almost rising to her grim lips. "A- quiet corner table, if ye would. Dark and private." The innkeeper nodded. "I've many such... this way, along behind, here...." The traveler did smile this time and allowed herself to be led to a table.
 

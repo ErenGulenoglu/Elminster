@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 120
 characters  : elminster, mystra
-events      : Elminster transformed into woman by Mystra
-location    : none
+events      : Elminster transformed into Elmara by Mystra to learn about magic and find a teacher in the forest.
+location    : Shadowdale
 === CONTENT ===
 Elminster bent forward to take it up. There was an unfamiliar swaying sensation at his chest as he knelt. Frowning, he looked down and saw the breasts and the smooth curves of a maid. Elminster stared down at himself in astonishment, and ran a wondering hand over his body. It was solid and real... he looked wildly around, but he was alone. Mystra had turned him into a woman! Clutching the reassuring, familiar hilt of the Lion Sword, El crawled forward across the rock until he could stare down into the placid waters of the pool. He studied his reflection there, seeing his own sharp nose and black hair, but a rather softer face, with a pert mouth-now frowning in
 

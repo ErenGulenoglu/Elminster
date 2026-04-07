@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 28
-characters  : elminster, sargeth, engarl, mauri, javal
-events      : Outlaws discuss food supplies and past encounters with magelings
-location    : Wind Cavern
+characters  : elminster
+events      : Discussion on food scarcity and elven magic among outlaws led by Elminster.
+location    : none
 === CONTENT ===
 We already outbreed them like rabbits, an' if ever we o'ermatch elven magic, they'll be staring at their graves...." Now she looked up through her warts and bristles at the arriving band, grinned toothlessly at them, and said, "Food, valiant warriors?" "Aye," Engarl joked, "and when we've feasted, we'll give ye some to replace it." He chuckled at his jest, but the dozen or so ragged outlaws awake around them only snorted sourly in reply; they'd no food left but four shriveled potatoes Mauri had kept safe in the filthy folds of her gargantuan bosom for the last two days, and had taken to chewing on the bitter glow- fungi to still aching stomachs while they waited for one of the bands to bring back meat. Now they hustled to get a fire going and drag out the cooking frame of rusting sword blades woven together in a rough square.
 

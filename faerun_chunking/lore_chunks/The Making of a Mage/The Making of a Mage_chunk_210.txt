@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 210
-characters  : elmara, myrjala
-events      : Elmara and Myrjala practice spell casting in a cavern
-location    : a cavern
+characters  : elminster, mystra
+events      : Elminster teaches El how to control her powers more precisely
+location    : none
 === CONTENT ===
 El found herself floating motionless in midair as the echoes of the explosion boomed and rolled around her and rocks and dust fell on her from the unseen ceiling far above. "Myrjala?" she asked the darkness anxiously. "Teacher?" "I'm fine," a calm voice replied from very near at hand, and El felt herself turning in the air to look into the dark, intent eyes of the older sorceress, who was floating upright in midair beside her. Myrjala's bare body was as dusty
 

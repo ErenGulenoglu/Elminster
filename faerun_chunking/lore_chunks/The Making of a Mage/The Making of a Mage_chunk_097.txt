@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 97
 characters  : farl, elminster
-events      : Formed Velvet Hands gang
-location    : Hastarl
+events      : Formation of Velvet Hands gang
+location    : hastarl
 === CONTENT ===
 The next roof was thatch, and they burrowed thankfully into its far slope to catch their breaths. They looked at each other in the darkness, panting. "There's naught for it," Farl said a few frantic breaths later, "but to form our own gang." "Tyche aid us," El murmured. Farl looked at him. "Don't you mean Mask, Lord of Thieves?" "Nay," Elminster replied. "I was praying that this 'gang' does not end our friendship ... or our lives." Farl was a silent for a long time. Then Elminster heard him murmur, "Oh, Lady Tyche, hear me...." *    *    *    *    * "Ah, Naneetha! Those velvet hands . .." Farl was laughing- and then he stopped. "That's it! We'll call ourselves the 'Velvet Hands'!" Groans and laughter rang round the tiny room.
 

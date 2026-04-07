@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 213
 characters  : elminster, elmara
-events      : Undead sorcerer reveals feeding habits and talks about imprisonment of deepspawn
+events      : First meeting between Elmara and Netherese wraithwizard. Sharing of secrets but no harm intended.
 location    : none
 === CONTENT ===
 "In my day, we mastered our bodies, so we can become solid or as ye see me now, and pass from one state to another at will. With long practice, one even learns to turn only a hand solid, and leave the rest unseen." "Is this something that can be taught?" The emerald eyes danced in mirth. "Aye, to those willing to pass beyond death." "Why," asked Elmara softly, "would anyone want to pass beyond death?" "To live forever ... or to finish a task that drives and consumes one's days, as vengeance on magelords consumes thine ...or to-" "Ye know that about me?" "I can read thy thoughts, when ye are this close," the Netherese wraithwizard replied. Elmara stepped back, raising her hands with fresh resolve, and the undead sorcerer sighed in her mind. "Nay, nay-cast not thy petty spell, mageling. I've worked ye no harm."

@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 242
-characters  : ruvaen, helm, elminster
-events      : Knights prepare for battle against magelords
-location    : forest, hastarl, heldon
+characters  : elminster, helm
+events      : Elminster rallies knights to rebellion against magelords; Helm leads charge
+location    : hastarl, heldon
 === CONTENT ===
 I'd welcome a chance to hew down a few magelings and armsmen-but how'll any of us ever get close enough to have that chance?" "The elves will go to war beside you," Ruvaen's voice came again. "Our magic will hide or shield you whenever we can, so you can stand blade-to- blade against your foes at last." There were rumbles of approval at this, but Helm stepped forward and raised his hand for silence. "I've led you, but in this every man must choose freely... . Death is all too likely, whatever grand words we toss back and forth here." The old knight spat thoughtfully into the leaves at his feet, and added, "Yet think you: death is coming for us if we say no and go on cowering in the forest. The magelords're wearing us down, man by man . . .
 

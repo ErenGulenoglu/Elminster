@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 76
 characters  : farl, elminster
-events      : Planning espionage against wealthy merchants
-location    : none
+events      : Farl and Elminster discuss their next steps in investigating wealthy merchants. Farl plans to infiltrate a dinner party, while Elminster will reconnoiter a house belonging to three merchants.
+location    : waterdeep
 === CONTENT ===
 I'd rather not spend the rest of a short and unhappy life with most of Those Who Hear All furious with me-to say nothing of their priesthoods." Farl grinned. "I expected that. Well, then, there's but one field we've not touched: rich merchants." He held up a hand to forestall Elminster's coming protest about plundering hardworking shopkeepers and said quickly, "I mean those who lend coins and invest in back rooms and behind secure doors, working secretly in groups to keep prices high and arrange accidents for competitors . . . ever notice how few companies own the barges that actually land here? And the warehouses? Hmmm?
 

@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 256
-characters  : tassabra, nathana, alarashan, old one, hathan, undarl
-events      : Tassabra steals items from Magelord Alarashan's tower., Undarl attempts to create flying armor-plated griffons in Hornkeep.
-location    : Hornkeep
+characters  : tassabra, nanatha, alarashan, old one, hathan, undarl
+events      : Tassabra steals items, Alarashan teleports with Nanatha, Hathan senses trouble
+location    : tower
 === CONTENT ===
 Seventeen FOR ATHALANTAR In the name of a kingdom many fell things are done. In the name of a love fairer things are won. Halindar Droun, Bard of Beregost from the ballad Tears Never Cease Year of the Marching Moon The magelord's words made Tassabra bite her lip. She froze, listening, her fingers only inches away from the glowing armlet. "I have her with me," the Magelord Alarashan went on almost jovially as he leered at the trembling Nanatha, "and she insists the woman revealed herself as the mage royal-and Undarl even waved farewell to her before he left, taking the other one with him." "That hardly seems possible." The sour old voice coming from the scrying-crystal grew stronger. "Bring her to me." Alarashan bowed his head. "Of course, Old One," he said, taking hold of Nanatha's wrist.
 

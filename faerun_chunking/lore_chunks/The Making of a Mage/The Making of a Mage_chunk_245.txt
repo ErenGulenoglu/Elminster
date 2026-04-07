@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 245
-characters  : ithboltar, undarl, ildryn, malanthor, alarashan, briost, chantlarn, seldinor, taraj, kadeln
-events      : Ithboltar contacts fellow mages about two rival strangers
+characters  : ithboltar, undarl, ildryn, malanthor, alarashan, briost, chantlarn
+events      : Ithboltar takes control of six mages and warns them about two strangers killing their colleagues. They argue about whether to act immediately.
 location    : none
 === CONTENT ===
 Tiny motes of light began to sparkle and pulse in the web of jewels. Lights played back and forth among the gems as the old man mouthed silent words and traced unseen sigils ... and the skullcap slowly faded into invisibility. When it was entirely gone, he opened his eyes. The pupils had become a flat, brightly glowing red. Staring unseeing into the distance, the old man spoke into the crystal. "Undarl. Ildryn. Malanthor. Alarashan. Briost. Chantlarn." Each name brought an image into the air above his head. Looking up, he saw six mages approach their own crystals and lay hands on them. They were his, now. He smiled, slowly and coldly, as the magic of his crown reached out to grip their wills. "Speak, Ithboltar," one wizard said abruptly. "What befalls, Old One?" another asked, more respectfully.

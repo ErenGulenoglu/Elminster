@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 178
-characters  : elminster
-events      : Elmara arrives at Athalantar gate, is challenged by guards, uses magic on them
+characters  : elmara
+events      : Elmara demonstrates powerful magic against Athalantar guards
 location    : Athalantar
 === CONTENT ===
 In all her days in Hastarl, there'd been no gates on the roads into Athalantar-or she'd surely have heard of it from the tired merchants who complained about every little thing on their journeys. The guards lounging on benches behind the gate heaved themselves to their feet and picked up their halberds. Armsmen of Athalantar, or she was a magelord. They looked bored and brutal. Elmara shifted her pack to better conceal the small spell-things she'd taken into her palm, and trudged up to the gate. "Halt, woman," the swordcaptain of the guard said offhandedly. "Your name and trade?" Elmara faced the officer across the gate and said politely, "The first is none of thy affair; as to the second, I work magic." The armsmen drew back, their boredom gone in an instant. Halberds flashed as they came down over the gate to menace the lone woman.

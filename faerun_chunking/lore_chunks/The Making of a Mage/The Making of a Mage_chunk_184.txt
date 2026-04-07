@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 184
 characters  : elmara
-events      : Mage Elmara confronts armed intruders
-location    : narthil
+events      : First meeting between Elmara and Prince Gartos of Athalantar; Elmara uses spell to incapacitate warrior's horse and knocks out Magelord Eth
+location    : Narthil
 === CONTENT ===
 A lone figure was trudging up the street toward them: a youngish, thin woman in nondescript garb, who held a steaming mug of cider in one hand. She halted calmly in their path and stood sipping and watching. They slowed to a trot and then, in a patter of hooves, swept up to and flowed around her. Elmara found herself looking up into the hard eyes of a battle-worn warrior who wore magnificent armor and was flanked by a cold-eyed man in robes that bore no device, but somehow had "magelord" limned all over them. "Fair morn," she offered them mildly, sipping cider. "Who are ye who come in arms to Narthil when honest folk are still abed?" "I'll ask, and you will give swift answer," the warrior snapped, turning his mount to one side so he could lean down right over Elmara. "Who are you?"
 

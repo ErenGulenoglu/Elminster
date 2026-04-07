@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 285
-characters  : anauviir, myrjala, mithtyn, elminster, tassabra, farl, helm, isparla
-events      : Dance and conversation among nobles
-location    : none
+characters  : anauviir, myrjala, mithtyn, elminster
+events      : Myrjala reveals she knows Anauviir's name; Myrjala forces Mithtyn to dance; Elminster dances with court ladies all night
+location    : Shadowdale
 === CONTENT ===
 As he dipped past her, he asked curiously, "Lady, I mean no offence- but why did ye not kneel to the new king?" "I kneel to no man, Anauviir," Myrjala said and smiled. "If you would know why, ask Mithtyn in the morning." She left the warrior wondering how she knew his name, and turned away through the dancing folk to find Mithtyn. He was standing with most of the older folk by the pillars, watching the dance. As she glided toward him out of the whirling dancers, the old man went pale and turned to hasten away, but found himself surrounded by folk pressed forward for a good look. He had nowhere to go. Myrjala took him firmly by the hand. "After your praise for my dancing, you don't want to measure this floor with me? I'm hurt, brave Mithtyn!
 

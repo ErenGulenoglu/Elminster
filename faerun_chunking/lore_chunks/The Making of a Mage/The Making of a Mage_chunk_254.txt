@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 254
-characters  : elminster, myrjala
-events      : El faces Magelord, gets knocked out
-location    : none
+characters  : elminster, myrjala, farl, chantlarn
+events      : Elminster confronts magelord; Myrjala and Farl vanish; El is attacked by Chantlarn
+location    : bath chamber
 === CONTENT ===
 "Are ye ready?" "I'll come for him," was the soft reply. "We've got a patrol of armsmen up here." "Is that why I'm visible?" El said, suddenly realizing that the magelord had seen him instantly. El stepped out of the chamberpot, deciding not to look down at whatever mess he must be making, and strode toward where the magelord had vanished. A bottle sailed across the room at his head; he ducked, and it touched his shoulder and shattered against the door behind him. "Yes, that's why," Myrjala answered him calmly. "Next time, just pour me a glass, all right?" El stared at the frightened woman who'd hurled the bottle- did all these magelords walk about naked? Nay, she was dripping wet, just as the man
 

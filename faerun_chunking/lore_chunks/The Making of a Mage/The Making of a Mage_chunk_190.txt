@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 190
-characters  : elminster, mystra
-events      : Elminster uses Mystra's guidance to heal himself
+characters  : elminster
+events      : Elminster learns to convert memorized spells into healing energy from Mystra.
 location    : none
 === CONTENT ===
 The mists of light swirled and then parted again, revealing shapes of fire burning, endless and immobile, in emptiness. El stared at them. These fires were magic . . . and familiar. She stared at their coils and leaping tongues of fire . . . and-aye! These were the spells she'd memorized earlier, hanging in her own mind waiting to be released! Yes, a warm and mighty voice said, echoing all round her, and added, Watch. One of the fires moved suddenly, writhing and twisting like a snake unfolding. It flared in sudden brilliance- too bright to watch, even as the voice said, do thus, and behold! The fire flared up and was gone, leaving the white mists around a flickering amber. Elmara felt suddenly better, as if tension and pain had lessened ...

@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 86
 characters  : elminster
-events      : Elminster escapes through sewers
-location    : Shadowdale
+events      : Elminster escapes through sewers after a failed attempt to rescue captured mages.
+location    : sewers
 === CONTENT ===
 Elminster didn't spare the time to watch the man gurgle and fall; he was looking around the dark alcove for the scullery door. There! Wrenching it open, he skidded across the noisome room, through a maze of sloped boards where meat was washed and buckets where food scraps were thrown, hoping the house was old enough to have ... yes! El seized the pull-ring and hauled up the trapdoor of the refuse-pit. He could hear the waters of the Run rushing past in the darkness below as he slid feetfirst down to join them. The drop was farther than he'd thought it would be, and the waters numbingly cold. El's heels struck a mucky bottom for a moment, and he twisted to one side to come up off to one side of the door above.
 

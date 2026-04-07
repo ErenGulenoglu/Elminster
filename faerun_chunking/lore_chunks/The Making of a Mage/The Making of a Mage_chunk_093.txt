@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 93
 characters  : farl, elminster
-events      : Thieves steal coffer from Moonclaws gang
-location    : garden
+events      : Thieves steal from Moonclaws gang while evading capture
+location    : Moonclaws' hideout
 === CONTENT ===
 "This loot belongs to the Moonclaws," said one woman in a steely whisper, her eyes hard. "Ah, no," Farl replied disgustedly, hurling his dagger. "Gangs!" His blade spun through the air to plunge through the hand of the other woman, the hand that had been sweeping up with a dart in it. She screamed and fell to her knees. Elminster hurled a dagger hilt-first into the man's face, tossed a cushion after it, and then sudden rage took hold of him. He leapt forward to plant a kick so hard in the man's gut that he groaned aloud as his toes struck the armor plate there-but its wearer was driven headlong back out the window to fall screaming to the garden below, a garrote waving uselessly in his hands. "So noisy ... so unprofessional," Farl murmured, snatching up the jewel- coffer.
 

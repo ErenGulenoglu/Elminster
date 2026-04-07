@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 212
-characters  : elminster, mystra
-events      : Elmara encounters Ander, an ancient archwizard
+characters  : elmara, ander
+events      : First meeting between Elmara and Ander, where Ander reveals his past as an archwizard of Netheril and his current state as a wraith.
 location    : none
 === CONTENT ===
 In front of her, the wraith of a man was building itself out of the empty air-tall, thin, and regal, robed in strange garb adorned with upswept horns like the chests, and standing on nothingness well above the rune-graven floor. Eyes that were two emerald flames fixed Elmara with a powerful, deeply wise gaze, and a voice spoke in her head. "Why have ye come to dis- turb my sleep?" "To learn," El said quickly, not lowering her hands. "Students seldom arrive with ready slaying spells," was the reply. "That is more often the style of those who come to steal." Vertical columns of emerald radiance suddenly leapt into being all over the chamber, and from the ceiling jumbled bones descended into each shaft of light, to drift therein lazily. A score or more skulls stared at Elmara. She looked at them and then back at the wraith.

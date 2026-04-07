@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 240
 characters  : helm, halidar, anauviir, ruvaen, elminster
-events      : Helm receives scrying crystal from Helm, Halidar attempts to flee and is killed by Anauviir. Helm receives message from Ruvaen via crystal. Elminster appears unexpectedly.
-location    : woods
+events      : Halikar betrayal leads to his death; Elminster's sudden appearance causes shock and amazement.
+location    : none
 === CONTENT ===
 "Aye, Helm, what is it?" Wordlessly, Helm turned to Halidar, holding out the scrying crystal. Halidar's face went white. He sprang to his feet, whirling to flee-and then gasped and sagged slowly back against Helm. The old knight stood unmoving as the traitor slid slowly down his chest to tumble onto the forest floor. Anauviir's dagger stood out of Halidar's throat, just beneath his contorted mouth. Helm bent to pull it out without a word, wiped it clean, and handed it back to its owner. Halidar had always been quick . . . and Anauviir had always been swifter. Helm held up the crystal for them all to see. "The magelords have been watching over us," he said flatly. "Mayhap for years." Faces were pale all around him now.
 

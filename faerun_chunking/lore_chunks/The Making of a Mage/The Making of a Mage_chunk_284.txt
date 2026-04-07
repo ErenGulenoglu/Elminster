@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 284
 characters  : helm, mithtyn, elminster, myrjala
-events      : Helm becomes king of Athalantar, celebration ensues
-location    : athalantar
+events      : Helm crowned as King of Athalantar; Elminster shows emotion upon seeing Helm's coronation
+location    : Athalantar
 === CONTENT ===
 If you're of like mind, I'll work a spell that forces all cold iron out of this hall, so that none need fear weapons-even arrows-here tonight, and we can all make merry!" Helm stared at her. Then he suddenly threw back his head and shouted with laughter. "Of course," he roared," 'tis the least I can do!" Mithtyn was pushing through the crowd toward them, leading a young, trembling page, who bore the crown of Athalantar on a cushion. Elminster smiled, took up the circlet with a bow, and placed it on Helm's head. Then he cried, "Kneel, folk of Athalantar, before Helm Stoneblade, Lord of Athalantar, King of the Stag Throne!" There was a thunder of movement as everyone in the hall-except Elminster and Myrjala-knelt. Helm bowed his head, grinned at the two of them in thanks, and clapped his hands. "Rise, all!" he roared.
 

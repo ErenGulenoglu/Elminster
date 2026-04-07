@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 173
-characters  : ilhundyl, garadic, mystra
-events      : Ilhundyl attempts to summon and attack a rival mage but is thwarted by Mystra
+characters  : ilhundyl, garadic
+events      : Ilhundyl attempts to summon and attack a young mage, but encounters Magister instead. Ilhundyl attacks Magister, who reflects spell back at him.
 location    : castle of sorcery
 === CONTENT ===
 Ilhundyl stared into the crystal as the flames within it slowly grew, reaching flickering talons up its curving sides, and suddenly he was shouting. "I'll blast her bones! If she's drowned, I'll raise her-and then smash her bones like hurled eggs, and make her beg for release! No one tricks Ilhundyl! No one!" He spat a word of summoning, and halfway across the Castle of Sorcery, where he cowered in concealing shadows, the winged and warty shape of Garadic rose hastily and flapped down the swiftest ways to his master's side. Ilhundyl glared into the crystal, summoning up the young, hawk-nosed face from his memory. The fires swirled and shifted, clearing, and he gathered himself to hurl a scything blade of his will, to chop the young worm's legs off at the knees and let her scream and crawl until Ilhundyl came-and gave her real cause to scream and crawl!

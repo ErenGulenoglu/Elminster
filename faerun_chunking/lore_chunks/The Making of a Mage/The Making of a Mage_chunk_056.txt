@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 56
-characters  : elminster
-events      : Elminster and Farl observe targets for nighttime robbery
+characters  : farl, elminster
+events      : Preparation for nighttime thievery; Elminster shows professional skill
 location    : Hastarl
 === CONTENT ===
 Four THEY COME OUT AT NIGHT Thieves? Ah, such an ugly word . . . think of them instead as kings-in- training. Ye seem upset, even disputatious. Well, then, look upon them as the most honest sort of merchant. The character Oglar the Thieflord in the anonymous play Shards and Swords Year of the Screeching Vole It was just one more in an endless string of hot, damp days in the early summer of the Year of the Black Flame. Folk in Hastarl had taken to lying more or less unclad on the flat stretches of their rooftops and their balconies after sunset, hoping for a breeze to blow over their skin and bring them some fleeting moments of comfort. This was good for both pleasure and business-the predictable pleasure, and one business in particular. "Ah," Farl said softly, leaning forward to peer out of the slit window.

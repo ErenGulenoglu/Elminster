@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 205
-characters  : elminster
-events      : Elmara infiltrates camp and noble house
-location    : camp, Shadowdale
+characters  : elmara
+events      : Elmara infiltrates an enemy camp seeking a priest for her spellwork
+location    : camp, shrine to chauntea
 === CONTENT ===
 one fireball over the palisade would turn this torchlit camp into a huge funeral pyre. Perhaps someone should suggest it to them. Later. She had work before her, as always. Where there are lots of armsmen, there are always priests of Tempus, or Helm, or Tyr, or Tyche, or all four ... Tempus, at least. The shadow scudded along behind the barracks and warehouses, seeking a corner where a sword would be standing upright in a wooden block as an altar. Ah ... there. So where was the priest? Elmara drifted toward the nearest building. Within was a plain room hung with battered armor-trophies of Tempus, no doubt-and the unwashed man sleeping beneath them reeked of ale. If that was the priest, she thought in disgust, her venture here had failed, and she'd best be out and seeking the shrine to Chauntea before her spell ended. But first...
 

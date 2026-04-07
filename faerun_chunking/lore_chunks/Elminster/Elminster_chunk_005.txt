@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 5
-characters  : elminster, lhaeo, volothamp geddarm, vangerdahast aeiulvana, clarorna amaerityl, laeral silverhand, alustriel silverhand, gisentraxia, lycon wolf-beard, symgharyl maruel, gleanna stormlake, taranel, raerlin, nouméa fairbright, vangerdahast, sammaster, mystra
-events      : Elminster takes on apprentices, shares secrets with Vangerdahast, tutors Sammaster for Mystra, stops taking new students.
-location    : cormyr, phlan, athkatla
+characters  : elminster, lhaeo, volothamp geddarm, vangerdahast aeiulvana, laeral silverhand, clarorna amaerityl, alustriel silverhand, gisentraxia, lycon wolf-beard, symgharyl maruel, ghleanna stormlake, taranel, raerlin, nouméa fairbright, vangerdahast, sammaster
+events      : Elminster's apprenticeships include Lycon, Symgharyl, Ghleanna, Taranel, Raerlin, and Nouméa. Raerlin attempts to steal from Elminster., Elminster tutors Sammaster by Mystra's request, but their relationship becomes contentious due to Sammaster's obsession with Mystra and jealousy of her lovers.
+location    : tethyr, cormyr, athkatla, phlan
 === CONTENT ===
 El was dutifully served by Lhaeo , his personal scribe and Royal Consort to Queen Zaranda Star of Tethyr ; he regularly edited works written by Volothamp Geddarm , author of the widely popular but seldom fact-checked "Volo's Guide to..." series of travelogues; and maintained an amiable yet friendly rivalry of sorts with Vangerdahast Aeiulvana , the Mage Royal of Cormyr . Clarorna Amaerityl , a Wizardess of Athkatla , was Laeral's and Elminster's friend but shared no love for Alustriel Silverhand in the late 15 century DR. He was an ally of numerous adventuring companies , including the Knights of Myth Drannor , and the Rangers Three , and was even considered a 'bloodbrother' to no less than five clans of dwarves . The dragon named Gisentraxia was amongst Elminster's friends and allies in the late 15 century DR. Elminster continued to take on apprentices on occasion.
 

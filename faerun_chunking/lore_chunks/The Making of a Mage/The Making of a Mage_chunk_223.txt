@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 223
-characters  : elminster, ilhundyl
-events      : Elminster survives Ilhundyl's spell; Myrjala arrives, kills Ilhundyl with spellfire, retrieves magic book
-location    : faerun
+characters  : ilhundyl, elminster, myrjala
+events      : Ilhundyl attempts to kill Elminster; Ilhundyl is killed by Myrjala
+location    : Castle of Sorcery
 === CONTENT ===
 Shaking his head to clear it, he crawled away through a yellow haze. When it cleared, he turned ... and saw Elminster struggling to his own knees, vainly raking through his own gore to recover a ring with fingers that had been chopped away. Angrily, Ilhundyl hissed the words of a short, simple spell and stepped back to watch his foe die. The spell manifested. Bony claws coalesced out of empty air into sudden, harsh reality, and swarmed over Elminster-a score or more of them, raking and gouging with needle-sharp talons. Ilhundyl smiled as they did their gruesome work . . . and then his jaw dropped. They were fading away! The claws were ebbing back into the air, leaving the bloody wreck of a man still living. "What befalls?" the Mad Mage angrily asked Faerun at large as he strode forward. "Doom," said a low voice from behind him.
 

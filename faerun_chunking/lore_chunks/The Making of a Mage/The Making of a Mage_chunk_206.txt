@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 206
-characters  : elminster
-events      : Elmara searches for healing potions in the bedchamber
-location    : none
+characters  : elmara
+events      : Elmara steals healing potions
+location    : Hastarl
 === CONTENT ===
 The skirts of the high bed were no barrier to a shadow, and the space within was almost another small room one could sit in. The blue glow was near blinding now, spilling from a chest and two coffers that sat beneath the bed. As Elmara bent forward to peer at them, her shadow-spell ran out, and she thumped down onto the dusty carpet on hands and knees. She froze, listening tensely-but there came no sound of alarm, or of anyone coming into the room. The small coffer probably held gems and coins; the larger one and the chest were more likely to hold healing potions, if any were to be found here. There were apt to be some, if things she'd heard in Hastarl were true. With them, a magelord could rescue injured men and earn their gratitude, or bargain with them and force their service . . .
 

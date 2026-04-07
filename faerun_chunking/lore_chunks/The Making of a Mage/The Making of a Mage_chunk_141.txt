@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 141
-characters  : elmara
-events      : Lord Mage Dunsteen glares at Elmara; Elmara evades his magical attacks
+characters  : elminster
+events      : Elminster ignores Lord Mage Dunsteen's glare; Dunsteen casts fireballs at Elminster, who deflects them with Mystra's power
 location    : Shadowdale
 === CONTENT ===
 The lord mage glared at the young woman, but Elmara ignored him. The wizard cast angry glances around the room, but men carefully did not meet his eyes, and from where he wasn't glaring, there came chuckles. After a moment, Lord Mage Dunsteen turned, robes swirling, and stalked back to his private booth. Elmara shrugged, and talked on. ***** The moon was bright, riding high above the few cold fingers of cloud that crept along above the trees. Elmara drew her cloak closer around herself- clear nights like this brought a frost-chill-and hurried on. Before seeking the inn, she'd chosen a fern-choked hollow ahead to bed down in. Far behind her, branches snapped. It wasn't the first such sound she'd heard. Elmara paused to listen a moment, and then went on, moving a little faster.

@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 83
 characters  : elminster
-events      : Magister executes mages, Elminster flees
+events      : Elminster witnesses Magister's power, denies being a magelord
 location    : none
 === CONTENT ===
 The next man was another mage, who spat defiance and went to his death raging. When he was headless, pulses of purple radiance flared around the body. The Magister studied them. "An interesting web of contingencies- don't you think, Hawklyn?" The mage royal spat a word that echoed and rolled around the hall, and there was a sudden burst of flame. Elminster shrank back into the corner and hid his face, feeling a sudden wash of heat. Then it was gone, and amid the creaking of cooling stone and the rush of tortured air, they heard the old man sigh. "Fireballs ... always fireballs. Can't the young cast anything else?" The Magister stood unharmed on empty air, watching the chain-much shortened now, its surface cracked and blackened from fire-move to the next man.

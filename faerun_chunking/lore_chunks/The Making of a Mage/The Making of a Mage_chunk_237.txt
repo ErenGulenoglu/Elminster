@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 237
 characters  : elminster, myrjala
-events      : Elminster escapes death with help of Myrjala; Elminster and Myrjala discuss next target
+events      : Elminster survives battle, embraces and kisses Myrjala; plans to kill next magelord.
 location    : none
 === CONTENT ===
 Silence fell-followed a moment later by the Calishite, who gave a despairing moan as his eyes rolled up and he thudded limply to the scorched turf. The lady who glided into view atop the nearest ridge made a face at the blood covering Elminster. He looked up at her quickly, raising a hand to blast another foe if need be-and then relaxed, and called, "My thanks-again- for my life." Myrjala smiled as she came up to him and spread her hands. "What, after all, are friends for?" "How did ye do it this time?" El asked, striding forward to embrace her. She whispered something and made a small sign with one hand-and the magelord's gore was abruptly gone. Elminster looked down, shook his head, and then wrapped his arms around her and kissed her. "Let me breathe, young lion," Myrjala said at last, pulling her head back.

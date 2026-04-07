@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 45
 characters  : elminster, helm
-events      : Elminster participates in raid on outlander camp
-location    : Hastarl
+events      : Elminster and Helm lead a successful raid on an outlander camp; Elminster declines Helm's invitation to attack Hastarl due to fear of retaliation
+location    : Hills
 === CONTENT ===
 Elminster clutched at his throat and fell over in the snow, kicking. The others turned and fled. With a whoop one of the knights broke into a gallop, waving his sword as he urged his horse on, riding an armsman down and chopping another with his blade. The man fell and did not rise. "Ye seem to bring us luck," Helm shouted as they rode. "Care to lead us to break down the walls of Hastarl?" Elminster shook his head. "I grow tired of death, Helm," he shouted back, "and I fear the better ye do, the more the wizards'll hurl this way come spring. A few dead outlander merchants are one thing; entire patrols of armsmen slaughtered is another. They dare not let it go unpunished, or folk all o'er the realm will know, and remember, and get ideas." Helm nodded.
 

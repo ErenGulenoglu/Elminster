@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 101
-characters  : darrigo_trumpettower, peeryst, nanue, minter, isparla
-events      : Intruders raid Peeryst's room
-location    : Glarmeir
+characters  : darrigo trumpettower, peeryst, nanue
+events      : Burglary; Intruders threaten Peeryst & Nanue.
+location    : none
 === CONTENT ===
 They raised knowing eyes and grins toward the ceiling and then toasted each other. "Ah, yes," Darrigo Trumpettower said, leering over his glass at a Glarmeir lass almost half his age and blowing his bristling mustache out of his wine with a practiced puff. "I remember well my wedding night-the first one, at least; I was sober for that one. 'Twas back in the Year of the Gorgon Moon, as I recall. ..." *   *   *   *   * A dark figure rose up from beneath the bed, crept across the room, and ducked behind a lounge onto which Peeryst had grandly tossed his boots, one after the other, not so long ago. The intruder was safely out of sight before the next two thieves in leathers burst in through the other two windows, raining fresh glass onto the thick fur rugs.
 

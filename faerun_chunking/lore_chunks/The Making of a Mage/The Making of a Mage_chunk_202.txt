@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 202
-characters  : elmara, darrigo trumpetower
-events      : Sorceress Elmara uses magic to defeat armsmen and plant her influence in Shadowdale
-location    : Shadowdale
+characters  : elmara
+events      : Elmara uses powerful magic, causing battlelord's death and transforming armsmen into writhing, shrieking men. She gifts gems to Darrigo Trumpettower and floats away with an unnamed sorceress.
+location    : none
 === CONTENT ===
 The sorceress knelt with bleak eyes, watching helplessly as crossbows were wound, loaded, and made ready all around her. Elmara sat down hastily on the muddy ground and spoke one of the most powerful prayers she had, timing it carefully. "Loose!" At the battlelord's command, the armsmen let fly their quarrels, and Elmara bent forward, eyes blazing, to watch her spell take hold. Abruptly the battlelord was standing in the midst of the ring, and the sorceress was slumped on the ground where he'd stood, outside it. A score of bolts thudded home. Not a few pierced the opulent armor and found the face that the raised visor did not cover. The battlelord staggered, roared, transfixed by many shafts, lifted his hand-and then slowly toppled onto his face, and lay still. The armsmen were still gaping at the body of their commander when Elmara's hasty second prayer-spell took effect.
 

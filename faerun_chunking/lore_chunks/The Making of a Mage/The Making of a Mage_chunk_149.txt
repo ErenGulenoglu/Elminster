@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 149
 characters  : tarthe, gralkyn, ithym
-events      : Thieves admire statues and enter room with magical lights
-location    : room of speaking statues, dark lit room
+events      : Thieves marvel at statues and encounter magical lightning, Gralkyn enters and is temporarily transformed by lights.
+location    : none
 === CONTENT ===
 One room was carpeted in red velvet: a dancing-floor ringed with sparkling hanging curtains crafted of gems threaded onto fine wire. Another held smooth whitestone statues, perfectly lifelike in their size and detail and depicting beautiful human maidens with wings arching from their shoulders. Some were speaking statues, who greeted all intruders with soft, sighing voices, uttering poetry a thousand years dead. "Such shouldst be my only joy, to behold thee, but yet mine eyes see the sun and the moon and cannot but compare them to thee...
 

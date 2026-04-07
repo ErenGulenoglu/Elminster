@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 146
-characters  : elmara
-events      : Blades fight Bright Shields, Elmara intervenes
-location    : Baerlith
+characters  : elminster, srinshee
+events      : A young sorceress struggles with her powers; Blades fight Bright Shields, leading to death and theft
+location    : baerlith
 === CONTENT ===
 All the next winter, as the howling winds piled up snow deep and cold outside, the Blades sat before fires, sharpened their swords, and told restless tales of what bright deeds they'd done and what brighter things they would do when summer came again. Apart from them, the young sorceress studied. Her eyes grew deep-set and heavy-lidded, and her body ever more gaunt. She squinted as she went about and used few words, her wits distant and confused-for all the world as if the spells baffled her. Yet she could conjure fires in rooms that the winter had chilled and light for them all to see by without enduring the smoke of fires and candles or the work of chopping firewood. The Blades learned to keep out of her way, for their every plan brought from her an earnest torrent of moral questions: "Should we slay such a man?
 

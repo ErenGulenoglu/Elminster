@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 231
 characters  : elminster
-events      : Elminster agrees to destroy Taraj
+events      : Elminster tasked with slaying Taraj, a rogue magelord hunting men for sport.
 location    : Athalantar
 === CONTENT ===
 only to find ourselves beset by all the angry wizards after you've fought one or two-and then fallen." "I destroyed the archmage who ruled the Calishar not so very long ago," El said calmly. "We've heard several tales as to how he met his end-even the magelords have claimed to have worked his destruction, though they say several of them had to work together to do it," said another elf. "With respect, we must see your powers for ourselves." El did not sigh. "What sort of a test d'ye have in mind?" "Slay a magelord for us," another elf said firmly, and there was a murmured chorus of agreement. "Any magelord?" "One-Taraj, he's called-keeps watch over our forest and amuses himself by taking beast-shape to hunt. He slays for the love of killing, and mauls not

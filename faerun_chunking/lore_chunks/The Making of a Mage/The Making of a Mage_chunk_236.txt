@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 236
-characters  : mystra, kadeln olothstar, taraj, hurlymm, elminster
-events      : Kadeln Olothstar battled Taraj, robbed him of his quarry, then fought Elminster who killed Kadeln
+characters  : kadeln olothstar, taraj, elminster
+events      : Kadeln Olothstar dies after being betrayed by Taraj, who is replaced by Elminster
 location    : none
 === CONTENT ===
 "Aid me, Mystra," he whispered, as the swirling colors rushed up to meet him. ***** Kadeln Olothstar, magelord of Athalantar, laughed coldly. "Ah, I love a good fight! Taming a mageling, too! My thanks, Taraj!" The dragon hurtled helplessly down into his prismatic wall. Kadeln threw up a hand to shield his eyes from the blast he knew would come as the huge beast passed through his spell and they destroyed each other. It came. The world rocked, and a blinding flash clawed at his eyes even through his tightly shut lids. Kadeln landed hard on his back and spat a curse at the gods for putting a hard tree-root under his spine. Then he blinked his eyes until he could see again and rolled to his feet. Broken trees and smoking grass surrounded him, with nary a dragon in sight...

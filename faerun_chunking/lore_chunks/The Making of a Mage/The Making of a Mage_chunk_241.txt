@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 241
 characters  : elminster
-events      : Elminster asks knights for help against magelords
-location    : Athalantar
+events      : Elminster seeks knights' alliance to overthrow Athalantar's magelords
+location    : none
 === CONTENT ===
 The old knight got up, turned to his men, and said, "Kneel if you be a true knight of Athalantar ... for this is Elminster son of Elthryn, the last free prince of the realm!" "A magelord?" someone asked doubtfully. "No," Elminster said quietly. "A wizard who needs your help to destroy the magelords." They stared at him unmoving-until, one by one, they caught Helm's furious glare, and went to their knees. Elminster waited until the last knee-Anauviir's-touched the leaf-strewn ground, and then said, "Rise, all of ye. I am prince of nothing at the moment, and I need allies, not courtiers. I've learned magic enough to defeat any magelord, I believe-but I know that when any magelord gets into trouble, he'll call on another . .. and in a breath or two I'll have forty or more of them on my hands."
 

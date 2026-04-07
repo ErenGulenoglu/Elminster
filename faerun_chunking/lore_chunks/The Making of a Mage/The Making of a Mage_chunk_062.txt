@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 62
-characters  : elminster, shandathe
-events      : Elminster interacts with Shandathe
+characters  : elminster, shandathe, farl
+events      : Elminster meets Shandathe; Shandathe is harassed by a wealthy man and his guards
 location    : none
 === CONTENT ===
 More than once, El and Farl had agreed she must be an accomplished thief, or if she wasn't, was as accomplished at skulking as the best of them. Her large, dark eyes looked up past his belt buckle at Elminster-and he felt the need to swallow, his throat suddenly dry. "Coins to lend, Eladar the Dark? Have ye-coins to spend?" Her voice was husky, her eyes hungry.... Elminster made a helpless little sound of need deep in his throat and dipped his hand to his sleeve, whose cuff was stuffed with gold pieces. "One or two," he managed, in a voice that was not quite steady. Her eyes danced. "One or two, my lord? I'm sure I heard ye say three or four . .. aye, four gold. One for each of the delights I'll give thee." She licked his hand, the lightest of velvet touches in his palm.

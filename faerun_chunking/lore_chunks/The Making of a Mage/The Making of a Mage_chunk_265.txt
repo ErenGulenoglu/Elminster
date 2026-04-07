@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 265
-characters  : elminster, myrjala, tassabra, farl
-events      : Magelords confront Old One; Myrjala activates crystal; Armsmen attack, turning on each other
-location    : Ithboltar's spell chamber, Athalgard
+characters  : elminster
+events      : Elminster uses crystal to teleport magelords away, triggering chaos and infighting among guards.
+location    : ithboltar, athalgard
 === CONTENT ===
 ***** The magelords stared at the Old One and then at each other. There was reluctance in their words of agreement, and suspicious looks in plenty were exchanged. These pleasantries were yet incomplete when the tall window at the far end of Ithboltar's vast spell chamber shattered from top to bottom. Through the opening strode the grand figure of a mage as tall as two men, white-bearded and crowned with fire. He moved purposefully toward them, walking on air and holding high a staff as tall as he was. Its shining length glowed with pulsing, moving radiances. Every magelord shouted out a spell, as one-and the very air seemed to shatter. The end of the Old One's chamber vanished, raining dust down into the inner courtyard of Athalgard. Unseen behind them all, Ithboltar's crystal winked into life. ***** El let the crystal Tass had taken fade into darkness once more.
 

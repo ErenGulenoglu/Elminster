@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 15
-characters  : saharel, manshoon, elminster, mystra, sylune, adon, cyric, kelemvor
-events      : Elminster's allies sacrificed themselves to protect him; malaugrym invasion of the Realms was held off
-location    : shadowdale, daggerdale
+characters  : elminster, saharel, manshoon, mystra, sylune, adon, cyric, kelemvor
+events      : Saharel sacrifices herself to save Elminster; malaugrym invade Realms, Elminster devises plan with Chosen to defend; Elminster reunites with Syluné & Rangers Three in Daggerdale; Midnight meets Elminster in Shadowdale; Bane's avatar destroyed by Mystra's magic elemental
+location    : Kythorn, Daggerdale, Shadowdale, Morningdawn Hall
 === CONTENT ===
 During the conflict, the archlich Saharel sacrificed herself to slay the mortal Manshoon and save Elminster's life. Despite their small victory, two great threats to the Heartlands emerged: the extra-planar malaugrym that saw this crisis as an opportunity to exact revenge by slaying Elminster, and the god Bane , who had taken mortal form in Zhentil Keep , and sought to take for himself the Tablets of Fate . In the middle of Kythorn , El and his fellow Chosen devised a plan to protect the Old Mage and keep the Realms safe. The ghost of Syluné used El's pipe to act as a decoy Elminster, attracting the attention of the malaugrym while the Rangers Three assisted the real Elminster in preserving Mystra and repairing what remained of the fractured Weave.
 

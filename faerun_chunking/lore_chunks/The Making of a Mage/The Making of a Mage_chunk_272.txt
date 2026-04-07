@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 272
 characters  : helm stoneblade, darrigo trumpettower
-events      : Knights defend Athalgard courtyard against overwhelming armsmen
-location    : Athalgard
+events      : Knights defend Athalgard courtyard against overwhelming armsmen, Helm Stoneblade fights bravely and encourages resistance
+location    : athalgard
 === CONTENT ===
 The old knight roared back, "Tell me something I don't know!" Beside him, a red-faced Darrigo Trumpettower was panting as he swung a heavy blade he'd snatched from a dead hand. The old farmer was protecting Helm Stoneblade with his faltering right arm and his life. That was a price, it seemed, soon to be paid. The surviving knights stood together on the slippery, blood-smeared cobbles of Athalgard's outer courtyard. Armsmen were charging in at them from all sides now, streaming in the gates from barracks and watchtowers. A few old men in motley armor couldn't stand against such numbers for long. "We can't hold!" one knight cried despairingly, hurling an armsman to the ground and wearily stabbing the man in the face. "Stand and fight!" Helm roared out, his raw voice rising above them all.
 

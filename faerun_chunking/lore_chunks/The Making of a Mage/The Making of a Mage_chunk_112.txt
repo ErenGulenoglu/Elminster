@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 112
-characters  : elminster, lord ildru
-events      : Elminster captured and confronted by Lord Ildru in a temple
-location    : athalantar
+characters  : elminster
+events      : Elminster captured and confronted by Lord Ildru, who intends to use him in a ritual on Mystra's altar.
+location    : Mystra's temple
 === CONTENT ===
 Elminster began to glow. All of the stone in the temple began to shine until a soft, pearly-white radiance filled the room, revealing the young thief for everyone to see. In this case, 'everyone' was more than a score of armsmen, advancing across the chamber with grim faces and ready spears. The man who'd spoken stood in their midst and said, "Just a thief. Hold weapons." "What if he runs, lord?" The robed man smiled and said, "My magic will force him to walk where I want him to, and nowhere else." He gestured, and Elminster felt a sudden tugging at his limbs ... a tingling, numbing trembling akin to what he'd felt on that terrible day in the meadow above Heldon, long ago. His body was no longer his own; he found himself turning, sick despair rising inside, and walking toward the men. No, toward the altar.
 

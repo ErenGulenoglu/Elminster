@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 275
-characters  : elminster, undarl dragonrider
-events      : Elminster takes the throne, Undarl attempts to shoot him
-location    : Athalantar
+characters  : elminster
+events      : Elminster's first meeting with Myrjala; Elminster displays magical powers.
+location    : Athalantar, Stag Throne
 === CONTENT ===
 mustache bristling. "Who art thou, stripling?" he asked loudly, taking a step forward, the warhammer sliding up to rest ready on one shoulder. "Prince Elminster of Athalantar," was the calm reply. "Stand aside, if you would." The warrior sneered. Elminster slowed his pace and gestured with his blade for the armsman to step aside. The guardian gave him a mirthless, disbelieving smile, and stood his ground, waving the hammer warningly. El gave the man a brittle smile and lunged with his blade. The warrior smashed it aside with the warhammer, twisting his wrists so the mighty weapon's backspike would lay open this arrogant fool's head on his return sweep. Elminster stepped smoothly back out of his reach and murmured something, raising his free hand as if throwing something light and fragile.
 

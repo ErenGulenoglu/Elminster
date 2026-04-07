@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 31
-characters  : elminster, brerest, sargeth
-events      : Elminster and allies fight against armsmen near Wind Cavern
+characters  : elminster, brerest
+events      : Elminster & Brerest fight against armsmen; Elminster kills Sargeth
 location    : Wind Cavern
 === CONTENT ===
 I need those armsmen all dead-or we will be." "Aye," Elminster and Brerest panted, and went through the mouth of Wind Cavern in a roll. The quarrel that sought their lives hissed past and struck the rock within easy reach of Sargeth's head. The second one missed entirely-but Elminster came to a stop behind a snow-cloaked boulder in time to see the third take Sargeth in the eye, and drive him back like a crumpled bag of bones, to slide down the rock wall, twitching. Elminster laid his drawn dagger beside him in the snow, snatched up the old, mended crossbow that had fallen from Sargeth's hands, and cranked at it for all he was worth. The windlass clattered loudly, but outlaws were rushing past and firing their own bows now, and shouts told him that some of their bolts were finding their marks. Loaded at last.

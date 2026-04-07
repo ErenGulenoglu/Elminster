@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 24
-characters  : elminster, larloch
-events      : Elminster links minds with Avowed leaders; Larloch betrays and slays Candlekeep monks
-location    : Candlekeep, Myth Drannor
+characters  : elminster, larloch, laeral, alustriel, srinshee, manshoon
+events      : Elminster allies with Shadow Lord against Shar, betrays Elminster; Elminster gains control of Thultanthar, destroys Myth Drannor; archmages gather at Oldspires, murder each other for Lost Spell, Elminster destroys it and punishes Manshoon.
+location    : candlekeep, myth drannor, oldspires
 === CONTENT ===
 As Elminster saw Shar as a greater threat to the Realms than the lich, he accepted the Shadow Lord's offer, and began carrying out their plan. As agents of the Moonstars broke into Candlekeep to excise the Shadovar within, Elminster linked minds with the leaders of the Avowed to gain access to the library's wards. Unfortunately, Larloch betrayed El and the others and used the mind-link to slay many of Candlekeep's monks. The Shadow King was then able to strip away Canlekeep's powerful wards for his own use. Elminster learned his lesson. He and his fellow Chosen quickly made their way to Myth Drannor, to ensure  Larloch could not also steal the power from the city's restored mythal . They arrived too late, however, as Larloch invaded the minds of Thultanthar's citizens and began the ritual to consume the mythal .
 

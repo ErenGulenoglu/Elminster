@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 233
-characters  : taraj hurlymm, she
-events      : Taraj Hurlymm pursues a Calishite trader through Athalantar
-location    : Athalantar
+characters  : taraj hurlymm
+events      : Pursuit of merchant; Taraj transforms into panther to attack
+location    : none
 === CONTENT ===
 More than once she'd seen that bed and the carpet beneath it awash in blood and torn to shreds . . . sometimes with a gnawed foot or other remnant left tauntingly for the staff to find. She shuddered and prayed silently to whatever gods might be watching that Taraj Hurlymm would meet his own doom this night. Folk would pray much harder to the gods, she thought to herself as she got up off her knees, if they gave proof that they listened to the fervent desires of mortals more often. Tonight, for instance. She sighed. That peddler was doomed. ***** The Calishite's fine silk shirt was soaked through with sweat; it stuck to him, dark and slick, as he puffed wearily up a slope, forced a way through bushes that clawed and tore at his finery, and hurried on, gasping for breath.
 

@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 142
-characters  : elmara, dunsteen
-events      : Elmara uses magic to confront Dunsteen and sends him to Ilhundyl
+characters  : elminster, dunsteen
+events      : Elmara truth-compels Dunsteen to reveal his fear, then orders him not to trouble her again before asking for his advice on learning more about magic.
 location    : none
 === CONTENT ===
 Blue-white light outlined the mage's head, and she saw his features twist and struggle as he found himself compelled to speak truthfully. The string of fearful curses he was spitting became the words, "I don't want half the folk in Faerun to work magic! What price my powers then, eh?" Dunsteen's voice rose into a wordless shriek of fear. "You live now only at my whim, wizard," Elmara told him, pretending a casualness she did not feel. If his fear would just keep him from weaving another fireball... Swallowing her own rising fear, Elmara uttered another prayer to Mystra. When the tingling in her limbs told her its magic had taken effect, she strode off the lip of the hollow, walking on empty air to stand facing the wizard. She pointed down, trembling with the effort to hold herself in midair. "I do not wish to slay ye, Lord Mage.

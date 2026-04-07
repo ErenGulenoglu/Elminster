@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 6
 characters  : elminster
-events      : Dragon attacks village, Elminster encounters magic
+events      : Elminster encounters a dragon, is thrown and controlled by its rider
 location    : none
 === CONTENT ===
 And there was a man on its back! "Dragon at the gate," Elminster whispered the oath unthinkingly, as that gigantic head tilted a little, and he found himself gazing full into the old, wise, and cruel eyes of the great wyrm. Deep they were, and unblinking; pools of dark evil into which he plunged, sinking, sinking.... The dragon's claws bit deeply into the rock pile with a shriek of riven stone and a spray of sparks. It reared up twice as high as the tallest tower in the village, and those great wings flapped once. In their deafening thunderclap Elminster was flung helplessly back and away, head over heels down the slope as sheep tumbled and bleated their terror around him. He landed hard, rolling painfully on one shoulder.

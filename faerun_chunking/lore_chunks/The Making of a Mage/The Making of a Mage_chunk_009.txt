@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 9
 characters  : elminster
-events      : Elthryn Aumar discovers his burning cottage
+events      : Elthryn Aumar's cottage burns with his wife Amrythale inside; Elthryn feels anger and grief
 location    : Heldon
 === CONTENT ===
 A terrible fear was rising inside him, almost choking him. At last he reached the grassy edge of the meadow, rolled onto it, gasping, and looked down on Heldon. Then Elminster found he still had breath enough to scream. ****** A woman shrieked outside. A moment later, the incessant din of hammering from the smithy came to a sudden, ragged stop. Frowning, Elthryn Aumar rose from the farm tallies in haste, scattering clay tiles. He sighed at his own clumsiness as he snatched his blade down from the wall and strode out into the street, tearing the steel free of the scabbard as he went. Tallies that wouldn't balance all morning, and now this ... what was it now? The Lion Sword, oldest treasure of Athalantar, shone its proud flame as he came out into the sunlight.

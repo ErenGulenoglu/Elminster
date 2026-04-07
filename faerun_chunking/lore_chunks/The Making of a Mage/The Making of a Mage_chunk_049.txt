@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 49
-characters  : elminster, helm stoneblade
-events      : Elminster threatened by wizard, saved by Broarn
+characters  : elminster
+events      : Attempted transformation and torture by unknown mage; saved by Broarn
 location    : none
 === CONTENT ===
 I know ye want to," Elminster said, with more stern bravado than he felt. "Other magelords," the wizard quoted his own words mockingly, "have plans of their own." He laughed coldly. "As a prince of Athalantar, you have great value. If anything happens to Belaur-or it becomes necessary that something should happen to him-it would be very handy to have my own pet princeling hidden away, for use in the . . . unpleasantness that would ensue." The fork drifted a little nearer. "Of course, blindness won't hamper you when I transform you into ... a turtle, perhaps, or a slug. Even better, a maggot! You can feed on the gore of your friends the outlaws when we slay them. If we can't catch any, of course, you'll go hungry.. .." The mage's taunting voice trailed off into cold laughter.

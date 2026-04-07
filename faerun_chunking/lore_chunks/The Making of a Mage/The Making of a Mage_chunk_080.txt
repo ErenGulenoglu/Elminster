@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 80
-characters  : elminster, hawklyn, magister
-events      : Magister identified as most powerful wizard in Faerun
-location    : Hastarl, Realm of the Stag
+characters  : elminster, magister
+events      : Elminster peers over parapet at Magister bound by Crystal Chain of Binding
+location    : Hastarl
 === CONTENT ===
 "Watch, then, and keep silent." There was a brief muttering, a flash of light, and a high-pitched sound like the jangle of clashing crystal or tiny ankle bells. "Tell everyone who you are." There was cold triumph in Hawklyn's voice. "I am called the Magister," came a new voice, calm but quavering with age. There were gasps from around the table, and Elminster could not restrain himself. This was the wizard who wore the mantle of Mystra's power. The greatest mage of all. He had to see. Slowly and cautiously he raised his head to peer over the parapet and froze, chilled by a sudden thought: if the mage-lords controlled the most powerful magic in all Faerun, how could he ever hope to defeat them? Below stretched the long, gleaming feast table.
 

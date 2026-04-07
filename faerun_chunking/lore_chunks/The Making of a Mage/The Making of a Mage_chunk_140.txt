@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 140
-characters  : elminster, mystra
-events      : Lord Mage Dunsteen confronts Elmara about her knowledge of Mystra
+characters  : elminster, dunsteen
+events      : Elmara Aumar challenges Lord Mage Dunsteen's disbelief in her claim about Mystra.
 location    : none
 === CONTENT ===
 though he looked only at her, he was aware of everyone in the room. "The matters you so idly speak of are not fancies, but sorcery." The lord mage strutted grandly forward and said sharply, "Magic interests everyone with its power-but it is, and rightly, an art of secrets-secrets to be learned only by those fit to know them. If you are wise, you will cease your talk of sorcery at once." At the end of his words, the room was very still, and into that silence, Elmara said quietly, "I was told to speak of magic, wherever I go." "Oh? By whom?" "A priestess of Mystra." "And why," Lord Mage Dunsteen asked with silken derision, "would a priestess of Mystra waste three words on you?" Color rose in Elmara's cheeks, but she answered as quietly as before, "She was expecting me." "Oh?

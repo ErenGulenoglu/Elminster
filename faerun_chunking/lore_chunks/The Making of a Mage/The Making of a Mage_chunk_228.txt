@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 228
 characters  : elminster, myrjala
-events      : Elminster and Myrjala plan their next steps
+events      : Elminster and Myrjala plan to find allies and avoid magelords.
 location    : none
 === CONTENT ===
 "And as a magelord may notice me and 'tis never wise to reveal all one's strengths too soon, ye'd best stay out of sight." The dark-eyed sorceress nodded. "Yet in case the magelords come down on you in earnest, I'd best accompany you-in other shapes than my own, of course-to fight at your side if need be." El smiled at her. "I'd not want to be parted from ye now, to be sure.

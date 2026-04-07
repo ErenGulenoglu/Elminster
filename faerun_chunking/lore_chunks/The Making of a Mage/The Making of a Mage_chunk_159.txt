@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 159
-characters  : elminster
-events      : Elminster battles beholders
+characters  : elmara
+events      : Elmara defeats beholder; Elmara escapes skeletal hands
 location    : none
 === CONTENT ===
 hand, coiling and flaring as Elmara struck home- and her tiny steel fang sank into a hard body-plate as if she were thrusting into so much hot stew. The beholder shrieked like a terrified courtesan and hurled itself away from the sorceress. El was left tumbling alone in the air as the eye tyrant flew blindly into the nearest wall, snarling in pain. Elmara snatched a wand from her belt and darted after it. Straight among the eyestalks she plunged to touch the thing's rolling body just above the hissing, snapping jaws. Then she kicked herself away and flew clear. Behind her, the beholder began to repeat its actions backward, rolling back to strike the wall again. Then it hurtled back to where Elmara had stabbed it.

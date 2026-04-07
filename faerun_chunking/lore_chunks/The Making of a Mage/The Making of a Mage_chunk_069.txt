@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 69
 characters  : shandathe, farl, elminster
-events      : Shandathe is kissed and lifted by Farl, then passed to Elminster; they put Shandathe in bed with Hannibur while he sleeps
+events      : Farl kisses Shandathe, causing her to lose consciousness. Elminster and Farl place Shandathe in bed with Hannibur, the sleeping baker.
 location    : Hastarl
 === CONTENT ===
 Shandathe stared at him. "Are you crazed?" she hissed in sudden anger. "If you think I'm g-" Farl's hands glided to just the right places as he pressed his lips to hers. She struggled angrily for a moment, managing to utter some angry-sounding murmurs . . . and then went limp. Farl promptly passed her to Elminster. "Here," he said brightly. He turned away and hastily erected a pyramid of crates from the baker's litter of shipping-refuse. Elminster stared at him and then down at the girl in his arms. She was soft and beautiful-if heavy-and was stirring already; in a breath or two, she'd return to her senses . . . and if El knew anything about the Shadow, she'd be very angry. He looked around gingerly for a place to put her.

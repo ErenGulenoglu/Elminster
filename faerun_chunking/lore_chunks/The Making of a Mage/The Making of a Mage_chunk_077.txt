@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 77
-characters  : elminster
-events      : Conversed about partnership fears, discussed future plans for theft
-location    : none
+characters  : elminster, farl
+events      : Friendly banter between partners before embarking on a mission in Hastarl
+location    : Hastarl
 === CONTENT ===
 "Just slip in, see where things are, try to find out if there's anything of import befalling-and get you gone again, as quietly as the thing can be done. I want no dead heroes in this partnership; it's too hard to find trustworthy partners." "Ye prefer live cowards, eh?" Elminster asked as they dropped lightly down from the roof of the tomb and set off through the rubble and tangled plants toward the bough they'd come in by. Farl stopped him. "Seriously, El-I've never found such fearlessness and honesty in anyone. To find it in one who also has endurance and dexterity ... I've only one regret." "Which is?" Elminster was blushing furiously. "You're not a pretty lass." Elminster replied with a rude noise, and they both chuckled and clambered up the tree that would afford them exit. "I see only one worry ahead," Farl added.
 

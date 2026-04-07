@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 21
 characters  : elminster, helm
-events      : Elminster seeks advice from Helm about revenge against magelords
-location    : Athalantar
+events      : Elminster learns about his past, receives advice from Helm on survival and revenge.
+location    : none
 === CONTENT ===
 disappeared about four summers ago." "Dead?" Helm shrugged. "That, or held captive somewhere by the magelords so they have another blood heir of Uthgrael in their power should anything happen to Belaur." Elminster reached for the flask; Helm handed it over. The youth drank carefully, sneezed once, and handed it back. He licked his lips, and said, "Ye don't make it sound a noble thing to be a prince of Athalantar." Helm shrugged. "It's for every prince, himself, to make it a noble thing; a duty most princes these days seem to forget." Elminster looked down at the Lion Sword, which had somehow found its way into his hands again. "What should I do now?" Helm shrugged. "Go west, to the Horn Hills, and run with the outlaws there. Learn how to live hard, an' use a blade-an' kill.
 

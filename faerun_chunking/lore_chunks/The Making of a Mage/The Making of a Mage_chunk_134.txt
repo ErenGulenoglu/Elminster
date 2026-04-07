@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 134
 characters  : elmara, braer
-events      : Elmara casts revealment spell; learns Braer is a dragon shifter
+events      : Elmara helps Braer remember a revealment spell, revealing his true form as an elf who can take dragon shape
 location    : none
 === CONTENT ===
 temper and tongue better when I was a thief, didn't I?" Braer shrugged. "You were a man, then, in a city of men- with a close friend to joke with-and you knew, every moment, that lack of iron control would mean death. Now you're a woman, attuned to the forest, feeling its flows of emotion and energy. Little things are more intense outside the crowded city, more raw, more engaging." He smiled and added, "I can't believe I've started babbling so much-and like a human sage, too!- since you've been here." Elmara laughed. "I have done some good, then." Braer flipped the tip of one of his ears back and forth with a finger, a gesture of mild derision among elves, and said, "I believe I mentioned a revealment spell?" El rolled her eyes.

@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 230
 characters  : elminster, braer
-events      : El meets Braer after years; they discuss aid against magelords.
+events      : Reunion between Elminster and Braer after time apart; El seeks Braer's aid against magelords.
 location    : Shadowdale
 === CONTENT ===
 El nodded and peered into the depths of the crystal-clear pool. For a moment, he thought he saw a pair of thoughtful eyes looking up at him . . . but no, there was nothing there. He sat calmly, ignoring the arrows trained tirelessly on him, until his spell-shield flickered again. He let it drop deliberately, and immediately felt a feather-light touch in his mind. Then the probing contact was gone, and Braer was striding out from under the trees, looking just as he'd done when El had last seen him. "Time seems to have wrought some small changes in you, Elmara," he said dryly. "Braer!" El sprang to his feet and rushed down the slope to embrace his old teacher, who kissed him as if he'd still been a maid and then slipped free of Elminster's arms and said, "Easy there, Prince!

@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 91
 characters  : elminster
-events      : Elminster takes a bath and leaves without paying
+events      : Elminster causes chaos in Hastarl and bets on a magical contest
 location    : Hastarl
 === CONTENT ===
 line to its head, dodged inside to continue wagering, hung the scribbled sleeve on a high nail, and plunged headlong and fully clothed into the old wine-press tub that served as the bath. The water was already gray with filth, and Elminster came out again just as fast, pursued by the furious proprietor. They dodged around the rinse-pump while Farl worked the handle, dousing them both with rather cleaner water-and then Elminster thrust four silver bits into the man's hand, leapt to retrieve the wager sleeve, and scampered out again. "Gods blast thee! 'Tis a gold piece a head this day!" the man bellowed after them. El spun around, disgusted, and tossed a handful of silver bits in the bath- keeper's direction. "He's a worse thief than we've ever been," he muttered to Farl as they headed for a good place to hide the sleeve.

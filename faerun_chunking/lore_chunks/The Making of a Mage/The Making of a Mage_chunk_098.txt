@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 98
-characters  : chasclampsia, rhegaer, klaern, blaenbar, jhardin, farl
-events      : Discussion about forming a thieves' guild
-location    : hastarl
+characters  : chaslarla, rhegaer, klaern, jhardin, farl
+events      : Disagreement among potential band members; Klaern challenges Jhardin's leadership abilities
+location    : none
 === CONTENT ===
 "Now that," fat old Chaslarla said, scratching herself, "makes more sense o' the mess than I've heard since I first saw 'em. An' it explains why some armsmen seem to look the other way when they strike out-under orders, belike." "Aye," young Rhegaer said, idly turning a little knife in his fingers as he perched atop a barrel taller than he was. As usual, he was very dirty . . . but then, so was the barrel, and a peering eye might have missed him, but for the flash and turn of the little blade. "Well, I think it's so much smart lies and fancy-castles talk," Klaern snarled, "an' I'll not listen to more of it. Ye're fools, all of ye, if ye listen to these two dreamers.
 

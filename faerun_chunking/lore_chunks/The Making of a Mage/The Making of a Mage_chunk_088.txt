@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 88
 characters  : elminster, farl
-events      : Elminster tells Farl about Magister, discuss magic power
-location    : hastarl
+events      : Elminster shares story of Magister, discusses power with Farl; they decide to sleep on Hannibur's roof.
+location    : Hastarl
 === CONTENT ===
 safely away from the boarded-up shop where their takings were cached. "Now let's go somewhere where we can talk and not be seen." "The burial ground again?" "Fair enough-once we make sure it's free of lovers." They did so, and Elminster told Farl the tale. His friend shook his head at El's description of the Magister. "I thought he was just a legend," he protested. "Nay," El said quietly, "he was frightening-ah, but it was magnificent, the way he ignored their best spells, and calmly judged each and struck them down. The power!" Farl cast a sidelong glance at his friend. Elminster was staring up at the moon, eyes bright. "To have that much power, someday," he murmured, "and never have to run from an armsman again!" "I thought you hated wizards." "I-I do ... magelords, at least. There's something about seeing spells hurled, though, that-" "Fascinates, eh?
 

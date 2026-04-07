@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 40
 characters  : elminster
-events      : Elminster ambushes a group of nine armsmen
+events      : Elminster ambushes nine armsmen
 location    : none
 === CONTENT ===
 Then, somehow victorious over a wizard who knew he was coming, he'd set forth on the trail of the other armsmen and take them down one by one with quarrels ... it sounded almost as wild. He quoted a line of a ballad he'd once heard, "Princes rush in, shouldering fools aside, and find glory," and turned his horse to the right to intercept the band of armsmen he could see better. He thought he counted nine riders, no telling how many were in the other group. His tired horse stumbled twice on the ride and nearly fell when they blundered into a pocket of deep, loose snow. "Gently," El murmured to it, suddenly feeling his own aches and weariness in full. All he could do in his mind was numb the pain for a time, and-he touched his chin thoughtfully-stop bleeding. He was no invincible warrior. So?

@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 252
-characters  : farl, elminster, myrjala, jannath, tass
-events      : Farl gives Elminster magical items, Elminster discusses recent events with Farl and Myrjala, they plan to infiltrate Malanthor's tower.
-location    : Shadowdale
+characters  : farl, elminster, myrjala
+events      : Farl hands over magical items to Elminster and discusses their plans against Undarl, Malanthor and other enemies. Myrjala joins them. Farl is surprised by Elminster's newfound magical abilities.
+location    : undetermined city
 === CONTENT ===
 "I'd trust him to sense anything this Undarl could cast." Farl shrugged, but seemed more at ease as he thrust a varied assortment of gems, vials, and pouches into Elminster's hands. "Here. He's got something built into his bed, too, but I couldn't find the way to it, and forgot to bring my axe with me." "Next time," El replied soothingly, and after a breath or two, Farl grinned at him. "There were so many thieving apprentices trying to get past Undarl's ward to steal spell scrolls that I kept falling over them! I still don't know how they missed seeing me ... this shadow of mine must be good." He frowned. "How-how're my Hands doing?" Elminster scratched his nose. "The headstrong lass-Jannath, d'ye call her?-
 

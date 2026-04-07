@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 64
 characters  : jansibal, thelorn selemban, otharr
-events      : Duel interrupted by swordmaster Adarbron
-location    : none
+events      : Near-death duel prevented by swordmaster Adarbron
+location    : tavern
 === CONTENT ===
 My six would dearly love to know." From behind him, another pair of men in livery glided forward, blades raised and glittering in the little dangling lamp that a trembling servant still held aloft on its pole. "I'll not fight a duel with all these blades of yours around," Jansibal said, drawing himself up. "I know your liking for convenient 'accidents.'" "While you grandly slash at someone with that blade you've dipped in sleep-venom? Aren't you tired of such deceits, Janz? Doesn't using them remind you, every even', that you're a worm? Or is it so much part of your lovely nature that you don't even notice?" "Shut your lying mouth," Jansibal snarled, "or-" "Or you'll get away with your little trick, yes? And stab all these lads and lasses around to work off your little rage, no doubt.
 

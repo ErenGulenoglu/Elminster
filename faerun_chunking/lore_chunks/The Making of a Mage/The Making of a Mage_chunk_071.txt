@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 71
 characters  : elminster, farl
-events      : none
+events      : Discussion on morality, theft, religion, and life purpose
 location    : none
 === CONTENT ===
 "D'you recall how much Budaera was asking me for pleasure together?" Elminster grinned. "Aye. A low price-just for thee." Farl nodded. "Exactly. Gold pieces hand over fist, these maids make ... 'twould be easy, I'm thinking, to find out where some of 'em hide their loot- and help ourselves while they were sleeping, or out 'busy' at the taverns and rich merchants' clubs." "Nay," El said firmly, "count me out of such plots. Fleece such sheep an' ye'll do it alone." Farl looked at him. "Right, consider the plot abandoned. Now tell me why." Elminster set his jaw. "I'll not steal from those who barely have enough coins for food, let alone taxes or saving." "Principles?" Farl rescued the nearly empty wineskin.

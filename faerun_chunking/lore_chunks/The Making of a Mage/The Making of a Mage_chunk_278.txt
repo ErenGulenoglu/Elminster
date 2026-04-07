@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 278
 characters  : belaur, elminster
-events      : Belaur and Elminster fight; Belaur gains upper hand but Elminster escapes
+events      : First meeting ends in deadly combat with an unknown outcome
 location    : none
 === CONTENT ===
 They met in a whirling clash of steel. Sparks flew as king and prince tried to hack through each other's guard, teeth set and shoulders swinging. Belaur was a heavy-shouldered warrior of long years, run to fat but wary as a wolf. His challenger was younger, smaller, lighter, and quickly on the defensive, as Belaur used his weight to smash through Elminster's parries. Only the young prince's swiftness kept him alive, ducking, dodging, and diving aside from thirsty steel as the furious king rained a flurry of sword-blows on his foe. When Elminster's arms grew too numb to take the onslaught, he was forced to give way. He stepped back and circled to the right. Belaur turned to press him, grinning savagely, but Elminster spun away and ran, heading behind the throne, "Hah!" Belaur shouted triumphantly, striding forward.

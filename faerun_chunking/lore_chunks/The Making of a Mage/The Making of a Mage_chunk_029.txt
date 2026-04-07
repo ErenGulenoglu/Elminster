@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 29
 characters  : elminster
-events      : Dispute between Elminster and swordmaster over patrolling duties.
-location    : Heldreth's Horn, Athalantar, Sarn Torel, Unicorn Run
+events      : Disagreement between Elminster and Swordmaster over sending armsmen to patrol from Heldreth's Horn.
+location    : Athalantar, Heldreth's Horn, Sarn Torel
 === CONTENT ===
 Armsmen from Heldreth's Horn, the outermost fortress of Athalantar, had gone out to buy the favors of village lasses for as long as the keep had stood. A dozen summers back, some maids had converted an old farm into a house of pleasure and sold their guests wildflower wine besides; the outlaws had slain more than a few armsmen riding home from there drunken and alone. "Aye, 'tis best we leave the lustlorn alone for a time, an' catch 'em again in spring." ***** "What, and leave them to slay and pillage until spring? How many more warriors can you afford to lose?" The wizard's voice was cold-colder than the chill battlements where they stood, looking out over the ice-cloaked waters of the Unicorn Run. The swordmaster of Sarn Torel spread strong, hairy hands and said helplessly, "None, Lord Mage.
 

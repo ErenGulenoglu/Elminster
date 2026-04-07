@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 292
-characters  : elminster, mystra
-events      : Bethgarl sees Mystra ascending as a blue-white flame with Elminster inside
+characters  : elminster
+events      : Elminster meets Mystra; offered role as one of her Chosen
 location    : none
 === CONTENT ===
 "Awaken, Hastarl!" he muttered, spreading his arms grandly and yawning again. "For Bethgarl Nreams, famed cheese merchant, cometh, cart loaded high with wheels of sharpcrumble, whitesides, and re-" something moved and caught his eye off to the left, by the old grave-shrine. Bethgarl looked in that direction, then up-and a third yawn died forever as his jaw dropped open in wonder. He was looking-nay, staring-at a rising ball of blue-white flame, flaring so bright he could scarce bear it... but he had looked, eyes burning, and seen two folk floating half-hidden in its heart! A man and a maid, and they were. . . . Bethgarl stared, rubbed his watering eyes, stared again, then let fall his cart and ran back the way he'd come, for all he was worth, howling in fear. Gods, he'd have to stop eating those snails! Ammuthe had been right, as usual. ..

@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 225
 characters  : elminster, myrjala
-events      : Elminster destroys castle, Myrjala questions his actions, Elminster dreams about Athalantar
-location    : Heldon
+events      : Elminster destroys magical threats, Myrjala guides and challenges him.
+location    : none
 === CONTENT ===
 The magics fell through the air in a bright web, and Elminster stepped off the cliff to follow them. He was striding along on empty air over the castle when it began to topple. He stopped to watch, standing angrily above the dust, screams, and tumult. Something rose up out of a shattered window, with men in robes riding it. Elminster fired a bolt down to blast them. The enchanted flyer shattered amid explosive brightness; the men on it jerked like flung dolls and fell back into the ruins. They did not rise again. Stones tumbled to a halt, and the rumble of their falling slowly died. When the dust had settled, Elminster turned, face grim, and walked back through the air to join Myrjala on the heights.
 

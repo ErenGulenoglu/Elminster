@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 48
 characters  : elminster
-events      : Elminster encounters Caladar Thearyn in a stable
-location    : none
+events      : Elminster meets Caladar Thearyn who holds him captive and threatens him.
+location    : Shadowdale
 === CONTENT ===
 A horse shifted and kicked idly against the side of its stall. Elminster studied the stable and noted one stall filled with shovels, rakes, buckets, and hanging coils of lead-rein, another with straw. Sheathing his blade and taking down a long-tined fork, El probed carefully into it, but there was nothing solid beneath to wake or snarl, so he lifted the wooden pin and went in. It was the work of but a few breaths to burrow into the straw. He settled himself so he was hidden from view and shielded against the cold by a thick blanket of hay. Relaxing, Elminster called on his will to take himself down to the floating place of whispers ... to sink down amid white radiance, and sleep.... ***** Straw rustled and scratched his hands as he lurched up out of it. Elminster's eyes flew open. He was rising up through the straw-flying!
 

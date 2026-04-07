@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 17
-characters  : helm, elminster, uthgrael aumar
-events      : Elminster learns about Athalantar's history from Helm
-location    : athalantar
+characters  : elminster, helm
+events      : First meeting between Elminster and Helm; Helm tells Elminster about the history of Athalantar and his family.
+location    : Athalantar
 === CONTENT ===
 Athalantar, these days." "Aye," Elminster told him bitterly, "I know." Helm sighed. "I-my forgiveness, Prince. I forgot." He spread gauntleted hands as if to clear away underbrush before him, and said, "This realm, Athalantar, is called the Kingdom of the Stag after one man: Uthgrael Aumar, the Stag King; a mighty warrior-an' thy grandsire." Elminster nodded. "That much, I suspected from all thy 'prince' talk. Why then am I not in rich robes right now in some high chamber of Athalgard?" Helm give him that grin of delight again and chuckled. "Ye are as quick- an' as iron of nerves-as he was, lad." He reached an arm behind him, found a battered canvas pack, and rummaged in it as he went on. "The best answer to that is to tell things as they befell.
 

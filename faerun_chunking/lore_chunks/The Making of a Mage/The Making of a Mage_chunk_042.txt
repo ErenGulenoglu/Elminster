@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 42
 characters  : helm, elminster
-events      : Knight of Athalantar and Elminster meet, plan strategies for battle
-location    : Lawless Castle
+events      : Helm and Elminster meet; Elminster declines Helm's offer to fight together, stating his destination is a camp with wizards who know him.
+location    : Lawless Castle, a camp
 === CONTENT ===
 that he might not die this night after all. The knight of Athalantar leaned forward in his saddle. "We've just come from Lawless Castle," he said with raised brows. "Quite a few good men lying dead back there, but Mauri couldn't find Eladar among them." "When I ran out of armsmen to kill, I came here," Elminster replied gravely. "They'd found the castle, and I had to slay the rest before they had a chance to report it. They went to a camp- those fires, there-and there's another band of armsmen, probably larger than this one, over there somewhere." He pointed into the night. "They were circling to take me." Helm bellowed, "Onthrar! To me!" over his shoulder, and then said, "Join us, then, an' we'll ride 'em down together. There're empty saddles in plenty to spare!" Elminster shook his head.
 

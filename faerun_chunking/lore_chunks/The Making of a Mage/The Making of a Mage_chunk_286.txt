@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 286
 characters  : elminster, myrjala
-events      : Elminster spends night with unknown woman; Myrjala helps him prepare to leave Athalantar
+events      : Elminster and Myrjala spend a night together, then leave Athalantar together
 location    : Athalantar
 === CONTENT ===
 Elminster stared across the room at them, astonished at the bubbling laughter in her voice-and then, helplessly, started to laugh. He was still rocking with mirth as smooth hands drew him away through a door into less- well-lit antechambers, where there were couches, and wine, and eager lips to share it with.... ***** In the first gray light of dawn, Elminster staggered back into the throne room. His head was pounding and his mouth very dry. Something seemed to be wrong with his balance, and he was still belting and adjusting the tattered remnants of his clothing when he came through the double doors, and looked straight into Myrjala's amused eyes. She stood in front of the Stag Throne looking immaculate, her dress and regal appearance unchanged from the evening before. "Has Athalantar thanked you properly?" she asked teasingly. Elminster gave her a look.

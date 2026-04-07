@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 295
 characters  : elminster, mystra
-events      : Mystra sends Elminster to learn magic in Cormanthor
-location    : Cormanthor
+events      : Mystra guides Elminster towards magical discipline and apprenticeship in Cormanthor; they share a profound moment together.
+location    : cormanthor
 === CONTENT ===
 And there he had the courage and the wisdom to debate the ethics of wielding magic with me-and I knew that Elminster could become the greatest mage this world has ever known, if I only led him and let him grow. I have done that-and El, lovely man, you have delighted me and surprised me and pleased me beyond all my hopes and expectations." They stared into each other's eyes, and Elminster knew he'd never forget that calm, deep gaze of infinite wildness and love and wisdom, however many years might lie ahead. Then Mystra smiled a little and bent to kiss his nose, her hair brushing his face and chest. El breathed in her strange, spicy scent anew for a moment and trembled with renewed desire, but Mystra lifted her head and looked southeast, into the quickening breeze.
 

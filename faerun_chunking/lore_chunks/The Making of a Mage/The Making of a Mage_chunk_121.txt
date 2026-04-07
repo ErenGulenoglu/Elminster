@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 121
-characters  : elmara
-events      : Elmara explores forest, seeks tutor
-location    : high forest
+characters  : elminster, mystra
+events      : Elmara awakens in the High Forest, communicates with Mystra through nature signs.
+location    : High Forest
 === CONTENT ===
 That might take years, though, and for now- Elmara murmured, "So now what?" A breeze rustled the leaves again in answer. Shrugging, she rose and walked all over the little knoll-noting that her stride was subtly different, shorter and swaying from side to side more-but there was nothing else to be found except moss and dead leaves. She was alone, and nude, the occasional twig sharp under her bare feet. What to do? There was no food here, and no shelter. The sun already felt hot on her head and shoulders ... she'd best get into the shade. Mystra's voice had said she'd find a tutor in the forest, but she was reluctant to leave the pool, perhaps her only link to the goddess . . . but no.
 

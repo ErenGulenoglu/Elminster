@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 189
-characters  : elthryn, elmara
-events      : Elmara sees visions of Mystra and Undarl Dragonrider, falls into void
+characters  : elmara, mystra
+events      : Elmara meets Mystra; Elmara learns to cast spells
 location    : none
 === CONTENT ===
 "Patience, my child." Then smoke and flames swirled between them, and although she cried her father's name loud and desperately, she saw Elthryn no more, but instead a high hall of stone where cruel mages in rich robes bent over an ornate scrying-bowl held up by three winged maidens of glossy-polished gold. One was Undarl Dragonrider, the mage royal who'd destroyed Heldon. Another mage was passing his hand over the waters, waving his fingers angrily. "Where is he?" he snarled ... and seemed for just an instant to see Elmara. His eyes narrowed, and then widened-but that chamber whirled and spun away into the void of light, and Elmara was suddenly staring into the eyes of Mystra, who stood in the air in front of her, smiling, her arms open to embrace. Stumbling in haste, Elmara ran across unseen ground toward her. Tears welled up and burst forth.

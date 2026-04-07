@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 51
 characters  : elminster, broarn
-events      : Elminster seeks hiding places from magelords
-location    : Calishar
+events      : First meeting between Elminster and Broarn; Broarn shares strategies for hiding from or confronting magelords.
+location    : calimshar
 === CONTENT ===
 An archmage- that's a wizard stronger by far than these magelords-" Broarn paused to spit thoughtfully on the dead wizard at his feet"-set himself up there and now rules most of it. The Calishar, it used to be called; I know not if he's renamed it, as he seems bent on changing all else. The Mad Mage, they call him, because he chases his whims so fiercely, and doesn't care about what he destroys in the doing; Ilhundyl's his name. Since he claimed the land, all the folk as didn't want to be turned into frogs and falcons have moved on-north, most of them." Elminster sighed. "It sounds as if there's nowhere in all the world at peace from mages." Broarn smiled. "It feels that way, my lord, it does. If you must hide from the magelords, go up the Unicorn Run, deep into the High Forest.
 

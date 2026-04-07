@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 175
-characters  : elminster
-events      : Minstrel choked by wizard, Elmara intervenes
-location    : none
+characters  : elminster, elmara
+events      : Elmara intervenes and challenges magelords in an inn.
+location    : Athalantar
 === CONTENT ===
 The table in their midst was a forest of already-emptied bottles, goblets, and skins. Elmara saw wands at their belts, as well as daggers . . . wizards. "What're ye doing?" That sharp question came from a fat merchant at another table. The mage who stood with one outstretched hand slowly clenching, choking the breath out of the minstrel, turned his head to sneer, "We don't allow that dead man to be mentioned in Athalantar." "You're not in Athalantar!" a man at another table protested as the minstrel gagged and gurgled helplessly. The wizard shrugged as he stared coolly around the room. "We are magelords of Athalantar, and all this land will soon be part of our realm," he said flatly. Elmara saw the innkeeper, emerging from the kitchens with a steaming platter on his shoulder, come to a shocked halt as he heard the magelord's words.
 

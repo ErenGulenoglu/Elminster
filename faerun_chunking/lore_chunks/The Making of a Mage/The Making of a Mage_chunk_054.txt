@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 54
 characters  : elminster
-events      : Elminster suggests hiding among people wizards won't harm
+events      : First meeting between Elminster and Helm/Broarn's group; Elminster proposes hiding in Hastarl.
 location    : none
 === CONTENT ===
 go to the depths of the elven realms and get them to hide you somehow... call on the gods for miracles ... I believe that about covers it." "There's one other place," Elminster said quietly. The silence of utter astonishment fell on both Helm and Broarn. They turned as one to look at the lad in the scorched leather jerkin, standing alone in his stall. He'd slid his sword into hiding and picked up the bowl of turkey soup Broarn had brought him. As they watched, he calmly took a spoonful, smiled, dipped his spoon into the bowl again, drew forth another spoonful, and blew on it to cool it. "I'll slay ye, lad, if ye don't stop playing the fool," Helm growled, taking a step toward him.

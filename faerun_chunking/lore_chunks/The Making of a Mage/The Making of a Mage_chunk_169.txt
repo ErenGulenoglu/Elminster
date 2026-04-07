@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 169
-characters  : elmara, mystra
-events      : Elmara offers book to Mystra's altar, receives divine response; Elmara feels at peace but alone
-location    : faerun
+characters  : elmara
+events      : Elmara gifts Ondil's Book of Spells to Mystra at altar, receives vision
+location    : faerun, heldon
 === CONTENT ===
 The ferry man steadied his boat in silence, watching the young lady's determined stride as she climbed the hill. The full glory of the setting sun was past now, and purple dusk was coming down swiftly over the clear sky of Faerun. Only when Elmara had disappeared over the crest of the bare summit did the boatman move. He turned away and leaned on his pole strongly. The boat pulled away from the dock, and the old, weathered face of its owner split in a sudden grin. The grin widened horribly as the face above it slid down like rotten porridge. Fangs grew down to pierce the sliding flesh. The flesh dripped off a too-sharp chin and fell away to slop and spatter in the bottom of the boat, and the scaly, grinning face whispered, "Done, master." Garadic knew Ilhundyl was watching.
 

@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 81
-characters  : elminster
-events      : Magister escapes capture, uses magic to disintegrate foes and float them away
+characters  : hawklyn, elminster
+events      : Elminster displays power, teleports away from attacks, levitates enemies
 location    : none
 === CONTENT ===
 I have heard things of you and your fellow magelords ... and they were not good things." "I don't doubt it," Hawklyn sneered. "Now hold your tongue 'til I bid you speak-or a new Magister will speak, in your stead." "Do you then seek to control when and how the Magister speaks?" The old man's tone seemed almost sad. "I do." The crossbow drifted nearer, rising menacingly to hang above the table, aimed at the old man's face. "Mystra forbids that," the Magister said quietly, "and so I have no choice left. I must answer your challenge." His body suddenly boiled into billowing vapors, faded, and was gone. The chains hung around emptiness for a moment, and then crashed to the floor. The crossbow jerked as it fired-but the quarrel sped through emptiness, leaping across the room to strike a hanging shield and rebound.

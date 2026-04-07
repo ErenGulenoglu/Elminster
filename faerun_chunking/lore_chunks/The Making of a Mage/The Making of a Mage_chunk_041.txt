@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 41
-characters  : elminster
-events      : Armsman shot by Elminster; Elminster recognizes Helm
+characters  : elminster, helm
+events      : Elminster saves Helm from pursuing horsemen; they reunite
 location    : Athalantar
 === CONTENT ===
 What could be-? And suddenly Elminster had no time for speculation as an armsman burst into view, galloping hard, crouched low over the neck of his horse. The prince of Athalantar raised his bow carefully, steadied it, and fired. The horse plunged on, rearing and giving a high grunt of alarm as it saw the steep descending slope. With no time to veer or slow, it felt the man on its back fall sideways, hard, pulling on its reins. It reared, fighting the reins that were tugging its head around. Its hooves skidded in the snow, and it crashed atop its rider. Together they slid down the hill. The horse sprang up and pranced away, shaking its head as if to clear it. The man lay still in the trampled snow.

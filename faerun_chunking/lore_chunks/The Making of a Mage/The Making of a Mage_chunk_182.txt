@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 182
 characters  : elmara
-events      : Elmara threatens steward Aunsiber, Briost leaves for king's business
+events      : Elmara publicly expresses political views, causing tension and alarm among authorities.
 location    : Narthil
 === CONTENT ===
 These young bucks'd not prance so free nor be so fast to smash things and upset all, if they had to spend a tenday in my-or any maid's!-place, cleaning up and setting to rights and mending!" " 'Ware!" a man said warningly, and all around Elmara folk drew back as the three horsemen came trotting up. The young woman stood calmly awaiting them. At her unmoving stance, the old man in the tabard of purple adorned with silver moonflowers reined in his mount and said, "I am Aunsiber, lord steward of Narthil. Who are ye, who here work spells against lawful armsmen and mages of the realm?" Elmara nodded in polite greeting.

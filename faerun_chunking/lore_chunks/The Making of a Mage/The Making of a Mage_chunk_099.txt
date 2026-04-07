@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 99
 characters  : elminster, tassabra
-events      : Thieves guild discusses new leadership and prepares for danger.
-location    : hastarl
+events      : Faction formation among Velvet Hands; betrayal implied by Tassabra's revelation about Klaern.
+location    : none
 === CONTENT ===
 Well, let's just see ... who speaks for ye, here?" Elminster stepped a silent pace forward. "Yes, yes, we know yer pretty boy does ... as well as anything else ye ask him to." Amid his coarse laughter, Jhardin lumbered forward a pace, eyes hard. Rhegaer leapt lightly down from his barrel, and Chaslarla wheezed forward too. Klaern looked around. "Tassabra?" The lithe figure in the deepest shadows shifted slightly and said in a low, musical voice, "Sorry, Klaern. I side with Farl, too." "Fah! Gods frown upon all of ye fools!" Klaern spat on the floor, turned, and strode grandly out, his silent brothers Korlar and Othkyn backing watchfully away to guard his going. "I thought he was thy lover," another man murmured from the shadows. "Take care, Larrin!" Tassabra's voice was testy. "That rutting boar my lover?
 

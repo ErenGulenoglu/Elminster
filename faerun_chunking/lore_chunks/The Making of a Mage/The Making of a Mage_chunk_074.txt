@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 74
 characters  : elminster, farl
-events      : Elminster learns about his past in Heldon; Farl reveals his father is a powerful wizard
+events      : First meeting between Elminster and Farl; shared betrayal and friendship discovery.
 location    : Hastarl
 === CONTENT ===
 We could go somewhere warmer I know of, where they'll overcharge us for some hot turtle soup and burned toast... if you'll pay." "Gladly," Elminster said, "if ye'll tell me where I can find a bed in this city, an' tell me what not to do." "I'll do that," the laughing youth replied, jumping lightly down. "You need to learn, and I like to talk. Better; you look like you need a friend, and I find myself in short supply of them right now, too... hey?" "Lead on," Elminster said. He'd learned much that day, and in the days since then-but not where Farl had come from. The merry thief seemed part of Hastarl, as if he'd always been there and the city echoed his moods and manner.

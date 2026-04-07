@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 82
 characters  : elminster, hawklyn, maulygh, othyl naerimmin
-events      : Balcony destroyed by spell; Elminster dives for safety; Magister demonstrates power
-location    : feasting-hall
+events      : Elminster's balcony destroyed by Hawklyn's spell; Magister executes Maulygh and Othyl Naerimmin, spares one merchant
+location    : balcony, feasting-hall
 === CONTENT ===
 From somewhere nearby, Hawklyn snarled an incantation in a high, frightened voice. The old man ignored him. The rising men came to a smooth halt at the same height as the balcony, and the chain wove its way among them, gleaming in the light of the fires below. There was a flash and a roar. Elminster dived for his life as Hawklyn's spell smashed half the balcony into a splintered ruin of paneling and shattered stone. Desperately the young thief clawed his way along a stone floor that was crumbling and collapsing under and behind him. With a shudder and then a gathering roar, most of the tiles of the broken balcony floor slid down to the stones of the feasting-hall amid a cloud of dust. The rubble piled up in a heap around a lone, leaning pillar that had supported that end of the balcony moments before.
 

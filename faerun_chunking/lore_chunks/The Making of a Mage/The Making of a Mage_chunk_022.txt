@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 22
-characters  : elminster, helm stoneblade
-events      : Elminster learns about his father and uncles from Helm Stoneblade
+characters  : helm, elminster
+events      : First meeting between Helm and Elminster, where Helm shares valuable information about Athalantar's politics and advises Elminster on safety measures.
 location    : none
 === CONTENT ===
 "Right, I've learned thy clever lesson. Tell me then, O wise knight: how much else of all ye've said can I trust? About my father and my uncles?" Helm hid a smile. When this lad's voice grew quiet, it betokened danger. No bluster about this one. He deserved a fair answer, well enough. The knight said simply, "All of it. As best I know. If ye're still hungry for names to work revenge on, add these to thy tally: Magelords Seldinor Stormcloak and Kadeln Olothstar-but I'd not know the faces of any of the three if I bumped noses with them in a brothel bathing pool." Elminster regarded the unshaven, stinking man steadily. "Ye are not what I expected a knight of Athalantar to be." Helm met his gaze squarely. "Ye thought to see shining armor, Prince? Astride a white horse as tall as a cottage? Courtly manners? Noble sacrifices?

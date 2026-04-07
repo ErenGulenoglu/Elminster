@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 287
-characters  : myrjala, elminster
-events      : King's farewell; prophecy discussed
+characters  : myrjala, elminster, mithtyn, farl, tassabra
+events      : Myrjala and Elminster depart Athalantar after helping Mithtyn. They encounter Farl, Tassabra, and an elf along the way.
 location    : Athalantar
 === CONTENT ===
 Myrjala smiled at him innocently and spread her hands. "How much gold can one king spend? We'll need something to see us along the trail to our next adventure ..." "And just where is that, if I may ask?" Elminster cupped his hands, and she put a toe of one soft, pointed boot into them, springing lightly up into the saddle. "This adventure's not quite done yet, I fear," Myrjala replied in a warning tone. Elminster looked at her thoughtfully, but she said no more as she urged her mount on toward the stable gate. They went out into the mists of the morning and found Mithtyn leaning on his stick waiting for them. He looked up at them, swallowed, and managed a smile. "Someone of Athalantar should thank ye both properly. I fear I have not the words . . .

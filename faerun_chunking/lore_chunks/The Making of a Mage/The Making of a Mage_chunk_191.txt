@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 191
-characters  : elminster
-events      : Elmara heals and decides to become a mage
-location    : none
+characters  : elmara, mystra
+events      : First meeting between Elmara and Asmartha; Elmara decides to become a mage.
+location    : Rest
 === CONTENT ===
 "A-Aye," she said, finding her voice thick with blood, "I live." There was more than one shriek, and gaps appeared abruptly in the circle of heads. El smiled thinly . . . but her heart swelled when the innkeeper matched her smile, and stretched down one strong hand to touch her. "I saw it," the woman said, voice husky in wonder. "You were dead-cut open like a slaughtered hog-and now are whole. The gods are real. . . they must be. I saw you heal, right in front of me. The gods were here!" Asmartha's face broke into a wide, wild laugh, and tears ran down her face. She traced El's cheek with a gentle finger, shook her head, and said, "I've never seen the like. What god smiles on you, lady?" "Mystra," Elmara said.
 

@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 296
 characters  : elminster
-events      : Elminster studies with mages, helps create Mythal
+events      : Elminster learns to control magic and participates in the creation of Myth Drannor.
 location    : none
 === CONTENT ===
 There he dwelt for twelve summers and more, studying with many mighty mages, learning to feel magic, and know how it could be bent and directed to his will. His true powers he revealed to few-but it is recorded that when the Mythal was laid, and Cormanthor be- came Myth Drannor, Elminster was one of those who devised and spun that mighty magic. So the long tale of the doings of Elminster 'Farwalker' began. Antarn the Sage from The High History of Faerunian Archmages Mighty published circa Year of the Staff

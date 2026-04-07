@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 167
-characters  : elminster, tarthe
-events      : Elmara destroys bones, Tarthe laughs; Magelord appears, Elmara uses magic against him
+characters  : elmara, tarthe, tharp
+events      : Elmara encounters tharp, Tarthe's death
 location    : none
 === CONTENT ===
 Twice more she hauled out bones and stamped on them-and at the sight of her dancing on them, Tarthe broke into sudden shouts of laughter. Elmara shook her head and reached into the coffin, touching the spellbooks and murmuring the words of one last spell. The books quietly disappeared. Behind her, Tarthe's laughter ended abruptly. Elmara whirled around in time to see a smiling robed man thicken from a shadowy outline into full solidity above a winking curved thing of metal on the floor... Tharp's helm. It was a cruel smile, and its owner turned to Elmara, who stiffened, recalling a face burned forever into her memories. The magelord who'd ridden the dragon and burned Heldon! "Ah, yes, Elmara-or should I say Elminster Aumar, Prince of Athalantar? Tharp was my spy among the Brave Blades from the very beginning.

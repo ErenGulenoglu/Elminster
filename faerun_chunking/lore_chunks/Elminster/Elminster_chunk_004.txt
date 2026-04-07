@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 4
-characters  : elminster, narnra shalace, simon aumar, farl, khelben arunsun, gorion, rhauntides, maris khorma terrabin, yandrin thorl, regent alusair obarskyr, count gamalon idogyr, mei lung, ed of the greenwood, mordenkainen, rautheene, dalamar, ambara, anamanue, astorma
-events      : Elminster's birth, relationships and lineage revealed
+characters  : elminster, elthryn aumar, amrythale goldsheaf, narnra shalace, simon aumar, farl, khelben arunsun, gorion of candlekeep, rhauntides of highmoon, maris khorma terrabin of cormyr, yandrin thorl of archendale, regent alusair obarskyr, count gamalon idogyr, mei lung, ed of the greenwood, mordenkainen, rautheene, dalamar, mystra, ambara, ananmanué, astorma
+events      : elminster's parentage revealed; sired child narnra shalace; friendship with khelben arunsun; connection to mystra's chosen; raised three of mystra's daughters, including storm silverhand
 location    : none
 === CONTENT ===
 === Relationships ===

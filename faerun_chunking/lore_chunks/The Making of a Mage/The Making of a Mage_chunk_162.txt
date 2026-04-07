@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 162
 characters  : dlartarnan, elmara, ithym, gralkyn, asglyn, tarthe, tharp
-events      : Dlartarnan dies; Elmara becomes ill; Asglyn disappears in flames
-location    : none
+events      : Dlartarnan dies in failed door opening attempt; Elmara reacts emotionally; Asglyn attempts spell but causes temple destruction; Party decides to retreat
+location    : tomb
 === CONTENT ===
 Dlartarnan was already across the chamber and at the nearest of its two closed doors, prying at the frame with his blade. " 'Tis locked," he snarled, putting his weight behind his blade, "but if-" There was a loud snapping sound. Blue fire burst from the door, racing briefly up and down the frame. Smoke rose from the blackened thing that had been Dlartarnan of Belanchor before it fell to the floor. The warrior's ashes rolled away in dark gray swirls as his bones bounced on the flagstones. The skull rolled over once and came to a stop grinning up at them
 

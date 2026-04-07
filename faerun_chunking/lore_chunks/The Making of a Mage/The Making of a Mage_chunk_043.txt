@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 43
 characters  : caladar thearyn, elminster
-events      : Caladar attempts spellcasting, attacked by outlaws; Elminster defends camp
+events      : Caladar attempts powerful spell, is shot by unknown assailant; Elminster watches, kills another mage with crossbow before charging armsmen.
 location    : none
 === CONTENT ===
 Tripods of halberds held the flickering storm-lanterns high. Snow whirled endlessly down into their bright radiance where, at the heart of the camp, the wizard Caladar Thearyn frowned down at a sphere of glowing light that hung in the air before him. Though the night was cold, sweat beaded his brow from the effort of keeping the sphere in existence-and in a breath or two, he'd have to hold it together while he cast another spell into it ... a spell of many leaping lightnings that, if he managed the casting, would burst forth from the distant sphere linked to this one, a sphere bobbing like a pale ghost over the snow-clad hills not far away, just in front of the hard-riding outlaw band. The magelord muttered the incantation that would link the two spells and felt the power rising within him.

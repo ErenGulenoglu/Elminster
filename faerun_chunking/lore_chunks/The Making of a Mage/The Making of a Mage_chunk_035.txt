@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 35
 characters  : elminster
-events      : Elminster escapes from a ravine after a battle, plans to defend outlaws in caves
-location    : Athalantar
+events      : Elminster survives a battle, decides to fortify caves against armsmen.
+location    : Wind Cavern
 === CONTENT ===
 From the place of whispers, he swam up, up, and burst out into the light.... The sky was blue and cloudless overhead. Elminster lay on his back on snowy rocks, stiff, cold, and aching. Gingerly, he rolled to one side and looked around. No sign of anyone or any movement-good, because his head swam and pounded and he had to duck down again to catch his breath. The darkness again rushed up to claim him ... and it felt so good, his head so heavy.... ***** A little later, he rolled over. Snow vultures flapped heavily into the air, circled over the ravine, and squalled complaints at him. The last armsman lay dead beside him, the Lion Sword in his face. Elminster winced at the sight, but put his hand to the blade, turned his head away, and pulled it free.
 

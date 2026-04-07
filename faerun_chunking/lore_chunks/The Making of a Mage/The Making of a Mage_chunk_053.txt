@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 53
-characters  : helm, broarn, elminster, mauri, eladar
-events      : Helm seeks refuge at Broarn's inn, warning of pursuing magelords.
+characters  : helm, broarn, elminster, eladar
+events      : First meeting between Helm and Broarn; Helm brings news of impending danger, suggesting retreat.
 location    : shadowdale
 === CONTENT ===
 He scowled as Elminster rose in his stall, straw in his hair and sword in hand. "Is this how far ye've got? I thought ye'd be well across the river by now," he said. Elminster shook his head, losing his grin fast. "The magelord who escaped us at the camp found me here somehow-probably he can trace the spellbook-and nearly slew me. Broarn cut him down with that axe." Helm turned to regard the innkeeper with new respect. "A slayer of magelords, now." He circled Broarn as if viewing a lady in a bold new gown, then nodded approvingly. " 'Tis a most exclusive brotherhood, ye know... besides the lad here an' meself, its only members are the dead, an' a few living magelords. Why, th-" "Helm," Broarn broke in bluntly, "why are you here?

@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 288
-characters  : mithtyn, elminster, myrjala, undarl
-events      : Elf prince and sorceress vanish, Mithtyn has conversation with knight about Myrjala, Elminster and Myrjala travel to shrine of Mystra, Undarl attacks them
-location    : castle, courtyard, kitchens, hastarl, shrine of mystra
+characters  : mithtyn, the prince, the-sorceress, helm's knight, anauviir, elminster, myrjala, undarl
+events      : Mithtyn sees the prince and Myrjala vanish; Elminster and Myrjala encounter Undarl, who attacks them
+location    : Hastarl
 === CONTENT ===
 Then the elf turned his head. Mithtyn looked in the same direction in time to see the prince and the-sorceress, if she wanted to be known so-vanishing around a corner behind the old stone of a proud house. When they were gone, Mithtyn shivered once. Then he turned back into the castle, his eyes wet with tears. He knew he'd not see anything of like importance for the rest of his days. Such knowledge is a heavy thing to bear early in the morning. Perhaps after a good dawnfry, a few hot mugs, and his wife to tell it all to. Mithtyn hoped-not for the first time-he'd live long enough for his daughter to be old enough to heed, and hear, and appreciate what he told her. He'd tell her about this morning perhaps a hundred times.
 

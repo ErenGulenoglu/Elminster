@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 60
-characters  : elminster, budaera
-events      : Elminster sneezes beer while talking to Budaera
-location    : none
+characters  : elminster, budaera, farl
+events      : Elminster meets Budaera at tavern; Farl discovers coins in his hair.
+location    : tavern
 === CONTENT ===
 Just be sure to give way when we need the space on the benches, or it's my blade-toe you'll be feeling!" They'd seen her put her dagger-tipped boot into the shins of many a man, and once into the gut of a sailor who didn't know his own cruel strength; he'd ended up screaming his guts out-literally-on the tavern floor. Both thieves nodded hastily as the other girls tittered. Farl gave one of them a wink, and she leaned forward to pat his knee. The movement made her low-cut silken bodice slide, smooth and cool, across Elminster's arm. He hastily transferred his tankard out of the way, feeling a stirring in him. Budaera saw his swift movement and turned her head to smile up at him. Her scent-something of roses, not so strong as some of the reeks the ladies used-wafted to his nostrils. Elminster shivered.
 

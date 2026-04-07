@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 255
-characters  : myrjala, elminster
-events      : Myrjala saves Elminster from Malanthor's apprentice; they fool Nanatha and leave her to faint.
+characters  : elminster, mystra
+events      : Myrjala saves Elminster using powerful magic causing him to fall into a deep sleep.
 location    : none
 === CONTENT ===
 The woman still stood in the doorway, eyes alight in fury and grief. The magic had done nothing to her! Chantlarn gulped and triggered the wand again. She reached right through its blaze to touch him. Chantlarn had time for one strangled cry before his hurtling body crashed out through the balcony window. He was still high above the castle courtyard when he thrust the wand into his own mouth, thrashing and struggling as he fought the terrible compulsion, and triggered it again. The bloody explosion set the wand into a wild discharge. Its bolts burst in all directions, hurling flaming spell forces at the castle wall, and scattering a terrified patrol of armsmen. The apprentice screamed again. Myrjala looked up at her tear-streaked face once, and then turned back to Elminster again, murmuring an incantation.

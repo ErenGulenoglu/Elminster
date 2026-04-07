@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 283
-characters  : elminster, helm
-events      : Elminster abdicates throne in favor of Helm; Velvet Hand thieves arrive
-location    : Athalantar
+characters  : elminster, helm stoneblade
+events      : Elminster renounces throne and appoints Helm as king of Athalantar
+location    : athalantar
 === CONTENT ===
 They are the knights of Athalantar, and mark he who leads them-Helm Stoneblade, a true knight of Athalantar!" Elminster rose from the throne and came to stand beside her. The two glanced at each other, smiled, nodded-and the hawk-nosed man strode into the midst of the dumbfounded armed band. Blades swung to point his way, but no one struck a blow. Elminster walked up to Helm. "Surprised, old friend?" Helm nodded, unspeaking. His dirt-smudged, sweating face wore a look of astonishment and a little awe. Elminster smiled at him, and then looked around at the crowd and said loudly, "By right of arms, and my lineage, the Stag Throne is rightfully mine! Yet I know well that I am not suited for it. One better suited to rule stands here before you!
 

@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 161
-characters  : tharp, tarthe, elmara, gralkyn, ithym, aumshar urtrar
-events      : Searching tomb balconies
-location    : ondil's tomb
+characters  : tharp, tarthe, elmara, gralkyn, ithym, dlartarnan, asglyn
+events      : Group discusses escape routes while Elmara remains silent; Dlartarnan enters Ondil's tomb first.
+location    : Ondil's tomb
 === CONTENT ===
 glowing, backlit. The room was still and empty of life or adornments. Waiting. "Ondil's tomb," Tharp said in tones of slow doom. "Aye, but a way out, if all else fails," Tarthe replied, voice calm, eyes darting all round. His gaze fell on Elmara, standing silent in their midst, and he shook his head slightly in disbelief. He'd seen it all happen, but he still wasn't sure he believed it. Perhaps some of those ridiculous tavern-tales old adventurers loved to tell were true, after all.... "Let's try to get to another balcony," Gralkyn suggested.
 

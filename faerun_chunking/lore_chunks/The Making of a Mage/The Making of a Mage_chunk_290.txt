@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 290
 characters  : undarl, myrjala, elminster
-events      : Battle between Elminster, Myrjala, and Undarl; Undarl's defeat and death
-location    : none
+events      : Undarl transforms into a dragon-like creature and kills Myrjala. Elminster defeats Undarl but Myrjala is killed.
+location    : undarl's lair
 === CONTENT ===
 Many think themselves mightier than me, only to learn the depths of their folly in the moments before they perish!" Undarl's ever-larger tentacle-heads suddenly swooped around the shield and were upon her, darting and biting like writhing snakes. Myrjala shrieked as one bit off her raised hand-but her scream was abruptly cut off an instant later when the wizard's head, dragonlike now, breathed out fire that burst through the shield without pause. The sorceress vanished from the waist up, collapsing in a smoking welter of ashes and blackened bones. "No!" Elminster cried, leaping on the dragon-thing the magelord had become. He clawed at its eyes, kicking and weeping. Undarl shook him off. El fell heavily, saw the fanged snout turn just above him to breathe down devouring fire, and rolled in under it with desperate speed, rising beneath those snarling jaws.
 

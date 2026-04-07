@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 9
 characters  : srinshee, elminster
-events      : Elminster welcomed and framed, creates Myth Drannor mythal, Lady Laurlaethee attempts murder, Harpers founded
-location    : cormanthor, myth drannor
+events      : Elminster granted permission to dwell in Cormanthor, framed for murder, apprenticed to cruel wizard, contributed to mythal creation, attempted assassination by Lady Laurlaethee
+location    : Cormanthor, Myth Drannor
 === CONTENT ===
 With the Srinshee's blessing, Elminster was openly welcomed as the first human granted permission to dwell in Cormanthor, named Sha'Quessir (or elf-friend), and granted the title of Armathor of the Coronal Guard by Coronal Eltargrim. However, those that opposed opening Cormanthor to non-elves tried to use Elminster as proof that humans and other undesirables were detrimental to elvenkind, and framed him for murder. Despite the allegations, El garnered some respect among the forward-thinking elves of the city, recognition that was bolstered in part due to Coronal Eltargrim and the blessing of Mystra. Eventually, Elminster was apprenticed to a cruel and powerful wizard from House Starym known only as "The Masked" , and compelled to toil away for 20 years under oppressive conditions. Despite the poor working conditions, Elminster's made significant contributions to the formation of Cormanthor's first mythal , which protected the city from outsiders.
 

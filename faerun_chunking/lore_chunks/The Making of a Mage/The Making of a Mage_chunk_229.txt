@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 229
-characters  : elminster
-events      : Elminster enters High Forest, meets elves, reveals his identity
+characters  : elminster, braer-baerithryn
+events      : Elminster encounters hostile elves in High Forest. Elves test his spell-shield, threaten him with bows. Elminster reveals he is an elf disguised as a man.
 location    : High Forest
 === CONTENT ===
 and as fast, more's the pity.... ***** El stopped when he came to the little knoll in the heart of the High Forest, knelt and murmured a prayer to Mystra, and then sat down on the flat stone beside the little pool. Almost immediately his spell-shield flickered as something unseen-an elf, no doubt-tested it, seeking to learn who he was. El stood, looking around at the duskwood, shadowtop, and blueleaf trees that pressed close about the knoll. "Well met!" he called cheerfully and sat down again. In patient silence he waited, so long a time that even an elf could grow restive. From the gloom beneath the trees strode a silent elf in mottled green, a strung bow in his hand. His face was still, but his eyes were not friendly. "Magelords aren't welcome here," he said, setting a shaft to his bow. Elminster made no move.

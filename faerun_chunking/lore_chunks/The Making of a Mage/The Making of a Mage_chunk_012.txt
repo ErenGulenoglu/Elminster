@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 12
 characters  : elminster
-events      : Elminster searches Heldon ruins after dragon attack, vows revenge.
+events      : Elminster finds the ruined Lion Sword after his village Heldon is destroyed; he swears revenge on the responsible wizard
 location    : Heldon
 === CONTENT ===
 caught fire. His home was only a blackened area and drifting ashes; beyond, the butcher's shop had fallen into the street, a mass of half-burnt timbers and smashed belongings. The dragon had gone; Elminster was alone with the dead. Grimly, Elminster searched the village. He found corpses, tumbled or fried among the ruins of their homes, but not a soul that yet lived. Of his mother and father there was no sign... but he knew they'd not have fled. It was only when he turned, sick at heart, toward the meadow-where else could he go?-that he stepped on something amid the ashes that lay thick on the road: the half-melted hilt of the Lion Sword. He took it up in hands that trembled. All but a few fingers of the blade were burnt away, and most of the proud gold; blue magic coursed no longer about this remnant.

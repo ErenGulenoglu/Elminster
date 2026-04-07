@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 22
-characters  : elminster, mystra, alassra
-events      : El travels through Underdark and surface world; Alassra fights tanar'ri, dies saving El; El seeks revenge, restores Mystra
-location    : Underdark, Cormanthor, Cormyr, Neverwinter
+characters  : elminster, symrustar auglamyr, amarune, alassra
+events      : Elminister inhabits drow body, reunites with Amarune, aids War Wizards. Alassra closes rifts, battles tanar'ri, dies restoring Elminster's body. Elminister avenges Alassra, returns Mystra's power, visits Neverwinter.
+location    : Underdark, Cormanthor, Cormyr, isolated keep
 === CONTENT ===
 El's ephemeral form lingered in the Underdark for a time, witnessing a wider scope of the effects of the Spellplague, before encountering the consciousness of Symrustar Auglamyr , an elf that had lived in Cormanthor when El first stepped into the city. They traveled together as El came to inhabit the body of a drow woman and eventually made his way back up to the surface world. El had managed to make his way back to Cormyr, reunited with Amarune, and heralded Mystra's return to the Realms. He entered into the mind of an honest and stalwart member of the War Wizards and informed them their aid would be needed during the conflict ahead. Meanwhile, Alassra worked tirelessly to close rifts that had been opened across the Realms. She eventually made her way to an isolated keep shrouded in blueflame and overrun with tanar'ri .
 

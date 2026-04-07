@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 18
-characters  : elminster
-events      : Elminster learns about Athalantar's true rulers and vows revenge.
-location    : Athalantar
+characters  : elminster, helm
+events      : First meeting between Elminster and Helm; Elminster learns about his parents' death and vows revenge
+location    : none
 === CONTENT ===
 has cost him, an' all of us, the realm. He bought the services of mages from all over Faerun to win him the Stag Throne. He sits on it today-but his wits are so clouded by drink an' by their magic that he doesn't even know he barks only when they kick him: his magelords are the true rulers of Athalantar. Even the beggars in Hastarl know it." "How many of these wizards are there? What are their names?" Elminster asked quietly. Helm released him and sat back, shaking his head. "I know not-an' I doubt any folk in Athalantar do, below swordcaptains of the Stag, except perhaps the house servants of Athalgard." He cast a keen look at Elminster. "Sworn to avenge thy parents, Prince?" Elminster nodded. "Wait," the knight told him bluntly. "Wait until ye're older, an've gathered coins enough to buy mages of thy own.
 

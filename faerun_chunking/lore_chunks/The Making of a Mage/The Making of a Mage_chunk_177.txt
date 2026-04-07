@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 177
-characters  : elmara
-events      : Elmara decides to travel to Athalantar
+characters  : elminster
+events      : Elminster decides to travel to Athalantar.
 location    : Athalantar
 === CONTENT ===
 The minstrel tried to break the mood by beginning the Ballad of the Stag again, but his voice was raw. After it broke the second time, he spread his hands and asked, "Can you wait, Lady Elmara, until the morrow?" "Of course," El replied, taking a seat at the just-righted table where the wizards had been. "How are ye?" "Alive, thanks to you," the minstrel said quietly. "May I pay for your dinner?" "If ye allow me to buy all we drink," Elmara replied. After a moment, they both chuckled. ***** Elmara set down their third bottle, empty. She eyed it gravely, and asked, "Are any princes left alive?" The minstrel shrugged. "Belaur, of course, though I've heard he styles himself 'king' now. I know of no others, but there could be, I suppose.

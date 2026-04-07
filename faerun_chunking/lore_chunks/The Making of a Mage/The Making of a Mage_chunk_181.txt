@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 181
 characters  : elminster, mystra
-events      : Elmara defends herself against attack and meets townsfolk in Narthil
+events      : Elminster saves himself by killing robed wizard in attempt to assassinate him; Elmara reveals she is a priestess of Mystra, causing hostile reactions among townsfolk
 location    : Narthil
 === CONTENT ===
 we hold Narthil for King Belaur." "Thank you, sir," Elmara murmured politely, and started back to her seat. The man in robes, suddenly released from magical restraint, lurched and almost fell, took three quick steps toward the door, and then spun around and snarled a spell, his dagger flashing into his hand. The watching townsfolk gasped. The robed wizard's blade and all the discarded swords on the floor leapt up in unison and hurtled through the air toward Elmara's back in a deadly storm of steel. Without turning, El murmured a soft word. The steel points so close to claiming her life swerved away, flying back at the mage. "No!" the robed wizard cried frantically, snatching at the handle of the door. "Wha-" The blades thudded home in a deadly rain, lifting the man's body off his feet and carrying him past the door.

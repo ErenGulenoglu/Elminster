@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 224
 characters  : elminster, myrjala
-events      : Elminster arrives at an ancient elven hideaway under Nimbral; Myrjala confesses love for Elminster
+events      : Elminster meets Myrjala; she agrees to teach him.
 location    : Nimbral
 === CONTENT ===
 Elminster stumbled and with an effort caught his balance, cradling the spellbook. "Where-are we?" "One of my hideaways," Myrjala said, peering around alertly. "This was once part of an elven city. We're deep under Nimbral, an island in the Great Sea." Elminster looked around and then down at the book in his hands. When he raised his watery eyes to meet hers, they held a strange look. "Ye knew him?" Myrjala's eyes were very dark. "I know many mages, Elminster," she said, almost warningly. "I've been around a long time . . . and I did not live this long by recklessly challenging every archmage I heard of." "Ye don't want me to go to Athalantar yet," Elminster said slowly, eyes on hers. Myrjala shook her head. "You're not ready.

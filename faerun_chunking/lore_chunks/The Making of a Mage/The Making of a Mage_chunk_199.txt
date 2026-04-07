@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 199
 characters  : elmara
-events      : Elmara escapes army camp and travels to goddess's place
-location    : army camp, goddess's place
+events      : Elmara escapes enemy camp, injures arm trying to help others, meets astonished farmer
+location    : Shadowdale
 === CONTENT ===
 the senseless man across the rock was hot work, even naked as she was. "Ye were great," she hissed fiercely in his ear as she rolled him over the edge. Her cloak was around her and her pack on her back by the time she heard the body crash through branches below and start to roll. El stepped into her boots and carefully went forward onto soft moss before she stamped them firmly onto her feet. Then she crept into the darkness, heading back the way she'd come, hoping no new guardposts or patrols had been set. She'd a few spells left, aye, but scarce the strength to stand and cast them. She dare not try to go through this encamped army to reach the forest-elven patrols might slay her before they knew who she was, even if by some gods-sent miracle she got past all the armsmen.
 

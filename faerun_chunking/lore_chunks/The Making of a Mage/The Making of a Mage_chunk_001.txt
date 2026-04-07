@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 1
-characters  : elminster, mourngrym, lhaeo
-events      : Mourngrym searches Elminster's tower for him
+characters  : elminster, mourngrym
+events      : Mourngrym searches Elminster's tower but he is gone
 location    : shadowdale
 === CONTENT ===
 Elminster: The Making of a Mage By Ed Greenwood

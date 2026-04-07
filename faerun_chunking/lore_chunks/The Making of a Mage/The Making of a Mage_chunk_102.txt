@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 102
 characters  : minter, peeryst, isparla, nanue
-events      : Fight ensues, characters are injured
-location    : a bedroom
+events      : Skirmish between intruders; injury and incapacitation of 'Isparla' and 'Nanue'; 'Peeryst' flees
+location    : none
 === CONTENT ===
 As they watched, she scooped up the stag, grunted in surprise under its weight, staggered off-balance, slipped on the carpet, and fell on both elbows atop the piled loot. She moaned in pain-and the stag in her grasp slipped free and thumped down sideways onto one of her hands. She grunted again, louder. "Another like her, who came in before us!" Minter growled, indicating his partner. "U-Under the wardrobe," Peeryst panted, pointing. "It fell on her." Minter turned and saw a ribbon of dark blood running from under the wardrobe, which was as large-and probably as heavy-as a long-haul wagon. He shuddered. He kept on shuddering, all the way to the floor, as a figure rose from under the bed and brought a perfume-bottle down on his head. Isparla clambered to her feet, saw the figure with the shards of the perfume bottle in his hand, obligingly spat, "Velvets!
 

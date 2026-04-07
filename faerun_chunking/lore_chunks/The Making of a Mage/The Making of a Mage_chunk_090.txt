@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 90
-characters  : elminster
-events      : Crowd discusses Mystra's punishment on the mage royal; Elminster settles bets
+characters  : elminster, farl
+events      : Elminster mediates gambling dispute over Berdeece Hettir's prophecy about King Belaur's fate.
 location    : Hastarl
 === CONTENT ===
 voice again, so that it echoed back off the stone wall across the alley, "I think the first tale I heard is the true one: their wickedness was punished by a visit from Mystra herself!" "Yes! That's it! 'Twas just that as happened, I tell thee!" The woman was hopping up and down in her excitement now; her capacious bosom heaved and rolled like tied bundles on the docks in high winds. "The mage royal thought he had a spell that would bring her to heel like a dog so he could use her power to destroy all wizards but ours and conquer all the lands from here to the Great Sea beyond Elembar! But he was wrong, and she-" "She turned them all to boars, thrust spits up their behinds, and seared 'em in the hearth fires!" The gleeful voice belonged to a man nearby who stank of fish.

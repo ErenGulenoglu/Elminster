@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 50
 characters  : elminster
-events      : Elminster arrives at an inn, Discussion about magic and politics
+events      : Elminster arrives at an inn in Athalantar after escaping from wizards and armsmen, Elminster engages in conversation with Broarn about the political climate of Athalantar
 location    : Athalantar
 === CONTENT ===
 Be welcome in my inn-though I must warn you, lord, that six armsmen sleep under this roof tonight, and at least one merchant who tells all he sees to magelings." "This stable is palace enough," Elminster said with a smile. "I've run from wizards and armsmen across half the Horn Hills, to here . . . and was beginning to wonder where in the world I could be free of them." "There is no place to hide from strong magic," Broarn said soberly. " 'Tis why men hold these lands now, and not the Fair Folk." "I thought elven magic o'ermatched that of men," Elminster said curiously. "If elven mages wielded it together, aye-but elves have little taste for war, and spend much of their time feuding with each other. Most of them are also ...

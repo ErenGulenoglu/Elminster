@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 179
-characters  : elmara
-events      : Elmara eats at Myrkiel's Rest, is confronted by armsmen led by a man in robes
+characters  : elminster
+events      : Elminster arrives at Myrkiel's Rest in Narthil, encounters an angry mage
 location    : Narthil, Myrkiel's Rest
 === CONTENT ===
 The guardcaptain paled, opened his mouth to say something, jaw quivering, and then fled, followed a moment later by the rest of the guard. Elmara watched them go, smiling a little, and then walked on along the road, toward the inn. ***** The sign above the door said Myrkiel's Rest, and merchants had told her it was the best (near the only) inn in Narthil. Elmara found it pleasant enough, and took a chair against a wall at the back of the room, where she could see who came in. She ordered a meal from the stout proprietress and asked if she could use a room for a few breaths, offering a regal if she could do it undisturbed. The innkeeper's eyebrows rose, but without a word she took Elmara's coin and showed her a room with a door that could be barred.

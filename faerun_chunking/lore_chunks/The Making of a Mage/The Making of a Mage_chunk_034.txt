@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 34
 characters  : elminster
-events      : Elminster injured in battle, uses Lion Sword to kill foe
+events      : Elminster is severely injured in battle but manages to kill his opponent before losing consciousness.
 location    : none
 === CONTENT ===
 As he fell, his knife met the quarrel with a clang and a spark. The dagger spun wildly away, and the quarrel burned past Elminster, ripping open his chin and thrusting his head around. El roared in pain and fell on his knees, hearing the crunching of the armsman's boots behind him as the warrior came running. Elminster turned, shaking his head to clear it and growling at the pain. The man was scant paces away, sword raised to slay, when El flung the dagger in his other hand into the man's face. It clanged harmlessly off the nose guard of the armsman's helm, but the man's swing missed the diving youth, the sword striking the snowy ground and the rocks beneath. The warrior roared and fell heavily on top of Elminster's left hand. Elminster screamed. Gods, the pain!

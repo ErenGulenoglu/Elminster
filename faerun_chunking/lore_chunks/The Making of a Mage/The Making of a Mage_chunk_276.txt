@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 276
-characters  : elminster, undarl
-events      : Elminster watched Undarl shoot Myrjala with crossbow bolts; Elminster cast spell causing guards to burn; King Belaur entered throne room followed by Undarl; baker Hannibur stabbed Undarl
+characters  : elminster, myrjala
+events      : Undarl mortally wounds Myrjala with crossbow bolts; Elminster retaliates but Undarl uses magic to protect himself
 location    : throne room
 === CONTENT ===
 ordered, and two crossbows cracked as one. Dodging around the throne, deciding which spell to use when he got far enough away from Undarl's magic-rending field, Elminster watched those bolts streak across the throne room at his onetime tutor. They glowed a vivid blue to his mage-sight. He stared in horror; spells flared out angry radiance around them. Undarl laughed coldly as a sudden burst of light marked the destruction of a shield spun around the sorceress. It was followed by a second flash, an instant later, as an inner shield failed-and Myrjala staggered, clutched at her breast where one bolt stood quivering, turned sideways so he saw the second bolt standing in her side-and fell. Undarl's harsh laughter rang out loudly. Elminster started down the steps at a run, his own safety forgotten. He was still three running paces short of Myrjala's sprawled form when she vanished.

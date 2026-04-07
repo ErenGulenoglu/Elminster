@@ -1,6 +1,6 @@
 === METADATA ===
 chunk_index : 207
-characters  : elminster, elmara
+characters  : elmara, mystra
 events      : Elmara uses fleshflame spell to kill magelord, prays to Mystra for teleportation
 location    : none
 === CONTENT ===

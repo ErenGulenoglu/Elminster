@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 164
 characters  : tarthe, ithym, gralkyn, elmara
-events      : Thieves attempt escape through window, activated spell throws them out
+events      : Two thieves die attempting escape; party reduced
 location    : the tomb
 === CONTENT ===
 "He knew the spell would cost him his life, I would guess, by what he said," Tarthe said, and his voice quavered. "Let's begone." "By the windows?" Ithym asked, tears in his eyes as he looked back at the ghostly figure standing by the tomb. "It's the way he pointed," Tarthe said heavily. "Ropes first." The two thieves undid leather jerkins to reveal ropes wound many times around their bellies. Elmara took hold of one end of each rope, and the thieves spun around and around until the ropes lay in loose coils on the floor. Ithym caught up two ends and tied them together. Then, gingerly, the two thieves approached a window, looking back over to be sure there was nothing visible that might spring at them.

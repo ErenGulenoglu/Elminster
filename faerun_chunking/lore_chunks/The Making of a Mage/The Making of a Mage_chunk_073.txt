@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 73
-characters  : elminster, farl
-events      : Elminster nearly kidnapped by thugs but rescued by Farl
+characters  : elminster, shildo, farl
+events      : New arrival Elminster is confronted by thugs, rescued by Farl who uses deception to protect him.
 location    : none
 === CONTENT ===
 Newly arrived and wandering wide-eyed, El turned down a blind alley only to find, when he spun about, that he was facing a line of hard- eyed, grinning men blocking his way. A balding, burly giant in worn leathers stood at their head, a padded stick in one hand and a canvas sack big enough to enclose Elminster's head-for that was its purpose-in the other. They stalked down the alley toward him. El backed away, fingering the Lion Sword and wondering if he could fight so many hardened men in such a confined space and hope to win. He took a stand in a corner, blade out, but they didn't slow their steady, menacing advance. The bald man raised his stick, obviously planning to strike aside the lad's sword while the others wrestled him down, but before he could, a calm voice broke in from overhead.

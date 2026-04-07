@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 197
-characters  : tyche, elminster
-events      : El discovers she's not being watched magically, Othglar is knocked out by Elmara who then prepares a powerful prayer
-location    : Narthil, Athalgard, Hastarl, High Forest
+characters  : elminster
+events      : Elminster discovers sentient dagger, decides to cast powerful prayer against forces below.
+location    : Narthil, Athalantar, Athalgard, Hastarl
 === CONTENT ===
 haste she wiped them away and gasped the words of another prayer. Tyche smiled upon her, too, it seemed. There was no magelord near. This blade must have been sent after her by someone back in Narthil, or even a wizard distant from that town, perhaps in Athalgard. Whatever its origin, there was no magical scrying upon her, and no intelligent being within spell- sight. El thanked both goddesses because it seemed the right thing to do, then rose from her knees and went on cautiously. Perhaps she'd best seek a place to hide and pray to Mystra for spells. ***** Othglar spat thoughtfully into the night, shifted his aching behind on the stump, and then grunted in sudden impatience and got to his feet, kicking at the air to ease the stiffness in his legs.
 

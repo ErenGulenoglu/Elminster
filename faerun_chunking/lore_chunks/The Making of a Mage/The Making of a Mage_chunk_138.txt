@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 138
-characters  : elminster, mystra
-events      : Elminster watches Elmara leave; Mystra visits temple
-location    : temple
+characters  : elmara, mystra
+events      : Elmara seeks magic for sworn task; Mystra observes Elmara, considering her potential.
+location    : Shadowdale
 === CONTENT ===
 Elmara said slowly. "Wherefore I'm wary of it." She took firm hold of the fork. "I did not choose to look upon Mystra-she came to me." "Then be more grateful; some wizards dream of seeing her all their lives and die disappointed." The white-haired head bent to regard the dirt again. "If you hate or fear magic so much, why have you come here?" Silence stretched. "To do a thing I am sworn to do," Elmara said finally, "I'll need strong magic ... and to understand what it is I wield." "Well, then ... eat, and get you going. Mind you try some of that thinking I suggest." "Thinking of-what?" "That, I leave to you. Remember, Mystra forbids nothing." "Think ... of everything?" " 'Twould be a welcome change." ***** The old woman watched until the young maid in the cloak was gone through the trees.
 

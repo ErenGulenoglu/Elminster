@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 156
-characters  : elmara
-events      : Elmara battles mind flayer and dragon; Blades fight beholder
+characters  : elmara, asglyn
+events      : Elmara uses powerful magic to trap and ultimately destroy mind flayer and beholder while protecting the Blades.
 location    : none
 === CONTENT ===
 crazed comrade hanging in the air, hands moving again as she cast yet another spell. There was a soundless flash. The mind flayer had worked some spell of its own, seeking to break free of its globe, but the glowing magic had prevailed. The tentacled thing crouched down in seeming pain. Elmara frowned and gestured at it, and the mind flayer's prison of light scudded across the chamber, gathering speed as it spun toward the globe that held the dragon. The great wyrm was thrashing its tail, wriggling its shoulders, and roaring silently, trying to shatter the cramped confines of light about it. Its jaws flashed fire as it caught sight of the watching men on the balcony. Hatred glared in its gaze as it snarled at them. Then the two globes rushed together, and the world shattered.

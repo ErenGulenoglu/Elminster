@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 16
-characters  : elminster, mystra, adon, cyric, lhaeo, kelemvor, khelben, myrkul, tarth_hornwood
-events      : Elminster seals rift, transported to other plane. Midnight imprisoned, rescued by Cyric. Elminster aids Midnight in ringing Bell of Aylen Attricus. Myrkul's undead minions attack Waterdeep, Elminster helps defend city.
-location    : tantras, waterdeep
+characters  : elminster, mystra, adon, cyric, lhaeo, khelben, kelemvor, myrkul
+events      : Elminster transported to another plane, believed dead. Midnight imprisoned then rescued by Cyric. Elminster returns, aids Midnight in shielding Tantras. Helps defend Waterdeep and hides Tablets of Fate. Midnight offered ascension as Mystra.
+location    : shadowdale, tantras, waterdeep
 === CONTENT ===
 Elminster acted quickly to seal the rift, but was taken within and transported to some other plane. Midnight and her companions believed the Old Mage to be dead. While Midnight and her friend Adon were tried for Elminster's "murder", they were sprung from imprisonment by their companion Cyric. El's scribe Lhaeo helped them to seek passage to the city of Tantras , where Elminster had believed they could find one of the Tablets of Fate . By the time Midnight arrived in the city, El had returned to the Realms, using the alias of Minstrel. He told Midnight she could find the tablet within the local temple of Torm , but guided her to another tower so that she could ring the Bell of Aylen Attricus .
 

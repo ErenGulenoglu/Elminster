@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 96
 characters  : farl, elminster
-events      : Thieves fight guards and Moonclaws in Waterdeep streets
-location    : Waterdeep
+events      : Escape and fight against Moonclaws in street
+location    : street, alley
 === CONTENT ===
 Farl leapt high to avoid the man's thrust, landed with both feet atop the blade, and jumped down on the swordwielder's arm, burying his dagger in that face before the man even had time to cry out. As El jumped to the cobbles beside them, staggering under the weight of their booty, Farl tugged his dagger free and hurled it into the night, which seemed to be full of running men and drawn swords. It struck the brow of a hireguard, who cursed, clutched at the streaming blood, and ran. Farl scooped up the long sword that had fallen from the shattered arm of his first victim and hissed, "Come on, out o' this!" They ran to the right, toward one of the rising side streets where folk dwelt who were too respectable to live in hovels but not rich enough to have walls around their homes.
 

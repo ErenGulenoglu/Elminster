@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 20
 characters  : elminster, storm, alassra silverhand
-events      : Elminster absorbs magical power causing havoc, is subdued and cares for Alassra; travels with Storm, hears Mystra's voice
-location    : shadowdale, zhentil keep, suzail
+events      : Elminster goes mad & attacks Alassra leading to plaguelands; Elminster dedicated to helping Alassra with magic items; Elminster & Storm watch over Shadowdale & help Kahara Sulwood; Mystra guides Elminster to destroy Darkways in Zhentil Keep; Elminster & Storm move to Suzail under aliases
+location    : Shadowdale, Zhentil Keep, Suzail
 === CONTENT ===
 When this happened, only his longtime traveling companion Storm was able to bring his mind back, giving of her own essence to soothe Elminster's mind. Elminster's great love and fellow Chosen, Alassra Silverhand, was left in a much worse state following the Spellplague. She absorbed the magical energies released during the cataclysmic event and was afflicted with never-ending madness. On one occasion she unwittingly attacked Elminster at Silverhand farm , and he was forced to defend himself in a devastating spell battle. The powers she held within were released and absorbed by El, and he became a threat to all the Dales. He absorbed the power from the surrounding landscape, creating pockets of plaguelands and conjuring earthmotes . The Old Mage was eventually subdued by a band of adventurers , and left to languish at the old farm.
 

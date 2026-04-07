@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 37
 characters  : elminster
-events      : Elminster chases after Heldreth's Horn
-location    : Lawless Castle, Heldreth's Horn
+events      : Elminster pursues outlaws' trail to Heldreth's Horn, recalling his father's lessons on royal duty.
+location    : Heldreth's Horn, Lawless Castle
 === CONTENT ===
 There was the horse-alone and unguarded, thank the gods! In a few breaths, Elminster had tied his gear to a seemingly endless collection of saddle-straps and thongs, and was in the saddle, urging the patrol-mount to follow the armsmen's trail. It went willingly enough, but slipped and slid in the snow in something a little faster than a trot and a lot slower than a gallop. The tracks ahead were clear and easy to follow so Elminster kicked his heels at the horse's flanks and urged it on. He had to get to Heldreth's Horn before any wizard there caught sight of him by some sort of scrying-spell and dealt death from afar. Soon he was riding hard, the crossbows bouncing bruisingly at his back, and the mist of his breath streaming back behind him into the darkening air. Night was coming down fast over the hills.
 

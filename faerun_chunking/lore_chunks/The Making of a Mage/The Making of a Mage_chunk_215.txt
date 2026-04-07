@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 215
-characters  : elminster
-events      : Task assigned to restore life to ravine
-location    : ravine, Darthtil
+characters  : myrjala, elminster
+events      : El tasked to restore ravine over a year; later, El faces Myrjala's dragon illusion, chooses not to harm her despite having power to do so
+location    : ravine
 === CONTENT ===
 Be warned: this task will take at least a season, and drain some of your life-force." "What is the task?" Myrjala waved an arm at the ravine below them-a place of bare stones, weeds, and the ashen stumps of trees consumed in a long-ago fire. "Bring this place back to life, from where this spring rises to where it joins the Darthtil half a day's walk hence." El stared at her. "Bring it to life with spells?" Her teacher nodded. "How shall I begin?" "Ah," Myrjala said, rising into the air. "Trying, and setting right mistakes, and trying again is the best part of the task. I shall meet with ye on this spot, a year from now." Then brightness flared about her, and she was gone.
 

@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 58
 characters  : elminster
-events      : Elminster steals a spider jewel from Mystra's temple
-location    : Shadowdale
+events      : Elminster successfully steals Mystra's ring while she sleeps; plans to sell it quickly before being discovered
+location    : none
 === CONTENT ===
 a touch, just so-a wiggle to be sure it was caught... and now so was he (This had to work, or he'd be left with a stick twice as long as a man stuck to the breast of a naked woman who'd not stay asleep for very long). . . and a little lift, up and back, so. Don't brush her nose with it, now . . . with infinite care and patience El brought the reachers back out of the window. When he dropped the jewels into the bag and jerked the rope for Farl to
 

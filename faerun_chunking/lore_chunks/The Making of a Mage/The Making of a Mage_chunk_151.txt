@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 151
-characters  : tarthe, elminster
-events      : They stood at balcony's edge of vast tower, debated risks before using magic.
-location    : wizard's tower
+characters  : tarthe, elmara
+events      : Argument between Tarthe and Elmara about using magic in a potentially dangerous situation.
+location    : a vast tower with balconies
 === CONTENT ===
 Tarthe looked at it sourly. "Well," he said, "that's no way back as I'd care to try. So ... forward." They all turned and looked about. They stood on a balcony that curved slightly as if on the inside of a vast circle. The waist-high stone railing in front of them opened on to nothingness. Vast, open darkness. They peered along the walls, and could dimly see other balconies nearby-some higher, some lower . . . all of them empty. Tarthe shrugged. "Well, mage?" Elmara raised an eyebrow. "Do ye seek my counsel, or a spell?" "Can you conjure a sphere of light and sail it out into this?" He waved an arm at the great darkness before them, being careful not to extend it beyond the rail. Elmara nodded. "I can," she said quietly, "but should I? This has the feeling of-something waiting.
 

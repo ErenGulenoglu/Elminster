@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 115
 characters  : elminster
-events      : Elminster receives magical scepter, refuses to use it
+events      : First meeting between Elminster and Mystra; Mystra gifts Elminster with powerful scepter.
 location    : none
 === CONTENT ===
 Elminster Aumar, prince of Athalantar." Elminster took a pace back, shocked. No, he'd never seen this great lady before-or anyone so beautiful. He swallowed. "Who are ye?" "One who has been watching you for years, hoping to see great things," came the reply. Elminster swallowed again. The lady's eyes held dark depths of mystery, and her voice had a musical lilt. She smiled and raised an empty hand-and suddenly, she held a metal scepter. Lights pulsed and winked down its length. Elminster had never seen anything of the like before, but it blazed with blue mage-fire in his gaze, and its very look shouted that it held power. "With this," the lady said quietly, "you can destroy all your foes here at once.

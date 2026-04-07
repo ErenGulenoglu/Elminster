@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 107
-characters  : darrigo trumpettower, nanue, farl, elminster
-events      : Darrigo Trumpettower fights thieves and rescues nephew's bride
+characters  : darrigo trumpettower, nanue
+events      : Darrigo Trumpettower singlehandedly defeats and throws a dozen thieves out of his nephew's bridal bedchamber; Nanue faints.
 location    : trumpettower house
 === CONTENT ===
 The thief swept his daggers up to stab-but the old man took one in the arm without flinching, and smashed home a bone-shattering blow to the thief's jaw. Still roaring, he snatched at the reeling man's throat before he could fall, picked the thief up by the neck the same way he carried turkeys in to be cooked at home, and strode across the room, streaming blood. Straight to the shattered windows he went, lifted the thief, and hurled him out into the empty darkness. He listened for the thud from the cobbles far below, nodded in satisfaction when it came, and went back for another thief. Nanue decided it was safe to faint now. As the second thief sailed out into the night, the blushing bride sank gracefully down on Peeryst's chest, and knew no more....

@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 87
 characters  : elminster, farl
-events      : Elminster escapes from Havilyn's house and is pursued by guards; Eladar rescues him, they plan to rob houses of the recently deceased.
-location    : Athalgard, Havilyn's house
+events      : Elminster evades pursuit by armsman, meets up with Farl, discusses recent events
+location    : athalgard
 === CONTENT ===
 at the dark spires of Athalgard and grinned his defiance at them. The feeling lasted until he'd clambered out of the water onto a disused dock and started the cold, dripping walk home. If he'd been Farl, he'd have taken his knowledge of who'd died in that chamber to swoop down on a hand's-worth of houses this very night and seize riches their owners would never claim before relatives or lesser vultures knew man or treasure was missing, and be safely gone into the night. "But I'm not Farl," Elminster told the night, "and not even all that good a thief-what I am is a good runner." To prove it, he outran the armsman who came around a corner just then, halberd in hand, who with a startled shout recognized the youth he'd almost spitted in a stairway in Havilyn's house not twenty breaths ago.
 

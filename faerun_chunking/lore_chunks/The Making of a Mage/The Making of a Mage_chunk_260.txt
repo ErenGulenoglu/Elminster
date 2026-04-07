@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 260
-characters  : alarashan, briost, ithboltar, nanatha
-events      : Attack on Briost; Ithboltar detects intrusion via scrying crystal
-location    : castle
+characters  : briost, alarashan
+events      : Attack on Briost; Assistants fall one by one
+location    : none
 === CONTENT ===
 Alarashan had time to whirl around and gape at the secret panel he'd never known about, before the cudgel came down on his shoulder with numbing force, and his wand fell from nerveless, burning fingers. ***** Briost didn't waste any time being shocked when the man in filthy armor burst out of his garderobe, sword raised. He lifted a hand, triggered his ring, and stepped smoothly aside to give the dying man room to fall. The second attacker brought a surprised look onto the mage-lord's face, but his ring winked a second time. Something flashed over the falling man's shoulder, though-gods! The hurled dagger nearly took out Briost's eye. He ducked aside and felt a numbing blow on his cheek. The dagger spun on, and as he straightened to meet the men now pouring out of the jakes, he felt wetness on his face.
 

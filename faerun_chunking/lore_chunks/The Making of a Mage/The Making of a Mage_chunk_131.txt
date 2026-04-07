@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 131
-characters  : braer, elmara
-events      : Elmara learns about the High Forest's plight and vows to help
+characters  : braer, elminster
+events      : First meeting between Braer and El; alliance formed
 location    : High Forest
 === CONTENT ===
 Say on!" Braer inclined his head in salute, and said, "Know then: the High Forest is dying, little by little, year by year, under the axes of men and the spells of magelords. They know our power-and being insecure in their own, feel they can only win the safety of their realm by destroying us." He waved one hand in a slow arc at the silent trees around them. "Our power is rooted in the shiftings of the seasons. It is drawn from the vitality and endurance of the land-and is not a thing of flashing battle spells and destruction. The magelords know this and how to force us to fight in ways and places where they know they can defeat us, so we often dare not fight them openly . . . and they know that, too.

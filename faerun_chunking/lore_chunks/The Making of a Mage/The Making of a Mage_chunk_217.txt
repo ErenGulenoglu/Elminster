@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 217
-characters  : elminster, myrjala
-events      : Elminster leaves for Calimshan, Ilhundyl faces intruder at Castle of Sorcery
+characters  : myrjala, elminster
+events      : Final farewell between Myrjala and Elminster. Elminster leaves for Calimshan to confront Ilhundyl.
 location    : Calimshan
 === CONTENT ===
 stayed a maid. I did not want to change what we share." She came around the fire then, and embraced him. "Elminster-or Elmara, or whoever you are-come and eat, one last time. Nothing can change the good work we've done together." ***** It was dark, and the fire had died down low. Myrjala was a shadow across the flames as she turned her head and asked quietly, "Where will you go?" Elminster shrugged. "I know not... west to see the Calishar, mayhap." "The Calishar? Take care, Elminster-" her voice caught on the unfamiliar name, forming it with difficulty "-for Ilhundyl the Mad Mage holds sway there." "I know. It's why I'll go. There's a score I must settle there. I can't go through life leaving everything unfinished." "Many do." "I am not many, and I cannot." He stared into the fire for a long time.

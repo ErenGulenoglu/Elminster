@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 268
-characters  : undarl, anglathammaroth
-events      : Undarl's wand rebounds, causing him to fall from his dragon
-location    : Hastarl
+characters  : undarl
+events      : Undarl's failed spell rebound causes his own wand to explode, blinding him and leading to his dragon's death
+location    : hastarl
 === CONTENT ===
 firing repeatedly from his wand. "Stand and fight!" Undarl snarled. A moment later, a bolt caught the wheeling silver dragon's tail. It convulsed and plunged down below him, wind rippling in its wings, followed by the mage royal's triumphant laughter. Something flickered in the air around him, but Undarl felt no pain. A failed spell, he thought, dismissing it with a shrug, and urged Anglathammaroth into a dive. If its claws could rake the silver wyrm's wings, this battle could be ended right now. The black wyrm's shoulders surged powerfully. Undarl exulted in its might as the wind streaming past his ears rose into a wail. Aye, let it be now! The silver wyrm was beating its wings frantically, trying to evade Anglathammaroth's dive. Undarl snarled at his steed to turn, turn, and not let their foe escape . . .
 

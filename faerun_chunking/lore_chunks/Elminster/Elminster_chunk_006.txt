@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 6
-characters  : elminster, srinshee, alassra silverhand, othortyn, manshoon
-events      : Elminster's relationships and conflicts
-location    : high forest, cormanthor, myth drannor, aglarond, shadowhome
+characters  : elminster, morgwais, nacacia, srinshee, alassra silverhand, othortyn, manshoon
+events      : Elminster had romantic relationships with Morgwais and Alassra Silverhand. He was friends with Srinshee despite her attempted theft of his power, fought against Othortyn and malaugrym, and had encounters with Manshoon ranging from embarrassing to deadly.
+location    : Cormanthor, Aglarond
 === CONTENT ===
 He was flirtatious and amorous with numerous members of the Fair Folk and their kin, including Morgwais , the Lady of High Forest ; Nacacia , a half-elf from Cormanthor; and the Srinshee , a unique lich -like being that watched over Myth Drannor . El and the Srinshee enjoyed a centuries-long friendship, founded on mutual admiration and shared respect for the nature of magic. Their friendship endured the years despite the Srinshee's one unsuccessful attempt to steal away from Elminster some of his silver fire . The second great love of Elminster's life was Alassra Silverhand , the Witch-Queen of Aglarond and the second-youngest of the Seven Sisters. Their passionate romance formed during the early 14 century, after they met and famously battled one another in a spell-duel some decades prior.
 

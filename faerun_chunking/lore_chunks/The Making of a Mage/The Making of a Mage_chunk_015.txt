@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 15
 characters  : elminster, helm
-events      : Elminster retrieves Lion Sword from Helm
+events      : First meeting between Elminster and Helm; Elminster learns about his father's past
 location    : none
 === CONTENT ===
 peace-an' doubtless ye'd still have a home, an' thy folks an' neighbors'd be alive!" The old gray eyes burned with an anger equal to Elminster's own. El swallowed but looked steadily into them. "If ye're a true knight," he said, "then let go." Warily, with a little push that left them both apart, the man did so. "Right, then, boy-why?" Elminster dragged out the sword hilt again and held it up. "Recognize ye this?" he said, voice wavering. Helm squinted at it, shook his head-and then froze. "The Lion Sword," he said roughly. "It should be in Uthgrael's tomb. How came you by it, boy?" He held out his hand for it. Elminster shook his head and thrust the ruined stub of blade back into his jerkin. " 'Tis mine-it was my father's, and ..." he fought down a tightness of unshed tears in his throat, and went on "...

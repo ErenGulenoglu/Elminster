@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 195
-characters  : elmara, phaernos, braer
-events      : Elmara seeks refuge at inn, shares plans with Phaernos, leaves early next morning
-location    : ambletrees, far torel, high forest
+characters  : elmara
+events      : Elmara meets Phaernos at Ambletrees inn, shares her plight, and leaves early next morning with food and dried clothes provided by Phaernos.
+location    : Amblestre
 === CONTENT ===
 useful." "I can do that, or both," Elmara said, rising, "if ye'll let me sleep here this night." Phaernos nodded. "Done, lady ... if you'll come with me, I'll show you a bed where no magelord will find you." The woman gave him a sharp look and asked softly, "What d'ye know of me?" The innkeeper shrugged. "Nothing ... but a friend asked me to watch out for Elmara, if she should pass this way." "Who was this friend?" "He goes by the name of Braer," answered the innkeeper, looking steadily into her eyes. El smiled and relaxed, her shoulders slumping wearily. "Show me the cellar and the pit first," she said. "It may befall that I'll have to slip away before daybreak." Phaernos nodded again, saying nothing, and they went out together.
 

@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 221
 characters  : ilhundyl, elminster
-events      : Ilhundyl battles Elminster on balcony
-location    : balcony
+events      : Ilhundyl attacked Elminster; Ilhundyl fell but used magic to slow descent, Elminster threw him out of balcony
+location    : the balcony
 === CONTENT ===
 Ilhundyl looked down on them and said coldly, "Be revealed." The hawk-nosed mage melted into view-on the balcony beside him, inside his protective spellshields! Ilhundyl recoiled, frantically trying to think of a spell he could safely use against a foe so close. "Why have you come here?" he hissed. The intruder's eyes met his own coldly. "Ye tricked me, hoping to send me to my death. Like the mages of Athalantar, ye rule by fear and brutal magical might, using thy spells to slay or maim folk-or entrap them in beast- shape." "So? What do you want of me?" "Such a question is more appropriately asked before attacking," Elminster replied dryly, and then answered, "Thy destruction.
 

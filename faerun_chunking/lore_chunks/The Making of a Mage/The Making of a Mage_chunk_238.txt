@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 238
-characters  : elminster, myrjala, ruvaen, braer, helm
-events      : Elminster allies with elves of High Forest; Elminster watches mysterious woman's spellcasting
-location    : High Forest
+characters  : elminster, myrjala, ruvaen
+events      : First meeting between Elminster and Ruvaen; Alliance formed
+location    : none
 === CONTENT ===
 The elf who'd first challenged Elminster by the pool said, "A proud boast, lady, for one who lives and then is gone, while the trees and streams endure forever." Myrjala turned her head, as tall and as regal as any elf, and said, "You may be surprised at my longevity, Ruvaen, as others of your folk have been, before." Ruvaen drew back a pace, frowning. "How is it that you know my name? Who-?" "Peace," Braer said. "Such things are best spoken of in private, one to another. Now we have much to plan and prepare. The test has been set and passed. Elminster may not have prevailed alone, but two magelords are no more, not one. Do any challenge this?" Silence answered him, and he turned wordlessly to Ruvaen.
 

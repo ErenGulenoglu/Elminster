@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 267
 characters  : undarl
-events      : Two dragons battle in the sky, causing terror among citizens
+events      : Undarl battles an unknown silver dragon; citizens flee in terror
 location    : the docks
 === CONTENT ===
 The mage royal stared at the empty air in disbelief, and then snatched out one of his wands and fired it. A green bolt of ravening radiance tore along the silver wyrm's side. It shuddered and circled away. With a short laugh of satisfaction, Undarl urged his own dragon after it. ***** "By all the gods!" a carter swore. Folk around him followed his incredulous gaze, and there was more than one shriek of terror. One man fell to his knees on the cobbles and began babbling a prayer; many others decided to pray on the run, sprinting away down the street-away from the battle raging in the air overhead as two mighty dragons circled and roared in the first bright rays of morning. Magic flashed, and the carter snarled a bitter oath.

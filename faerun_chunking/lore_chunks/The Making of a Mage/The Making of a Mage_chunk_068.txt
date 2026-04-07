@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 68
-characters  : elminster, thelorn, farl, shandathe, selemban, jansibal, hannibur
-events      : Elminster and Thelorn attack Shandathe's suitor, steal his coins, arrange them in a compromising position. They help Shandathe escape through the city to Hannibur's bakery.
+characters  : elminster, thelorn, farl, shandathe, selemban, jansibal
+events      : Elminster and Farl club down Thelorn, ambush Shandathe, steal rings, arrange Selemban and Jansibal naked on bed, escape with Shandathe to Hannibur's bakery.
 location    : Hastarl
 === CONTENT ===
 Elminster nodded and strode toward it, Thelorn following through the way that the youth cleared. When they reached the curtain, El ducked a look around it and held it a little aside; Thelorn peered in. A heap of clothing and bed-draperies lay close by; beyond them, a single flickering stub of candle glimmered in the navel of the lady who lay bare to his sight on the bed. A silk half-mask hooded her face, and she was smiling through the swirl of long hair that lay across her mouth as she lounged with her arms clasped behind her head. "Come in, and be at ease," she murmured, "my lord." Thelorn's smile widened, and he stepped forward.

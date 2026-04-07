@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 187
-characters  : briost, eth, undarl, galath, nasarn the hooded
-events      : Magelords discuss Eth's mission and task Galath with responding if aid is needed.
+characters  : briost, undarl, galath, nasarn the hooded, eth
+events      : Meeting of wizards; task assignment to Eth, Galath embarrassed by eagerness
 location    : none
 === CONTENT ===
 ***** "Gartos will see that this sorceress dies," Briost said firmly, and a smile slowly crossed his face. "Eth will make sure he does." "You're confident of Eth's abilities?" Undarl asked. The wizards seated around the table all looked down it to the high seat where the mage royal sat, in time to see his fire-red ring wink with sudden inner light. Briost shrugged, wondering (not for the first time) just what powers slept in that ring. "He has proven himself able .. . and prudent... thus far." "This was a testing, though, wasn't it?" Galath asked excitedly. "Of course," Briost replied in a voice dry with patience. Why, he thought privately, did there always have to be one eager puppy at these meetings?

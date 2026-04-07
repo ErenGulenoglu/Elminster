@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 44
 characters  : elminster
-events      : Elminster fights through a camp, wounds mage-lord
+events      : Elminster fights through camp, sets fire to tent, escapes pursuit
 location    : none
 === CONTENT ===
 thrust left him groaning over the blade in his guts. As El tugged his steel free, the next armsman approached warily. Elminster bent, plucked a dagger from the belt of the feebly moving man he'd just felled, and ran to one side. The surviving foe was still circling when Elminster sped away, back toward the camp. A man in gleaming armor met him just inside the circle of light, a halberd in his hands. Elminster ran for the blade, batted it aside with his own, and stabbed. The armor turned his point aside, but then he was past, charging right into a tripod of halberds. They toppled, and the lantern they held shattered and set a tent ablaze with a sudden roar. Men shouted.

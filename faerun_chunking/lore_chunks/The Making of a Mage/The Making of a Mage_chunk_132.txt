@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 132
 characters  : elmara, mystra, braer
-events      : Elmara sees a divine flame, speaks to Mystra; Elmara and Braer discuss elven worship of Mystra
+events      : Elmara seeks Mystra's presence. Braer shares insights about elven culture, hints at Elmara leaving.
 location    : none
 === CONTENT ===
 Nine THE WAY OF A MAGE The way of a mage is a dark and lonely one. This is why so many wizards fall early into the darkness of the grave-or later into the endless twilight of undeath. Such bright prospects are why the road to mastery of magecraft is always such a crowded one. Jhalivar Thrunn Trail Tales of the North Year of the Sundered Shields A flame was suddenly dancing above the rock, in air that had been empty a moment before. Elmara caught her breath. "Mystra?" she asked, and the flame seemed to brighten for a moment in response-but then it faded away into nothingness, and there was no other reply. Elmara sighed and knelt beside the pool. "I hoped for something more." "A little less pride, lass," Braer murmured, touching her elbow.

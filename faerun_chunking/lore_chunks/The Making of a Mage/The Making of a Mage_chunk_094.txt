@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 94
 characters  : elminster, farl
-events      : Elminster and Farl flee thieves' gang, kill watcher
-location    : Hastarl
+events      : Elminster and Farl escape thieves, kill a watcher.
+location    : hastarl
 === CONTENT ===
 him lay the man he'd kicked, mouth open and face white. A sick feeling rose in him, but as he scrambled to his feet, he saw the man's hand move feebly, grasping for a windowsill that wasn't there. Elminster and Farl sprinted together across the garden and scrabbled hastily up and over the wall. They dropped into the street outside and began strolling nonchalantly toward the nearest cross-street, but a heavy clothyard shaft hummed low over the wall and struck the high wooden gate of the house across from them. Farl stared up at it. "By the gods, a proper archer! Let's begone!" So it was at an undignified run that the two fetched up, puffing, behind the boarded-up shop to lose loot and gear. Then Farl smote his forehead. "Gangs!" he hissed.
 

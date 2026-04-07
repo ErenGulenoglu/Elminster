@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 261
 characters  : ithboltar, riol, sauvar, tharl bloodbar, jansibal otharr, chlasa, thelorn selemban
-events      : Magelords gathered, Riol and Sauvar killed by Tharl Bloodbar, Jansibal Otharr rushes out ignoring his pleasure
-location    : Ithboltar's chamber, castle
+events      : Unexpected threat unites magelords; Riol and Sauvar killed by Tharl Bloodbar; Jansibal ignores warning bell for intimate encounter
+location    : ithboltar's chamber, stair
 === CONTENT ===
 Ithboltar's chamber was suddenly full of five startled magelords. "What did y-?" "How did you brin-?" "Why-?" Ithboltar held up a hand to quell them all. "Together, we stand a chance against this threat. Alone, we are doomed." ***** The bells boomed again, and the armsmen rose with a chorus of curses. "This never happens," Riol protested, his boots scattering dice underfoot as he skidded past the table and raced for the stair. "Well, it's happening now," First Sword Sauvar growled, from right behind him. "And you can bet that anything that can scare a dozen or more magelords is going to be something we should be scared about, too!" Riol opened his mouth to answer, but someone reached out of a dark side- passage and put a sword into it.
 

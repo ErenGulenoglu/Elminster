@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 266
-characters  : braer, farl, tassabra, delsaran, undarl dragonrider, ithboltar
-events      : Braer transforms into a dragon and flies away; Undarl pursues him on his black dragon Anglathammaroth
-location    : Shadowdale Castle, Hastarl
+characters  : braer, tassabra, farl, delsaran, undarl dragonrider
+events      : Braer transforms into a dragon and flies away; Tassabra faints
+location    : none
 === CONTENT ===
 Let me enjoy it, will you?" Braer smiled thinly but kept silence. The tall elf felt much the same way, though he didn't like to admit it even to himself. Whatever befell hereafter, they'd got in a few good sword thrusts right through the might of the magelords this night. Nay ... this day, by now.... Braer looked up out the great window into the gray sky of breaking dawn- and stiffened. A warning spell he'd set three days ago had just been triggered, sending its cry into his mind. He stepped back in haste; as his battle comrades turned startled faces his way, he waved at them to keep away from him. "My own battle begins, I fear," he murmured, and started to grow taller, his body darkening swiftly.
 

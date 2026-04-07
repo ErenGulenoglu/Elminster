@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 23
-characters  : elminster, storm silverhand, amarune, arclath, alustriel, laeral, khelben, larloch
-events      : Elminster directs adventurers through hostile territories; Cult of the Dragon threat emerges; Elminster and allies work to strengthen the Weave; Shadovar investigate magical wards; El discovers lich's alternative plan
-location    : Blacklake District, Ebon Downs, Whispering Caverns, Well of Dragons, Candlekeep, Myth Drannor, Elturel
+characters  : elminster, storm silverhand, amarune, arclath, alustriel, laeral, larloch
+events      : Elminster joins armies to prevent Tiamat's summoning; travels with Storm, Amarune, Arclath to strengthen Weave; learns about Shadovar plot in Candlekeep; discovers old friend Khelben's contingency plan for Second Sundering; Larloch offers alternative to preserve Candlekeep's wards
+location    : Protector's Enclave, Blacklake District, Ebon Downs, Whispering Caverns, Well of Dragons, Candlekeep
 === CONTENT ===
 A guest of honor at the Protector's Enclave , Elminster bade adventurers who sought him out to escort merchants through the hostile territory of Blacklake District , Ebon Downs , and Whispering Caverns ; had them meet with and bring a coded message left by an undercover spy with the Blacklake gangs; had them capture a coded message from the Dead Rats for the Harpers to decrypt; and directed them to covertly transcribe certain notes from Principles of Thaumaturgic Transmogrification at Bradda's Sage Shop , among others. When the restored Cult of the Dragon emerged as a threat to the Sword Coast in the 1480s DR, Elminster joined the armies of the Five Factions at the Well of Dragons , and helped prevent Severin Silrajin from summoning Tiamat to the Realms.
 

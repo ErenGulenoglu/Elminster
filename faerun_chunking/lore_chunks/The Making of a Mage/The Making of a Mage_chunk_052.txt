@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 52
 characters  : elminster
-events      : Elminster prepares to leave after a meal, promises to hide his magical pendant.
-location    : Shadowdale
+events      : Elminster leaves the inn; Broarn warns Elminster about his pendant.
+location    : stables
 === CONTENT ===
 Warriors have to stand tall and wave blades . . . and be seen and slain by any mageling that points a wand their way, and outlaws must needs come out to seize food all too often. You've probably seen enough of the wilderlands of your realm to satisfy your curiosity. 'Tis time to learn the ways of the city, of thieving. It prepares one for ruling, some say." He lifted a corner of his mouth at his own jest. "Besides, a warrior's way is no more nor less safe than being a thief; any man can be overcome if caught alone-as you learned tonight-and if you wait long enough ..." El grinned like a wolf over dinner, rose, and took hold of the magelord's legs. "Have ye a shovel?" Broarn returned the look.
 

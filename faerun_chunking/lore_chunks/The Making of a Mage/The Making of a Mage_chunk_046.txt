@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 46
 characters  : elminster
-events      : Elminster faints after planning hiding spot and future strategies
+events      : Elminster's mentor Helm plans his next hiding place and provides guidance on learning magic before considering revenge.
 location    : Heldon, High Forest, Hastarl
 === CONTENT ===
 I need these books an' other mage-stuff hidden, an' I was thinking of that cavern in the meadow above Heldon. There's loose stones enough to wall 'em in, there-ye know where ... an' ye can hunt deer and the like until summer, when I'll come looking for ye again. If armsmen sniff about, go into the High Forest an' hide there; they never dare go very far in." He scratched his chin. "Ye'll never carry the brawn to be a horse-warrior,

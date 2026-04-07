@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 203
-characters  : darrigo trumpettower, mystra, elmara
-events      : Darrigo challenges intruders; Elmara uses healing prayer to save unconscious sorceress
-location    : haunted vale, ruined heldon
+characters  : darrigo trumpettower, elmara, mystra
+events      : Darrigo Trumpettower's death challenge; Elmara uses bloodstanch litany to transport them to Heldon cave; Elmara attempts to heal unknown sorceress.
+location    : haunted vale, heldon
 === CONTENT ===
 Darrigo Trumpettower stood fierce-eyed over the dead armsman and growled, "At least I can be proud of something before I die. Come on then, Wolves! Come and cut down an old man, and tell yerselves what mighty heroes ye are!" *   *   *   *   * This was the time to use a prayer she'd always wanted to try but had never found the right occasion for. Mystra's dictates were quite strict: her priestesses could never call on her for their own benefit, and Braer had warned her how few riches he'd made ready for her to call on. Yet she felt that now was the right time. The bloodstanch litany was not one Elmara used often, so she had to take time to pray to the goddess for it.
 

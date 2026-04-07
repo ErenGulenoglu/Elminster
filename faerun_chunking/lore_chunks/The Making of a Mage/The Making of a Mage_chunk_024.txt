@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 24
 characters  : elminster
-events      : Outlaws ambush armsmen patrol
-location    : none
+events      : Outlaws ambush patrol, first encounter between Elminster and the patrol
+location    : cleft
 === CONTENT ===
 The six outlaws, bundled up in layers upon layers of stolen and corpse-stripped cloth until they looked like the fat and shuffling rag golems of fireside fear-tales, kicked their way out of the warmth of their snowbank, fumbled to draw blades with hands clad in thick- bound rags, and waddled down into the cleft. Wind struck hard as they came down into the narrow space between the rocks, howling billowing snow around and past them. Engarl struggled to keep his feet as the wind tugged at the long lance he bore. He'd taken it from an armsman who'd needed it no more-Engarl had brought him down with a carefully slung stone before the leaves had started to fall. The outlaws chose their spots, flopped down to kneel in the snows, and dug in.
 

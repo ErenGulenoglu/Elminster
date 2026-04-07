@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 89
-characters  : shandathe llaerin, elminster, farl
-events      : Shandathe Llaerin visited Hannibur; Elminster and Farl eavesdropped and later went to baths hearing about recent mage royal's death
+characters  : shandathe llaerin, hannibur, elminster, farl
+events      : Shandathe and Hannibur reunite secretly; Elminster and Farl overhear and learn of a significant magical event.
 location    : Hastarl
 === CONTENT ===
 bent to look down into the alley- in time to see Shandathe Llaerin, called "the Shadow" for her smoothly silent ways, and perhaps the most beautiful woman in all Hastarl, come lightly up the alley to Hannibur's back door. They heard her say softly, "I'm here at last, love." "At last," the baker rumbled as he drew the door warily open. "I thought ye'd never come. Come to the bed ye belong in, now." Elminster and Farl exchanged delighted glances, and clasped hands with fierce joy in the night. Then, all thoughts of sleep gone, they settled down to listen to what befell in the room below. And were fast asleep within seven breaths. ***** The hot sun woke the two exhausted, filthy thieves sometime late in the morning . . .

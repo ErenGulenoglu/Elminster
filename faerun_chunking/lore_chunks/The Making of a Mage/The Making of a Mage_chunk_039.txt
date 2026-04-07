@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 39
 characters  : elminster
-events      : Elminster encounters a magical image of Prince Elminster which disappears after revealing approaching armsmen.
+events      : Elminster encounters a magelord's spell-image, reveals his identity, angers him, causes armsmen to pursue
 location    : none
 === CONTENT ===
 Only half the man's mouth smiled. "This is but a spell-image, fool," he said coldly. "You come riding hard, following the trail to our camp-who are you and why come you here?" Elminster frowned, feigning ignorance as his thoughts raced. "Have I reached Athalantar yet?" He eyed the mage and added, "I seek a magelord, to pass on a message. Are ye such a one?" "Unfortunately for you, I am," the man replied, "Prince Elminster. Oh, yes, I heard your proud little speech. You are Elthryn's son, then, the one we've been seeking." Elminster sat very still, thinking. Could a wizard send a spell through his image? A cold inner voice answered: Why not? Best keep moving, in case ... He urged the horse with his knees until it trotted ahead, then turned it, circling.

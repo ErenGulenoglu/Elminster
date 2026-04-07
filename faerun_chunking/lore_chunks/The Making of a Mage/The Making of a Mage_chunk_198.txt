@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 198
 characters  : elminster
-events      : Elmara uses blood magic to rust weapons; is attacked by an armsman
+events      : Elmara uses blood magic to disable metal weapons around her camp, prays to Mystra for healing, is ambushed by an armsman whom she knocks unconscious with his own dagger
 location    : none
 === CONTENT ===
 Taking up the least favored of her several daggers, she pricked the palms of both her hands so they bled and held the dagger out horizontally before her, pinioned between her bloody palms. As she murmured the incantation, she could feel blood running down to drip off her elbows and strength ebbing out of her as it was stolen by the spell. Trembling with weakness, Elmara held the dagger up higher so it gleamed in the moonlight and watched it darken and begin to crumble. When it dissolved into rusty shards, she brushed off her hands and sank down, satisfied. Before dawn, every piece of metal between her and the forest would be useless, powdery rust. That would give the magelords something to think about. If they decided elven magic was the cause, the attack on the High Forest might never come.

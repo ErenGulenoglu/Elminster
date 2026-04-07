@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 188
-characters  : elminster, galath
-events      : Elmara injured, struggles to maintain consciousness while being moved
+characters  : elminster
+events      : Elminster's life-threatening injury; transformation into divine being
 location    : none
 === CONTENT ===
 Briost rolled his eyes up to look at the ceiling and asked it silently if Galath knew how to open a spellbook, or if, presented with one, he'd peel it like a potato? The stone vault overhead did not answer ... but then, it had hung above this high chamber in Athalgard for almost a century, and had learned to be a patient ceiling. ***** The pain burned and roiled and threatened to sweep her away. In the darkening void, El clung grimly to the white light of her will. She must hold on, somehow.... Pain surged as the enchanted blade shifted and then slid smoothly-oh, so smoothly, in her own blood!-out of her, leaving her feeling empty and .. . open. Violated. Faerun should not see her innards like this, hot blood rushing out of her into the sun . . .

@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 4
-characters  : elminster
-events      : Battle spell causes commotion, knight joins fight
-location    : Athalantar, Heldon, Athalgard
+characters  : elminster, morlin
+events      : Battle commotion in castle; Morlin potentially under threat
+location    : Athalar, Athalantar
 === CONTENT ===
 light from a battle spell, and the battle was joined. There was a terrific commotion within, scattering plates and overturned tables, shrieks of serving maids and roars of flame. Next moment, these sounds were joined by the shouts of the knights in the courtyard below. That had been no herald, and from the sound and smell of it, others within the castle were not what they seemed, either. The knight gritted his teeth and clenched his sword, starting for the keep. If Morlin fell to these wicked spell-slingers, would the Stag King fall next? And if all Athalantar fell, there would be years upon years of sorcerous tyranny. Aye, there would be ruin and misery ahead.... And who could ever rise to oppose these mage-lords?
 

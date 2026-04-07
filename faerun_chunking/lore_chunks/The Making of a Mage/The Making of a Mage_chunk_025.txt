@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 25
 characters  : elminster
-events      : Elminster fights and kills an armsman
+events      : Elminster slays an armsman, expects no betrayal from companions
 location    : Horn Hills
 === CONTENT ===
 El ran through the slithery snow as fast as he could, the way the outlaws had shown him, rocking comically from side to side to keep from slipping in the light drifts. All of the outlaws looked like drunken bears when they ran in deep snow. As slow as he was, the horse was even slower; its hooves were slipping in the potholes that marked the trail here, and it danced and stamped for footing, nearly tossing its rider. The armsman saw Elminster and leaned forward to hack the outlaw. Elminster ducked back, let the blade sing past, and charged in at the man's leg, clawing with one hand as he blocked a return of the man's blade with the edge of his own.

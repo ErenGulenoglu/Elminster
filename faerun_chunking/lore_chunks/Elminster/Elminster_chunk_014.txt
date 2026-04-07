@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 14
-characters  : elminster, mystra
-events      : Elminster retires to Shadowdale, aids Shandril and Midnight, loses access to Weave during Time of Troubles
-location    : Shadowdale Town, Moonshae Isles
+characters  : elminster, mystra, sharantyr, belkram, itharr
+events      : Elminster agrees to pay off Sabarast's debts, teaches Shandril spellfire powers; Mystra anticipates Time of Troubles, bestows pendant on Midnight; Elminster loses access to Weave after Mystra's fall.
+location    : shadowdale, cormyr, high dale
 === CONTENT ===
 Eventually Elminster made his home in an old tower in Shadowdale Town , near Anastra's old cottage and Storm's farm. Elminster did take some time for himself during these years. He managed to make a visit to the Moonshae Isles in the Year of the Highmantle, 1336 DR , and took extensive notes about all he encountered. El unofficially 'retired' to Shadowdale about 15 years later, in the Year of the Morningstar, 1350 DR , serving as the de facto leader of Shadowdale, alongside Lord Mourngrym Amcathra . His retirement however was something of a ruse to provoke certain enemies. Despite his efforts to remain hidden, Elminster continued to help new adventuring groups and aid his friends and allies. He played a key part in establishing the Rangers Three.
 

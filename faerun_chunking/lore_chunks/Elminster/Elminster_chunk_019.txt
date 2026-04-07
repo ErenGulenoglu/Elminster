@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 19
-characters  : elminster, halaster blackcloak, simbul, khelben arunsun, laeral
-events      : Elminster tortured by Nergal, Mystra searches Hell; Night Masks exposed, Faer'tel'miir restored; Ebon Diadem stolen; Mystra slain causing Spellplague
-location    : hell, undermountain, westgate, reddansyr, highstar lake, faer'tel’miir, rhymanthiin
+characters  : elminster, mystra, halaster blackcloak, the simbul, khelben, laeral, manshoon, the night king
+events      : Elminster tortured and rescued by Mystra; Halaster Blackcloak and Simbul search for Elminster; Elminster helps adventurers defeat Night King; Khelben dies restoring Faer'tel'miir; Sharrans attack Elminster's tower, destroying it; Mystra slain, Spellplague causes magical chaos
+location    : hell, undermountain, westgate, reddansyr, highstar lake, faer'tel’miir
 === CONTENT ===
 Elminster was subject to brutal tortures, surviving only because of his exceptional endurance and ability to heal himself with silver fire . While the arch-fiend plundered Elminster's thoughts and memories, Mystra became aware of her favorite servant's plight and entered Hell herself to find him. Realizing that her presence in Hell was overly conspicuous, Mystra retreated and dispatched more subtle agents to find him, first Halaster Blackcloak the Mad Mage of Undermountain (who was defeated), and then the Simbul . After much searching, the Simbul found him, and together they defeated Nergal and returned home. In the Year of Rogue Dragons, 1373 DR , three years after the Manshoon Wars began, Elminster later secretly helped a small group of adventurers near Westgate at the village of Reddansyr .
 

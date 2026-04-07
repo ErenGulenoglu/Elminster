@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 143
-characters  : ilhundyl, garadic, elmara
-events      : Young woman infiltrates castle, Ilhundyl captures her but she escapes using magic
-location    : castle of sorcery
+characters  : ilhundyl, elminster
+events      : First meeting between Ilhundyl and Elmara; Elmara seeks magic knowledge from Ilhundyl
+location    : none
 === CONTENT ===
 narrowly up at it, and then walked without hesitation toward the hidden door, avoiding the golems and the statues whose welcoming hands could spit lightnings at those who stepped between them. The Mad Mage valued his privacy, and his life . . . and not many days passed without someone trying to deprive him of either. Thus his Castle of Sorcery was ringed by traps mechanical as well as magical. Now one of his long-fingered hands tapped idly on the table. He seized a slim brass hammer, lifted it, and rapped on a certain bell. At his signal, unseen men sweated belowground, and the paving-stones suddenly opened up under the young woman, who obligingly plunged from view. Ilhundyl smiled tightly and turned to the tall, handsome servant who stood patiently awaiting his orders. Garadic obligingly glided forward.
 

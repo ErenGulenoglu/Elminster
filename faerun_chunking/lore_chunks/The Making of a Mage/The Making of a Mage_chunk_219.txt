@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 219
-characters  : ilhundyl, mad mage
-events      : Ilhundyl battles Mad Mage; Ilhundyl uses acid sphere spell; Mad Mage destroys wind sculptures
-location    : Calimshan
+characters  : ilhundyl
+events      : Ilhundyl dies twice due to magical illusions used by the Mad Mage
+location    : none
 === CONTENT ===
 Another suit of armor was already coming through the door from the next chamber. Ilhundyl sighed at this childishness and hurled his second-and last- acid sphere spell. There was a flash this time as the purple flames struck something in the air and rebounded on the master of the Calishar. Ilhundyl had time for a single pace back before the acid drenched him. Smoke hissed, and Ilhundyl fell without a sound, dwindling into vapor rather than blood and bone. Out of the air on the far side of the gallery, the Mad Mage faded back into view, and said scornfully, "Fool! Think yourself the only wizard in all Faerun to use images and spells of deceit?" He waved an imperious hand, and stone spikes suddenly erupted from the air to his right. He pointed, and obediently they flew toward the armored figure.
 

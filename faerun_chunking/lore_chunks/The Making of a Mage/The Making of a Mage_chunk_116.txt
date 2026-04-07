@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 116
 characters  : elminster
-events      : Elminster discusses evil of magical items with a mysterious lady
+events      : First meeting between Elminster and an unnamed sorceress; they discuss responsibility in magic use.
 location    : none
 === CONTENT ===
 "Oh? Who is to stop tyrants-and magelords-then?" Elminster frowned angrily. "Ye seek to trick me with clever words, Lady!" "Nay," came the soft reply. "I seek to make you think before you offer your own clever words and quick, sure judgments. I ask again: is a sword evil?" "Nay," Elminster said, "for a sword cannot think." The lady nodded. "Is a plow evil?" "Nay," Elminster replied, raising an eyebrow. "What mean ye?" "If a blade is not evil, but may be used for evil, is not this scepter the same?" Elminster frowned and shook his head slightly, but did not reply. Those eyes of light held his steadily. "What if I offered this scepter to a wizard, an innocent apprentice in some other land, not a magelord? What would you say to that?" Elminster felt anger rising in him. Was everyone who worked sorcery given to fencing with clever words?

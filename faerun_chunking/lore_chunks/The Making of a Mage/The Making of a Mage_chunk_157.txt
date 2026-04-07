@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 157
-characters  : elminster
-events      : Beholder attacked, Elmara cast spells, dragon fought back
+characters  : elmara
+events      : Elmara uses spells against beholder, dragon attacks beholder
 location    : none
 === CONTENT ===
 careful, climbing arc, so that it might fall into the great central eye of the beholder. It spun through the air but he never saw if it struck home; he had turned to scramble about the balcony, shaking and slapping his dazed and groaning companions and hoping somehow they'd escape with their lives. Elmara's next spell brought whirling blades into being from nothingness. They flashed and spun about the waving eyestalks of the beholder like so many fireflies. El saw more than one eye spurt gore or milky liquid and go dark before the madly spinning eye tyrant blasted the shards into drifting smoke with a ray that leapt on to stab at a certain young mage. Leapt-and rebounded, slicing silently back into the roiling tangle of dragon wings and scaled shoulders and claws, and the darting, spinning, snarling eye tyrant.

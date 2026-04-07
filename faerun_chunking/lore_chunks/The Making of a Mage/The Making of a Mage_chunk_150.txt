@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 150
-characters  : ithym, gralkyn, tarthe, blades, elminster
-events      : Thieves explore room, encounter magical barrier
-location    : Gralkyn
+characters  : ithym, gralkyn, tarthe, elmara
+events      : Gralkyn loses his cloak of lights upon passing through a doorway, attempt to destroy lights by Ithym fails
+location    : Shadowdale
 === CONTENT ===
 not move from around Gralkyn, and nothing else seemed to happen. Sighing out a tensely held breath of his own, Ithym glided over to his fellow thief and stretched out a hand toward the lights, but then drew it back. Gralkyn nodded at the wisdom of this. Ithym went on into the far, dim regions of the room and moved about in soft silence for a time before returning far enough for them to see him trace a square in the air: there was a door beyond. Tarthe took out his cloak, raked all Gralkyn's discarded metal in it, bundled it onto his shoulder, and strode into the room next, sword drawn. Instantly some of the lights drifted away from the thief in an inquisitive stream, heading for the tall warrior in full armor.
 

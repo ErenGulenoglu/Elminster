@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 232
 characters  : taraj hurlymm
-events      : Taraj casts shape-change spell, transforms into panther for hunt
-location    : murghom, hastarl, dalniir
+events      : Taraj transforms into a panther, begins hunt
+location    : Murghom, Dalniir
 === CONTENT ===
 Taraj set down the empty goblet, threw off his robe, and strode naked into his spell-chamber to study the shape-change spell. It would give the man more time to run. *   *   *   *   * The spell coiled and burned comfortably in his mind. Taraj felt the same quickening excitement he always did when a hunt was about to begin. He bowed to his reflection in the wall-glass. "Taraj Hurlymm from far Murghom, magelord and cruel man," he introduced himself to an imaginary feasting-company, smirking. His image smirked back, looking just as satisfied as he was. Taraj winked and moved his arms so the corded muscles of his shoulders rippled. He admired them for a moment, then slid on a robe and rapped with his knuckles on a wall-gong.
 

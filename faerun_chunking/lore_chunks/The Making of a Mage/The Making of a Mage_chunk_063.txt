@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 63
-characters  : farl, elminster
-events      : Duel threatened
+characters  : farl, elminster, jansibal, shandathe, thelorn
+events      : First meeting between Elminster and Thelorn; Jansibal threatens violence but is thwarted by Thelorn's intervention.
 location    : none
 === CONTENT ===
 The bodyguard reached a menacing hand toward him, and Farl snapped his own fingers like the man's master had done, and as if by a spell a dagger gleamed in them. He waved it warningly at the bodyguard's eyes, and the man hesitated. "Jansibal is my name," came arrogant tones that obviously expected the name to awe everyone within hearing. "Jansibal Otharr." Farl shrugged. "Heard of any testers of cheap scent by that name, El?" he asked. Elminster waved a dagger of his own under the nose of the bodyguard who'd shoved him, and slipped out from under the man's gauntleted hands. "No," he said calmly, "but one rat looks quite the same as another." That did bring little gasps and indrawn hisses of breath from around, and a little silence fell.

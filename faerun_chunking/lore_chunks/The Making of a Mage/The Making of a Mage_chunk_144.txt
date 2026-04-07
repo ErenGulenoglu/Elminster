@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 144
-characters  : elminster, elmara
-events      : Magical artifact retrieval quest given to Elmara by Ilhundyl
-location    : Calimshan
+characters  : elmara
+events      : Elminster tasks Elmara with retrieving Ondil's Book of Spells and delivering it to Mystra's altar on Mystra's Dance. Ilhundyl orders Garadic to ensure Elmara's death afterwards.
+location    : Calimshar, Mystra's Dance
 === CONTENT ===
 The ruler of the Calishar leaned forward, voice thinning in urgent precision. "When you can battle a lich spell for spell and prevail, seek out Ondil's Book of Spells and take it to the altar of Mystra on the island called Mystra's Dance. Surrender it to the goddess there." His voice changed again, thundering once more. "Once you know you hold Ondil's tome in your hands, look no longer on its pages, nor seek to learn the spells therein, for that is the sacrifice Mystra demands! Go, now, and do this." The light above the Mad Mage's high seat faded, leaving Elmara facing darkness. "My thanks," she said, and turned away. As she walked back down the great chamber, the globe of light moved with her. The light faded beyond the great bronze doors, which ground shut with their usual boom.
 

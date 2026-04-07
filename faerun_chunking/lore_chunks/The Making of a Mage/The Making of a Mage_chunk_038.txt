@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 38
-characters  : elminster, mystra
-events      : Elminster encounters a mysterious figure while observing his enemies' gathering.
-location    : Sword Coast
+characters  : elminster
+events      : Elminster prepares to attack an enemy camp alone; encounters a mysterious flying man
+location    : Lawless Castle, The Sword Coast
 === CONTENT ===
 Three ALL TOO MUCH DEATH IN THE SNOWS If in winter ye walk When snow is deep Beware when ye talk- For afar echoes creep. Old Sword Coast Snow-Rune Tyche, at least, had heard his prayers. As Elminster rode down a dusky valley along the clear trail the armsmen had left, he caught sight of them gathered below, building fires-and the trails in the snow made it clear they'd met with and joined another patrol instead of going down to the keep ... which was still a good ride away. Night would find them very soon, deep in the hills, and they'd halted to make camp. "Thankee, Tyche," El told the wind wryly, as he pulled his weary mount to a halt. All his foes were gathered together and would soon halt within his reach. As with all the gifts of Lady Luck, this one was double-edged.
 

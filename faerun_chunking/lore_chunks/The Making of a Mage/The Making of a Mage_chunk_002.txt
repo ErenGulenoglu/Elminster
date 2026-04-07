@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 2
 characters  : myrjala 'darkeyes'
-events      : Myrjala changes her cloak's color and sigil at nightfall
-location    : halangorn forest
+events      : Transformation
+location    : Halangorn Forest
 === CONTENT ===
 Prologue It was the hour of the Casting of the Cloak, when the goddess Shar hurled her vast garment of purple darkness and glittering stars across the sky. The day had been cool, and the night promised to be clear and cold. The last rosy embers of day glimmered on the long hair of a lone rider from the west, and lengthening shadows crept ahead of her. The woman looked around at the gathering night as she rode. Her liquid black eyes were large and framed by arched brows- stern power and keen wits at odds with demure beauty. Whether for the power or the beauty there, most men did not look past the honey-brown tresses curling around her pert white face, and even queens lusted after her beauty-one at least did, of a cer- tainty. Yet as she rode along, her large eyes held no pride, only sadness.
 

@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 155
-characters  : elminster
-events      : Elmara uses her magical abilities for battle
+characters  : elminster, ithym, tarthe, tharp, gralkyn, elmara
+events      : Elmara demonstrates her powerful spells before leading the Blades into battle against awakened beings.
 location    : none
 === CONTENT ===
 them, rubbing her hands thoughtfully. "I'm about ready," she said, casting a keen look at the waiting globes. Her hands trembled slightly. "We gathered that," Ithym said. Tarthe nodded, smiling thinly. "Mind telling us just what spells you've worked ... before all the bloodletting begins?" "I've not much time to chatter; the magics don't last over-long," Elmara replied, "but know ye all: I can fly, flames will harm me not-even dragonfire, though I doubt the mage who wrote the spell had ever faced it when he made his claim-and spells hurled my way will come back upon the sender." "You can do all that?" Tharp's voice was thoughtful. "Not every day," Elmara replied. "The spells are woven into a dwaeodem." "How nice," Gralkyn said with light, lilting sarcasm. "That explains everything ...

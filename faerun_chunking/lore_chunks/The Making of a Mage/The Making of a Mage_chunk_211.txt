@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 211
-characters  : elminster, myrjala
-events      : Elmara practices magic with Myrjala in a tomb
-location    : a tomb
+characters  : mystra, elminster
+events      : Training session, Elminster teaches Elmara about mastery of magic and not using spells recklessly.
+location    : none
 === CONTENT ===
 "When you revert to prayer, calling on Mystra to empower you, I see that attunement in every magic, but that's a feel for the goddess and the flow of raw spell-energy, not a mastery of the structure and direction of the unfolding magic." "And how shall I acquire this mastery over all spells I use?" "As always, there's only one way," Myrjala said, shrugging. "Practice." "As in, 'practice until ye're sick of it,'" El said with a wry smile. "Now you understand aright," Myrjala replied. Her answering smile was eager. "Let's see how well you can shape a chain lightning to strike and
 

@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 194
-characters  : elminster, srinshee
-events      : Elmara offers to pay with spells but is initially rejected due to mistrust towards mages, She shares her experiences and dreams while staying at the inn, Phaernos questions Elmara about her abilities after the inn closes
-location    : Shadowdale
+characters  : elmara, phaernos
+events      : Elmara seeks shelter at inn, meets Phaernos; Elmara offers to pay with spells, Phaernos is distrustful; Elmara shares her name and offers to expand storage cellar using magic
+location    : The Old Shields Inn
 === CONTENT ===
 at the old shields nailed to it and seemed almost amused. "Why d'you ask?" he asked her as they came into the low-beamed taproom. A few farmers and village folk were sitting by the fire, cradling tankards of ale and mugs of broth. They looked up with mild interest. "I can pay ye with spells," the wet girl said calmly. Phaernos drew away from her in the sudden silence and said shortly, "We haven't much use for mages hereabouts. Most wizards in this land don't use their magic to help anyone but themselves." "Then their magic should be stripped from them," she replied. "And just how d'ye think anyone could do that, lass?" one of the drunker farmers demanded from his seat by the fire. "Take their lives swift enough, and they've seldom any will left to work spells, I've found," the woman said calmly.
 

@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 36
 characters  : elminster
-events      : Elminster retrieves crossbows and engages armsman in combat
+events      : Elminster sneaks past enemy to retrieve crossbows; kills an armsman
 location    : ravine
 === CONTENT ===
 High on the shoulder of the ridge, overlooking the ravine, was one armsman. They'd left one behind to pin the outlaws in their lair-or track them if they burst out in numbers. Of course-that was why so many of the outlaws wore crossbow quarrels! Elminster sighed. Some crafty woods-warrior he was. Well, this armsman's horse would be somewhere just below him, around the other side of the ridge. If he could get to it and ride out of bowshot, in time ... Aye, and frogs might fly, too ... Elminster frowned and tried to recall where the crossbows had fallen. That last armsman, who'd almost slain him . . . yes! He'd had three bows, and dropped them all after firing-in that thicket, there! El sighed once, and then started to crawl on his belly in the snow.

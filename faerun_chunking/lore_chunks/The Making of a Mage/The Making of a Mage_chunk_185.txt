@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 185
 characters  : elmara
-events      : Elmara uses wand to disable attackers, questions Prince Gartos
+events      : Elmara encounters Prince Gartos, defeats him with magic, questions him about his presence
 location    : none
 === CONTENT ===
 Elmara leapt away from the horse even before the wizard toppled from the saddle; Gartos was very quick. He'd realized where El's magic had taken her, wheeled, and his blade was already cutting the air above the magelord's high-cantled saddle. Elmara landed hard, jumped to one side to still the speed of her leap, and peered at the wand she'd snatched. Ah, there! Hooves were thudding toward her as Elmara looked up, pointed the wand, and carefully spoke the word that was scratched on its butt-end. Light pulsed and hissed away from the wand in a pair of bolts that swerved in the air to strike Prince Gartos full in the face. He threw back his head, snarled in pain, and slashed blindly with his blade as his horse galloped forward. Elmara leapt and rolled, and came up well to one side.

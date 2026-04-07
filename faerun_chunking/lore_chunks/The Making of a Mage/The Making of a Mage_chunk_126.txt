@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 126
 characters  : elmara, braer
-events      : Elmara discusses love of magic with Braer; Elmara practices magic under Braer's guidance
-location    : High Forest
+events      : First meeting and mentorship between Elmara and Braer.
+location    : high forest
 === CONTENT ===
 It's to make you love magic, for itself, not for what you can do with it." "Why," Elmara asked in the elven manner, reflected fire dancing in her eyes as her gaze met his, "should a man or a maid love magic?" Her teacher remained silent, as he did all too often for her liking. They looked into each other's eyes until finally she added, "I would think that leads to bent men who wall themselves up in little rooms and become crabbed and crazed, chasing some elusive spell or detail of magecraft, and wasting their lives away." "In some, it does," Braer agreed. "But love of magic is more necessary for those who worship Mystra-priests of the goddess, if you will, though most see no difference between such folk and mages-than it is for wizards. One must love magic to properly revere magic." Elmara frowned a little.
 

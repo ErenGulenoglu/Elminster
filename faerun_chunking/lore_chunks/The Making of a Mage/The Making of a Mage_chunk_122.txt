@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 122
-characters  : elminster, mystra
-events      : Elmara tries to light a fire using her mind and the Lion Sword, with Mystra's divine assistance.
+characters  : elminster
+events      : First attempt at magic, successful with divine assistance
 location    : none
 === CONTENT ===
 A flame to pray to Mystra. She'd do this every night, she vowed, beginning now. She bent and gathered a dry tangle of twigs from under a large leaf and spread them on a nearby rock. Then she stopped in confusion. How could she make them burn? With a flint, aye, but she had no flint, nor steel. A moment later, she smote her forehead and made a disgusted sound. Of course she did: the Lion Sword! She raised it, shaking her head at her slow wits, and rang it off the rock. A spark jumped. Yes! This was the way. She set about belaboring the edge of the rock with the stoutest part of the blade, the unsharpened length just below the hilt, and pushed kindling in around where she struck, to catch any spark. The ringing sounds she made echoed a long way under the trees ...

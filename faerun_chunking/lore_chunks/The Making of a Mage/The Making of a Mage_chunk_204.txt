@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 204
-characters  : elmara
-events      : Elmara seeks healing for an unknown woman
-location    : heldon
+characters  : elminster
+events      : Elmara seeks healing for an unnamed woman, encounters guarded ruins of Heldon
+location    : Heldon
 === CONTENT ===
 perhaps not. Elmara didn't even know her name. The woman's body moved restlessly again, wet with a sheen of sweat that returned however often El wiped it away. Elmara stared at the woman she'd rescued, and wiped moisture from her own forehead. She must do more, or she'd be sharing her cave with a corpse in the morning. With sudden resolve, she took the woman's purse-which held a good handful of coins-and crawled out of the cave, casting a ward against wolves across its mouth. There had been a shrine to Chauntea, Mother of Farms and Fields, south of Heldon. Perhaps for wealth enough the priest who tended its plantings could be persuaded to come hence and heal. It was too much to hope he'd keep his mouth closed about the cave and the two women; whatever befell, she'd have to find a new lair.
 

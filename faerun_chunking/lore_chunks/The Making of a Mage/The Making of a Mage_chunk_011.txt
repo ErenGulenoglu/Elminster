@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 11
 characters  : elthryn aumar, elminster
-events      : Elthryn confronts dragon rider, Elminster arrives at Heldon
+events      : Elthryn prepares to die defending Heldon. He stops a wizard's spells but not dragon fire; Elminster arrives too late.
 location    : heldon
 === CONTENT ===
 coming!" And he stumbled on, recklessly leaping deadfalls and crashing through thickets, gasping for breath, knowing he'd be too late.... ***** Grimly, Elthryn Aumar set his feet firmly on the road, raised his sword, and prepared to die as a prince should. The dragon swept past, ignoring the lone man with the sword as its rider pointed two wands and calmly struck down the fleeing folk of Heldon with hurled lightning and bolts of magical death. As he swept over the prince, the wizard carelessly aimed one wand at the lone swordsman below. There was a flash of white light, and then the whole world seemed to be dancing and crawling. Lightning crackled and coiled around Elthryn, but he felt no pain; the blade in his hands drew the magic into itself in angrily crawling arcs of white fire until it was all gone.

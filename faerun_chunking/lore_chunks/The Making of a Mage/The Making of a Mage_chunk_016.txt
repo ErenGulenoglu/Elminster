@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 16
 characters  : elminster, helm
-events      : Elminster learns about his lineage from Helm
+events      : First meeting between Elminster and Helm Stoneblade, knight of the Stag Throne; Helm reveals information about Elminster's lineage.
 location    : none
 === CONTENT ===
 Elminster eyed it. He was very thirsty, he realized suddenly. He took a step nearer. "If ye give me some answers," he said, "and promise not to slay me." Helm regarded him almost with respect and said, "Ye have my word on it- the word of Helm Stoneblade, knight of the Stag Throne." He cleared his throat and said, "An' answers I'll give, too, if ye'll favor me with just one more." He leaned forward. "What is thy name?" "Elminster Aumar, son of Elthryn." "Only son?" "Enough," Elminster said, taking the flask. "Ye've had your one answer; give me mine." The man grinned again. "Please, Lord Prince? Just one answer more?" Elminster stared at him. "D'ye mock me? 'Lord Prince'?" Helm shook his head. "No, lad-Prince Elminster. I pray ye, I must know. Have ye brothers? Sisters?" Elminster shook his head.

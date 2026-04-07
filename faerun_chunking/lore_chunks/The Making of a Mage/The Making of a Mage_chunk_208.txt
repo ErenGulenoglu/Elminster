@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 208
-characters  : elminster, myrjala
-events      : Elmara saves Myrjala, offers to train her
-location    : Athalantar, Haunted Vale, Heldon
+characters  : elmara, myrjala
+events      : First meeting between Elmara and Myrjala; Elmara saves Myrjala, offers to train her in sorcery
+location    : Athalantar, Heldon
 === CONTENT ===
 Elmara went on stirring the soup with a long bone-all that was left of a deer her spells had brought down days ago-and said, "Elmara of Athalantar. I... worship Mystra." Those large eyes held her own as if clinging to a last crumbling handhold, and El added, "And I will be a foe of the magelords of this realm until they are all dead, or I am." The woman let out a long, shuddering breath, and leaned back against the wall of the cave. "Where-what place is this?" "A cave in the north of Athalantar," El told her. "I brought ye here more than a tenday ago, after I rescued ye from armsmen in the Haunted Vale. How came ye to be there, in a ring of quarrels?" The woman shrugged. "I... was newly arrived in Athalantar, and met with a patrol of armsmen.
 

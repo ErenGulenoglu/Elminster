@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 158
 characters  : elmara
-events      : Dragon killed by beholder, Elmara fights beholder
+events      : Elmara battles and temporarily defeats an Eye Tyrant, then tries to attack it again but is repelled.
 location    : none
 === CONTENT ===
 from their feet. The eye tyrant's eye-rays stabbed mercilessly at the thrashing dragon. The beast seemed much smaller by the time it managed to flap free of the wall again, smoke rising from its body. Crushed balconies fell away in rubble as the dragon moved, its scream a raw and terrible sound of agony. Then its cries began to fade. The awestruck Blades saw bits of the dragon's straining body vanish as if it were just so much ice melting in the heart of a fire. It dwindled swiftly, lifeblood boiling away into nothing in the face of the cruel powers bent upon it. Beyond the fury of flashing magic, the Blades could see the floating figure of Elmara, arms waving in careful haste as she cast another spell.

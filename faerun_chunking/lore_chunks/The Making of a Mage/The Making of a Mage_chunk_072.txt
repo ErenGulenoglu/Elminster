@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 72
 characters  : elminster
-events      : Discussion about thieving code
+events      : Discussion about past experiences and motivations.
 location    : none
 === CONTENT ===
 "Exactly." He watched the pole barge scrape to a stop against a distant dock, and said casually, "If we're going to be facing death together many nights longer, it'd probably be a good thing if I knew this code of yours. I know you prefer shop-guarding, dockwork, and errand- and package-running to thieving, but who wouldn't?" "Crazed-wits out looking for thrills," El said dryly.

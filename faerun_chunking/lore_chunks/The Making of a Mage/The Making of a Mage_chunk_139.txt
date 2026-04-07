@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 139
-characters  : elmara
-events      : Priestess enters temple; Mystra departs; Elmara tells tale at inn, interrupted by Lord Mage Dunsteen
-location    : temple, inn in Mlembryn lands
+characters  : elminster, mystra
+events      : Mystra leaves temple; Elmara shares tales of magic at inn
+location    : Hastarl, Mlembryn lands
 === CONTENT ===
 bright green eyes. Without a backward glance, the priestess went into the temple, moving with the slow gait and bent back of age. Mystra sighed, turned away herself, and became a dazzling web of lights that whirled and spun, faster and faster-until she was gone. ***** The sack Braer had given her proved to hold over twenty silver coins at the bottom, wrapped in a scrap of hide. That was not so many that she could afford to hurl them away for a warm bed every night, at least before the deep snows came down on the world. Hedges and thickets were her bedchambers, but Elmara usually warmed herself of evenings at an inn with a hot meal and a seat as close to the hearth as she could manage.
 

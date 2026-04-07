@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 7
 characters  : elminster
-events      : Elminster compelled by a wizard's magic to run off a cliff
-location    : Athalantar
+events      : Elminster is compelled by a wizard to reveal information about Heldon village
+location    : Heldon
 === CONTENT ===
 The faint blue glow of magic- something Father had said only Elminster could see, and must never speak of-clung to the pendant, the rings, the robes, and the markings on the man's breast, as well as to what looked like the ends of smoothed wooden sticks, protruding from high slits on the outside of the man's boots. That rare glow rippled more brightly around the man's outstretched arm .. . but Elminster didn't need any other secret sign to know that this was a wizard. "What is the name of the village below?" The question was cold, quick. "Heldon." The name left Elminster's lips before he could think. He felt spittle flooding his mouth, and with it a hint of blood. "Is its lord there now?" Elminster struggled, but found himself saying, "A-Aye." The wizard's eyes narrowed. "Name him." He raised his hand, and the blue glow flared brighter.
 

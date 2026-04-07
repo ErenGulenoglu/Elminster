@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 13
-characters  : rundorl, thavverdasz, szass tam, elminster, khelben, thauntar, srinshee, simbul, alassra shentrantra, manshoon
-events      : Red Wizards vs Harpers; Elminster destroys lich, saves Harpers; Elminster rebuilds Harpers; Elminster challenges Simbul to spell-duel; Elminster bonds with Simbul; Harpers defend against Red Wizards
-location    : Toril, Elventree, Aglarond, Crommor's Fang
+characters  : rundorl, thavverdasz, szass tam, elminster, khelben, thauntar, srinshee, simbul, alassra shentrantra, dornal silverhand, mystra, manshoon, storm silverhand
+events      : Rundorl allies with Thavverdasz against Red Wizards; Elminster saves Harpers, rebuilds organization after battle at Vast Swamp. Twenty years later, Elminster challenges Simbul in Aglarond. They become friends and allies against Red Wizards., Elminster recruits adventurers with Storm Silverhand to defend Heartlands from Zhentarim
+location    : Vast Swamp, Elventree, Aglarond, Crommor's Fang, Heartlands
 === CONTENT ===
 After drawing the Harpers into a drawn-out and pointless conflict with the Red Wizards of Thay , Rundorl began to lose control of the situation and was forced to ally himself with the lich Thavverdasz , an ally of the emergent Cult of the Dragon, which itself was founded by El's former pupil Sammaster. As the Red Wizards, Harpers, and Dragon cultists entered into a terrible battle at the Vast Swamp , Thavverdasz battled the Red Wizard Szass Tam and appeared to claim victory as master of the undead. Elminster appeared out of the skull of a slain Harper and destroyed the lich and saved the remaining Harpers, just having returned to Toril with his comrades. Despite their "victories", the Harpers as an organization was left nearly in ruin.
 

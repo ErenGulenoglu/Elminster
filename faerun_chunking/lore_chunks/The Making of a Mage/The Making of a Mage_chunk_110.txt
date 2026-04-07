@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 110
 characters  : shandathe, hannibur, elminster
-events      : Elminster gifts Shandathe coins; plans to enter disused temple of Mystra
+events      : Elminster gifts Shandathe coins, plans to desecrate Mystra's temple
 location    : Hastarl
 === CONTENT ===
 smoothed her new bridal garter back into place where Hannibur had tied it on her hip, she smiled but didn't awaken. Elminster noted other gifts, too: a stout cudgel and a new apron lying on the carpet on Hannibur's side of the bed ... and the hilt of a dagger protruding, like a winking eye, from beneath Shandathe's pillow. He laid his bridal gift carefully between them. It was a tight fit between the smooth flank and the hairy one, and it took all his thiefly skills to avoid a clink and rattle as he slid the coins into a smooth sweep of gleaming gold from end to end of the bed. When he'd crammed in all the regals he dared, there were still over a dozen left.

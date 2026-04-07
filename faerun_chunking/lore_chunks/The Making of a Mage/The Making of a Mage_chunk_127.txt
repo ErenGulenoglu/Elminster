@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 127
-characters  : elminster, srinshee
-events      : Elmara asks about elves' love for magic, Braer leaves her alone in forest
+characters  : elmara, braer
+events      : Elmara asks Braer about magic, he responds abruptly causing her distress; she calls out to Mystra for help, Braer returns as a tree
 location    : endless forest
 === CONTENT ===
 To clean herself, she scrubbed with leaves and moss and washed in the little pools and rivulets that seemed to be everywhere in the endless forest. When she commented that one seemed to find water unexpectedly around every third or fourth hillock or gully, Braer had nodded and replied, "Like magic." That memory came to Elmara suddenly. She looked ahead at the elf gliding among the trees like a silent shadow, and suddenly scrambled to catch up with him. As always when she hurried, twigs cracked and leaves rustled under her feet. Braer turned and frowned at her. She matched his frown, and asked the question that had arisen in her. "Braer ... why do elves love magic?" For a fleeting moment, a grin of exultation washed across his face. Then it was gone, and his face held its usual expression of calm, open interest.

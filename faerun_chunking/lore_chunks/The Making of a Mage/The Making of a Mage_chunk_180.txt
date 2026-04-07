@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 180
-characters  : elminster
-events      : Elmara teaches lesson to robed man and armsmen
+characters  : elmara
+events      : Elmara demonstrates magical powers, scares off armsmen and freezes a robed man.
 location    : none
 === CONTENT ===
 "More beer, please," she called, leaning to look past the crowd of armsmen. There were more sounds of mirth from the watching diners. "Raztan," the robed man said coldly, "run your blade into this arrogant whore." Elmara yawned and leaned back in her chair, presenting an arched belly to Raztan, who did not fail to miss it, his steel sliding in so smoothly that he overbalanced and fell on his face in the young woman's bowl of stew. Everyone in the suddenly silent room heard the point of the blade scrape the plastered wall behind the young woman. Elmara calmly pushed her plate and bowl aside and selected a toothpick from the pewter holder before her. "Sorcery!" one of the armsmen spat, and slashed Elmara across the face. No blood spurted-and the blade swung freely through the hawk-nosed face, as if it were only empty air. The watchers gasped.

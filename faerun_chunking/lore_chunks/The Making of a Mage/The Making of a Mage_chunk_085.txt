@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 85
 characters  : elminster
-events      : Elminster escapes pursuit from Havilyn's armsmen
-location    : Havilyn's keep
+events      : Elminster narrowly escapes from Athalantar's armsmen
+location    : Havilyn's estate
 === CONTENT ===
 "Those who don't love hurling power make the best mages," the Magister replied. His eyes seemed suddenly to bore deep into Elminster's soul like seeking, darting things, and sadness was in his voice again as he added, "And those who live by stealing almost always rob themselves of their own lives, in the end." "The taking gives me no pleasure," Elminster retorted. "I do it to have enough to eat-and to strike against the magelords where and when I can." The Magister nodded. "That's why ye might listen," he said. "I'd not have wasted my breath otherwise." Elminster stared up at him thoughtfully-and then stiffened as he heard the sudden, approaching thunder of running, booted feet echoing in the passages nearby. That sound could mean only one thing: armsmen of Athalantar.
 

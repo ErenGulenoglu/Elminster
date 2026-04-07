@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 264
 characters  : jansibal otharr, darrigo trumpettower, helm stoneblade, thelorn selemban
-events      : Athalantan noble killed, Helm Stoneblade arrives with warriors, Thelorn Selemban confronted and killed by Darrigo Trumpettower
+events      : Jansibal Otharr killed by Helm Stoneblade. Thelorn Selemban killed by Darrigo Trumpettower. Darrigo and Helm reunite.
 location    : none
 === CONTENT ===
 And you think yourself noble?' Jansibal Otharr made no reply but a gasp, and a moment later Darrigo saw why. A blade was protruding from his back, dark with the nobleman's blood. The blade shook, a booted foot kicked, and Jansibal Otharr slid down to his knees on the floor and sagged back into a silent heap. "That's an Athalantan noble?" said the battered old warrior who held the bloody blade. "We should have cleaned out this place earlier!" Thelorn Selemban strode forward, past the staring Darrigo. "Just who are you?" he demanded. Helm Stoneblade eyed the noble's ruffed open-to-the-waist silk shirt, its puffed sleeves adorned with many crawling dragons. "A knight of Athalantar," he growled, "but by the looks of you, it seems I'd've done better down the years as your tailor." "A knight? What idiocy is this? There are no-" Selemban's eyes narrowed.

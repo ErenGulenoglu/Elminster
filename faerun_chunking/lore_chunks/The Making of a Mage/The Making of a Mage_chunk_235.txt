@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 235
 characters  : elminster
-events      : Elminster fights against another dragon and a mage
+events      : Elminster transforms into a dragon and fights another dragon, then faces off against a new mage. He's caught in a spell that binds his wings before crashing into a magical wall.
 location    : none
 === CONTENT ===
 The snake grew larger and darker, and wings began to sprout from it. As its shape built and stretched, it grew a human hand and mouth for an instant. The ring flashed, and the mouth cried, "Kadeln! Kadeln! Aid me! By our pact, aid me!" The dragon lumbered forward, extending claws to rend the snake that was rapidly becoming another black dragon. Another pace, and another .. . and the dragon that was Elminster reached out and slashed with one black- taloned claw to rend still-forming scales. Blood spattered, and the magelord- turned-dragon squalled in pain. Elminster extended his head to bite down hard on the other dragon's neck and end this wizard for good-but suddenly a mage stood beside the still- growing dragon, where the only crushed grass had been a moment before.

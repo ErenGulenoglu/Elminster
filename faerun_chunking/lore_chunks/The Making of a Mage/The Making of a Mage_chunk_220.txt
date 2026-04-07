@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 220
 characters  : ilhundyl
-events      : Intruder attacked by magical defenses, Ilhundyl tries to counter but flees in fear
+events      : Ilhundyl encounters intruder; attempts destruction but fails; flees, uses clones & spell to escape
 location    : Castle of Sorcery
 === CONTENT ===
 "You dare-?" He growled out a stream of words that echoed and rolled with power, and the Castle of Sorcery shook around him. Impaling spikes shot up from the floor, transfixing the armored figure from below, and then with a thunderous roar, a score of stone blocks crashed down from the high ceiling and smashed the intruder flat. As the dust of their landings rolled lazily across the floor, wall-panels opened all along the gallery. From behind the panels drifted three dead-looking, rotting beholders, eyestalks questing stiffly back and forth for a foe. A glowing cage on a chain plunged down from a ceiling trapdoor, burst open as its spell-glow faded, and six winged green serpents boiled out of it, jaws snapping angrily as they swooped around the gallery, seeking prey. Here and there on the gallery floor, stone blocks turned over with slow uneasiness to reveal glowing magical glyphs.

@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 18
-characters  : elminster, laeral_silverhand, khelben_arunsun, gervas_imesfor, angharad_oadeyns, morgwais, galaeron_nihmedu, melegaunt_tanthul, vala_thorsdotter, aris, malik_el_sami, storm_silverhand, rivalen_tanthul
-events      : Elminster fights against phaerimm, beholders, and a lich; enters Hell to close a rift and is enslaved by an archdevil
-location    : Shadowdale, Blackstaff Tower, Evereska, Dire Wood, Anauroch desert, Nine Hells
+characters  : elminster, laeral silverhand, khelben arunsun, gervas imesfor, angharad odaeyns, morgwais, galaeron nihmedu, melegaunt tanthul, vala thorsdotter, aris, malik el sami, rivalen tanthul
+events      : Elminster discussed phaerimm attack with others; Elminster confronted Melegaunt's motives; Elminster fought through Dire Wood; Elminster closed Nine Hells portal, enslaved by Nergal
+location    : Shadowale, Blackstaff Tower, Dire Wood, Shadowdale, Nine Hells
 === CONTENT ===
 The Sage of Shadowale also found time to give an interview to Ravens Bluff Trumpeter 's Nadd Parker , a freelance reporter, with whom he discussed upcoming wizardly meetings but was secretive on the details. Later in the year, on Nightal 25 , Elminster was called to Blackstaff Tower to discuss the phaerimm attack on Evereska with Laeral Silverhand, Khelben Arunsun, High Elder Gervas Imesfor , and High Priestess Angharad Odaeyns . On Nightal 28 , Elminster met with the Lady-of-the-Wood Morgwais in time for the arrival of Galaeron Nihmedu , Melegaunt Tanthul , Vala Thorsdotter , and the stone giant Aris . Elminster confronted Melegaunt on his motives but didn't press the issue too far in the presence of Morgwais. Later that night during a feast, Elminster followed the group as they tried to leave with the help of Malik el Sami .
 

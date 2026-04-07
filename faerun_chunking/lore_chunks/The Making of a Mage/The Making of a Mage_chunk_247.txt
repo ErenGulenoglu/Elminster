@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 247
-characters  : tassabra, farl, elminster
-events      : Elminster appears as an image, reveals his magical abilities and plans to destroy the magelords
-location    : athalantar
+characters  : elminster, tassabra, farl
+events      : Reunion after years, Elminster reveals his new powers and plans
+location    : none
 === CONTENT ===
 Her hand slipped under her pillow, seeking the dagger El knew must be there. "Be at ease," Elminster said, "for I mean ye no harm. 'Tis Eladar, come back to plead with ye to save Athalantar." By now Farl was awake, too. He sat up and gaped, open-mouthed, as Tassabra let out a little shriek of surprise and leaned forward to stare at him. "Eladar! It is you!" She lunged forward to embrace him, and fell through his sitting form, to land on her forearms at the end of the bed. "What?" "A sending-just an image," Farl told her, rising with blade in hand. "El, is that really you?" "Of course it's really me," El told him. "Were I a magelord, I'd not be just sitting here, would I?" Tassabra's eyes narrowed. "You're a mage, now?" She passed her hands through his form.
 

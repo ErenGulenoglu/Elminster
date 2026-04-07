@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 251
 characters  : elminster, tass, helm stoneblade, farl
-events      : Elminster watches woman leave; Tass finds Helm Stoneblade
+events      : Elminster and Tass meet Helm Stoneblade; Farl shares information with Elminster
 location    : none
 === CONTENT ===
 Elminster watched her go and then shook his head. He hoped he'd not be looking at her again sometime soon-and seeing a contorted corpse. He sighed and turned away. There was much else to do tonight. ***** Tass absently slapped aside another groping hand and snapped, "Coins first, great lord." A rueful chuckle answered her. "Three silver, sister?" "Your sister is all you'll get for three silver," Tass agreed pleasantly, moving on. This way and that she peered in the gathering shadows, seeking the face Elminster had left hanging in her mind. He wasn't a noble-looking man, this Helm Stoneblade. "Swords from Sarthryn, Lady?" a voice whined at her. She looked scathingly in that direction. "What would I want with a sword, man?"

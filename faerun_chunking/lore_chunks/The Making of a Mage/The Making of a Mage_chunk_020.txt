@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 20
 characters  : elminster, helm
-events      : Elminster learns about four princes from Helm
-location    : none
+events      : Elminster learns about the four princes of Athalantar from Helm; discussion focuses on their past actions and current whereabouts.
+location    : Athalantar
 === CONTENT ===
 highly of him-but that sword ye bear proves he did." "Four princes, thus far," Elminster said, nodding as if to nail them down in memory. "The others?" Helm counted on his own grubby fingers. "Othglas was next-a fat man full of jolly jests, who stuffed himself at feasts every night he could. He was stouter than a barrel an' could barely wheeze his way around on two feet. He liked to poison those who displeased him an' made quite a push through the ranks of those at court, downing foes an' any who so much as spoke a word aloud against him, and advancing his own supporters." Elminster stared at him, frowning. "Ye make my uncles seem like a lot of villains." Helm looked steadily back at him. "That was the common judgment up an' down the Delimbiyr, aye.
 

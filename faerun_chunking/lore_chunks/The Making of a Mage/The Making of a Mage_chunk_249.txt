@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 249
-characters  : mystra, elminster
-events      : Elminster tasks Thieves' Guild with stealing magic items from Athalantar's magelords
+characters  : elminster, farl, tass
+events      : Planning begins for rebellion in Athalantar; Elminster tasks Farl and Tass with stealing magical items.
 location    : Athalantar
 === CONTENT ===
 "We've made a success of things here, yes .. . but a success that could be swept away in an instant at a magelord's whim." She rose. Moonlight outlined her bare body, but she wore dignity like a grand gown. "More than that," she went on, "we can be satisfied about what we've done . . . but Farl, for once in my life I want to be proud! To do something that folk will always respect, whatever befalls! To do something that. . . matters. This may be our only chance." She looked out the window, stiffened as she saw the elves standing on a nearby rooftop, and then made what might have been a sob as they waved to her in salute. Solemnly, feeling her heart rising within her, she waved back,

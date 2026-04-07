@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 23
 characters  : elminster
-events      : Elminster gives boy a sword, Helm encourages him
+events      : Elminster gifts sword to Helm, Helm sends Elminster away for potential death
 location    : none
 === CONTENT ===
 The boy stopped and turned, trying not to show his excitement. A blade of his own! "What will ye use?" Elminster asked, taking the heavy, plain sword that the knight's dirty hands put into his. Buckles clinked and leather flapped, and a scabbard followed it. Helm shrugged. "I'll loot me another. I'm supposed to serve any prince of the realm with my sword, so ..." Elminster smiled suddenly and swung the sword through the air, holding it with both hands. It felt reassuringly deadly; with it in his hands, he was powerful. He thrust at an imaginary foe, and the point of the blade lifted a little. Helm gave him a fierce grin. "Aye-take it, and go!" Elminster took a few steps out into the meadow ... and then spun around and grinned back at the knight.

@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 147
 characters  : elmara
-events      : group approaches Floating Tower, Elmara uses magic to ascend the tower
-location    : Floating Tower
+events      : Elmara uses magic to ascend a tower
+location    : Ong Wood, The Floating Tower
 === CONTENT ===
 but dared not try to wield most of them-yet. The Blades might think her a sorceress, but she was a priestess of Mystra, with no better magecraft than an eager but untutored apprentice . . . and having seen their hot tempers, she did not reveal this truth. And so it went as the long hot summer passed. The Blades rode from triumph to triumph, saddlebags bulging with coins, throwing what riches they couldn't carry liberally into the laps of willing ladies wherever they went-all but their dark and serious sorceress, who kept apart, spending her nights wrestling with spells rather than wenches. Then came the day Tarthe found a merchant's account of a trip across the high hills north of Ong Wood, and of a vale where griffons flew out of a lone keep and drove his band away.
 

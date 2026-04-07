@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 239
 characters  : helm, ruvaen
-events      : Helm discovers a scrying crystal used by human wizards
+events      : Helm discovers a scrying crystal used by human wizards (magelords), implying betrayal and immediate danger to Helm's rebellion against the magelords.
 location    : high forest
 === CONTENT ===
 A few clumps of moss clung to it. Helm looked down at it and raised his brows in an unspoken question. "A scrying crystal. Used by human wizards," Ruvaen said flatly. "The magelords," Helm said grimly. "Where did ye find this?" "In a dell, not far from here," said the other elf, pointing off into the forest gloom. "One of your men hid it under moss," Ruvaen added. "When he wasn't using it." Helm Stoneblade let out his breath in a long sigh. "So they may know all our plans and be laughing at us now." The two elves did not need to answer. Ruvaen put the crystal gently into Helm's callused hand, touched his shoulder, and said, "We'll wait above, in the trees ... should you need us." Helm nodded, looking down at the crystal in his hand. Then he lifted his head to stare into the forest.

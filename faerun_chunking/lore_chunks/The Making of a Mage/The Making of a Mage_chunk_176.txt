@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 176
-characters  : elminster
-events      : Fight breaks out among magelords in inn; Elmara turns them into stones
-location    : Shadowdale
+characters  : elmara
+events      : Elmara demonstrates power by turning mage-lords into stones, requests a minstrel to sing about King Uthgrael.
+location    : none
 === CONTENT ===
 ?" There was a moment of shocked silence. Then chairs scraped back, and men reached for daggers-and the magelords fled. Or tried to. Outthrust boots tripped magelings not used to watching where they walked, and enthusiastic fists laid low apprentices not used to brawling with anything less than fireballs. One wizard's dagger slashed a merchant across the face, and the snarling man hauled out his own knife and made good use of it. The crash of the mage's body going to the floor amid overturning chairs brought the room to silence again. Only the one magelord was dead; the rest lay senseless, strewn about amid the disarranged tables and chairs. The innkeeper was the first to say what many of the diners were thinking.
 

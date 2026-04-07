@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 17
-characters  : elminster, tarth, nimra ninehands, arelin starbrow, vangerdahast, baerune cordallar, kaulgetharr drell, alusair obarskyr, tanalasta obarskyr, mystra, glithander ej-lahona, rafim cinder, arroc
-events      : Elminster refused offer, asked Tarth to destroy staff, Nimra Ninehands freed from staff, Arelin Starbrow killed in ambush, Elminster assisted Vangerdahast in finding Bolifar Geldert, Mystra stripped Elminster's memories, Elminster visited Wizards Guild of Ravens Bluff
-location    : Skull Crag, Alturiak, Ravens Bluff
+characters  : elminster, tarth, nimra ninehands, arelin starbrow, vangerdahast, bolifar geldert, baerune cordallar, kaulgetharr drell, alusair obarskyr, tanalasta obarskyr
+events      : Elminster refused an offer, Tarth attempted trickery but failed, Nimra Ninehands revealed and bound to serve Elminster; Arelin Starbrow killed in ambush, Elminster greeted adventurers and offered advice; Elminster assisted Vangerdahast in search for Bolifar Geldert, uncovered plot against Obarskyr sisters; Mystra stripped away Elminster's memories of her secrets
+location    : Amphail, Skull Crag, Alturiak, Ravens Bluff, Dalelands
 === CONTENT ===
 Elminster refused the offer but instead asked that Tarth destroy the staff of his former master, Nerndel of Amphail . Tarth attempted to trick the Old Mage with a fake staff built by Sarlin the Serpent , but was unsuccessful. After performing the ritual to destroy the staff, the item transform into Nimra Ninehands who had been trapped in the staff for over 700 years. Elminster explained that Nimra would help train Tarth as she was still bound to Nerndal's service—and now his. In the early 1360s DR, the Roadwarden of Skull Crag , Arelin Starbrow , was killed in a treacherous monster ambush. When a group of adventurers involved in defending the Skull Crag Keep arrived at the site of the battle, Elminster greeted them, his pipe pumping smoke.
 

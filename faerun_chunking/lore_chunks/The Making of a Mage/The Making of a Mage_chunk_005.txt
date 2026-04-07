@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 5
 characters  : elminster
-events      : Dragon flies over meadow
-location    : high meadow, castle
+events      : Elminster sees a dragon for the first time
+location    : the high meadow
 === CONTENT ===
 Father told him often that the castle was much too far off to be seen from here-and, from time to time, added that the fair span of distance between it and their village was a good thing. Elminster longed to know what that meant, but this was one of the many things his father would not speak of. When asked, he settled his oft-smiling lips into a stony line, and his level gray eyes would meet Elminster's own with a sharper look than usual ... but no words ever emerged. El hated secrets-at least those he didn't know. He'd learn all the secrets someday, somehow. Someday, too, he'd see the castle the minstrels said was so splendid ... mayhap even walk its battlements ... aye....
 

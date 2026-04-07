@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 196
-characters  : elmara
-events      : Elmara plans to infiltrate and defeat magelords, encounters an enchanted sword
+characters  : elminster, elmara
+events      : Elmara plans seduction to defeat magelords; recalls spell against blade attack; prays to Mystra
 location    : none
 === CONTENT ===
 swaggering armsmen while learning all she could of what magelords ruled where. If she were ever to avenge her parents and free the realm, she'd have to find some way to fell a few of the stronger magelords in the backlands so watching eyes would be fewer and she could make their deaths seem the work of enemy magelords or ambitious apprentices. Perhaps she could seduce a magelord to gain his confidence and learn all he knew before destroying him. Elmara sighed, came to a thoughtful halt for a moment, and then went on. Not only did the idea make her stomach heave, she hadn't the faintest idea of how to act enticing... enough that a wizard who could have any maid he wanted would spare her more than a passing glance. A spell to change her shape might be noticed, and she wasn't particularly beautiful.

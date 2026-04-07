@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 209
-characters  : myrjala, elmara, khelben arunsun
-events      : Elmara learns spell strategies from Myrjala
+characters  : myrjala, elmara
+events      : Myrjala agrees to train Elmara in spell strategies; Elmara expresses desire to slay magelords.
 location    : none
 === CONTENT ===
 shape, and rust or master steel. But I know nothing of wise spell-strategies against a clear-headed foe, or the details of just what most wizards' spells do, or how one can best use one spell with another, or ..." Myrjala nodded. "You've learned much ... most mages never even notice they lack such skills-and if someone dares point it out to them, they lash out in anger to slay the one who revealed it to them, rather than giving thanks." She took another sip of soup and added, "Aye, I'll train you. Someone had better; there're wild wizards in plenty out roaming Faerun already. When you've come to trust me, you might tell me why you want to slay all the magelords in this land." Elmara's thoughts raced. "Ah," she began, "I..." Myrjala held up a restraining hand. "Later," she said with a smile.

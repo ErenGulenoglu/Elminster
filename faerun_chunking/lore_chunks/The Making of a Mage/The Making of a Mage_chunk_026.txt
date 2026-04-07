@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 26
 characters  : sargeth, elminster
-events      : Outlaws ambush and kill armsmen; butcher a horse; struggle through snow
-location    : hills
+events      : First meeting and alliance formed between outlaws against mages.
+location    : the hills
 === CONTENT ===
 The cold lesson was to trust nothing that lived, from birds and foxes whose alarmed flight could draw the eyes of patrols, to peddlers who might go after the gold and speak of fires or watching men they'd seen deep in the hills where outlaws were known to lurk. Sargeth strode up through the endless fall of snow, which drifted straight down now as there came a sudden lull in the winds. He was grinning through the cloud of vapor that curled about his mouth. "All dead, El: a dozen armsmen . .. and one of them was carrying a full pack of food!" Elminster, called Eladar among the outlaws, grunted. "No mages?" Sargeth chuckled and laid a hand on El's arm. He left bloody marks-the gore of some armsman now lying still in the snows. "Patience," he said.
 

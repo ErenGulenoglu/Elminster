@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 145
-characters  : elmara
-events      : Blades reach Ondil's tower
-location    : Ondil's tower
+characters  : ondil, lhangaern, elmara
+events      : The Brave Blades journeyed to Ondil's tower seeking magical aid after Lhangaern's tragic transformation. Elmara joined their ranks and helped them fight brigands in a crumbling keep.
+location    : thaeravel, ondil's tower
 === CONTENT ===
 Upright it stood, a lone, crumbling stone tower reaching into the bright sky... but as the tales had said, its base was a ruin of tumbled stones, and there was a stretch of empty air twelve men or so high between the ground and the dark, empty room of the tower's sixth level. Ondil's tower hung patiently in the air as it had for centuries, held up by an awesome sorcery. The Blades looked up at it, and then looked away-except for the only woman among them, who stood with a wand raised warily, peering past her hawk nose at the silent, waiting keep hanging above her. The Blades had come here by a long and perilous road.
 

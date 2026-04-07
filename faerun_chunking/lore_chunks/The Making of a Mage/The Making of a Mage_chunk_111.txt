@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 111
 characters  : elminster
-events      : Elminster sneaks into Mystra's temple, discovers it's empty and traps him
+events      : Elminster breaks into Mystra's temple, encounters armed men.
 location    : temple of mystra
 === CONTENT ===
 the words "I Am the One True Spell." Elminster shook his head, sighed, and began the climb down from the rooftop. Revenge, it seemed, was a demanding business. He could see no spells on the lock, and it surrendered easily to his metal probes; Farl had taught him well. Elminster looked up and down the silent street one last time, and then eased the door open, stood for a few breaths in its shadow to let his eyes adjust to the darkness, and slipped inside, dagger ready. Dust and empty darkness. Elminster peered in all directions, but there didn't seem to be any furnishings in the temple of Mystra, only stone pillars. Cautiously he stepped sideways until he was well away from the door-traps were usually right in front of doors-and stepped forward. Something was not right about this place.

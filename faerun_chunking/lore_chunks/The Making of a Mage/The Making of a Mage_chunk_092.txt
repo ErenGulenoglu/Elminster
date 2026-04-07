@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 92
 characters  : elminster, farl
-events      : Elminster and Farl plan to steal from wealthy households
+events      : Elminster & Farl successfully break into a noble's house, encounter another thieving group.
 location    : Shadowdale
 === CONTENT ===
 "Nay," Elminster said. "I was thinking of switching the bucket that bath- keeper sits on for another-taking the one he's filling up with coins right now, and in its place leaving a bucket of-" "Dung?" Farl grinned. "Too risky, though, by far-half the folk in line'd see us." "Ye think they don't know what we do for a living, Farl? Even ye can't be that much the idiot!" Elminster replied. Farl drew himself up with an air of injured dignity. " 'Tis not that, goodsir-'tis that we have a reputation to maintain. Everyone may know that we take, aye-but none should ever see us doing the taking. It shouldst be magic, d'you see? Like those wizards you're so fond of." El gave him a look. "Let's go take things," he said, and they strolled off to arm themselves for the workday ahead.

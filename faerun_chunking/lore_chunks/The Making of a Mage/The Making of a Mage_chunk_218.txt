@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 218
 characters  : ilhundyl
-events      : Golems attack intruder, Archers kill intruder but body keeps reappearing, Ilhundyl uses acid spell on suit of armor
-location    : Castle of Sorcery
+events      : Ilhundyl engages intruder, archers killed
+location    : Castle of Sorcery, Wind Cavern
 === CONTENT ===
 They are to bring down the intruder by any means necessary." She hurried out as the golems closed in on the intruder, lifting massive arms to smash him like a rotten grape against the stones. The wizard raised his hands. Invisible forces cut a slice of stone away, severing one moving leg from its foot, and slowly, but with awesome, quickening force, the first golem fell. The Castle of Sorcery rocked, and Ilhundyl started up from his seat in rage, in time to see the second golem fall over the broken remnants of the first, and topple in its turn. Gods take this intruder! He was perilously close to the walls already. Where were those archers? And then arrows lashed on the terrace like hard- driven black hail, and the Mad Mage smiled as the wizard's body jerked, spun around, and fell, transfixed.
 

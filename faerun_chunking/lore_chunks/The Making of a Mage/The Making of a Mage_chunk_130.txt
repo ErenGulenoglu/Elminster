@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 130
-characters  : elminster, mystra
-events      : Elmara made a woman by Mystra, learns about magic link from Braer
+characters  : elmara, braer
+events      : Elmara serves Mystra, becomes female; Braer shares thoughts on learning.
 location    : none
 === CONTENT ===
 I know what you hope to do-and it would be mere prudence to aid one dedicated to fighting our most powerful and nearest foes, the magelords. Your character- especially your strength in setting aside your hatred of magic long enough to agree to serve the Lady and in clinging to sanity and dignity when she made you a woman without warning-have made my task more than a duty and prudence; you have made it a pleasure." Elmara swallowed, feeling fresh tears well up and run down her cheeks. "Ye-ye are the kindest and most patient person I've ever known," she whispered. "Please forgive me, for my tears earlier." Braer patted her hand. "The fault was mine.

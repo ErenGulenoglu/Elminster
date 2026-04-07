@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 32
 characters  : elminster
-events      : Elminster battles and defeats armsmen
-location    : none
+events      : Elminster kills armsmen in pursuit of revenge for Athalantar royal family.
+location    : ravine, cavern
 === CONTENT ===
 The armsman was on his knees, struggling with a jammed windlass; Elminster's landing smashed him to the ground like a rag doll, and El dragged his dagger across the man's throat a breath later. "For Elthryn, prince of Athalantar!" he whispered, and found himself blinking back sudden tears as his father's face came to mind. Not now, he told himself desperately, and ran on toward the next boulder. The wounded man saw him and struggled to get aside, groaning. Elminster drove his dagger home and snarled, "For Amrythale, his princess!" Then he ducked down, scooped up the man's loaded bow from where it had fallen- and looked up in time to fire it into another armsman, who had just risen from cover with a spear in his hand. Ahead, another armsman took an outlaw quarrel in the hand, screamed, and fell back behind his rock, sobbing.
 

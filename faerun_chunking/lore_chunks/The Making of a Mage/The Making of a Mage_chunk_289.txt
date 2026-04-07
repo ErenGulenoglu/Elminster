@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 289
-characters  : undarl, elminster, myrjala
-events      : Undarl summons red dragon, Myrjala shields them, dragon dies in explosion
-location    : shrine
+characters  : undarl, myrjala, elminster
+events      : Undarl summoned a dragon; Myrjala transformed and reflected its fire back at it, destroying the dragon. Undarl's form began transforming into something non-human.
+location    : the shrine
 === CONTENT ===
 Die, then!" His next words were a hissed incantation, and streams of fire burst from his fingertips in a crimson web that crackled and clawed the air, but was turned back by Myrjala's conjured shield. Elminster had no spells left to match such magics; he could only stand anxiously in the lee of Myrjala's barrier. The web of fire Undarl had spun began to glow a dull, angry red. The mage royal lashed at the shield with his fading flames, and called out a name that echoed among the stones of the shrine. His call was answered by a vast bestial roar. Something huge and dark rose up from behind the trees behind the mage royal... a red dragon! It unfurled batlike wings and hissed, eyes glinting with cruelty. Then its shoulders surged and it leapt through the air toward the prince and the dark- eyed sorceress.
 

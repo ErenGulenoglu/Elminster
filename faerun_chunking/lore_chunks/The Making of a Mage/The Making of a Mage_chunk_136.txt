@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 136
 characters  : elmara
-events      : Elmara travels towards Ladyhouse Falls and encounters an old woman planting yellow-green plants
+events      : Elmara meets and converses with an old woman in robes who is implied to be Mystra, discussing Elmara's past experiences
 location    : Ladyhouse Falls
 === CONTENT ===
 circled high in the clear air. She went on with joy in her step, and did not halt until it grew too dark to go on and the wolves began to howl. ***** She'd expected more than a few ragged stone cottages and a tumbledown barn-but the road ran on and up through the trees toward a distant roar of water; this must be Ladyhouse Falls. The road narrowed to a deep-rutted cart trail and turned east. A little path led off it into the trees, along which came the sound of water. Elmara took the way it offered and came out in a field broken by a huge, fire-scarred sheet of rock, with the rushing river hard by, and a high-peaked hall in front of her.

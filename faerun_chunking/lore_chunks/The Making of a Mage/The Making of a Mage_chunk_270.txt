@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 270
-characters  : elminster, ithboltar, myrjala
-events      : Elminster vanishes, Ithboltar's crown explodes, castle collapses
-location    : athalgard
+characters  : elminster, myrjala
+events      : Ithboltar's crown explodes, destroying Athalgard tower; Elminster escapes with Myrjala
+location    : Athalgard
 === CONTENT ===
 A few of the magelords saw Elminster as he vanished back into the crystal, but their angry and disbelieving gazes were caught by the flickering forces spiraling out from the shattered skullcap on Ithboltar's head. Smoke was rising from their staggering ex-tutor's eyes. The crown pulsed, spinning a vortex of gathering force out into the chamber. Hasty incantations were being chanted all over the shattered chamber as the vortex shivered, throwing off roiling waves of force that swept the wizards into each other and dashed them against the walls . . . and the crown exploded, white bolts of destruction stabbing out in all directions. Mage- lords wailed and flickered in and out of visibility as contingencies took effect. Watching the scene from a balcony across the courtyard, Myrjala murmured the last words of a spell of her own.
 

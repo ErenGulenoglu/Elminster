@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 257
 characters  : undarl
-events      : Undarl casts spell to put apprentices to sleep, plans to leave the tower
+events      : Undarl prepares and activates a powerful spell, affecting unknown apprentices
 location    : Dragonrider's Tower
 === CONTENT ===
 He dare not waste many more days here with that lizard-kisser Seldinor and the others so hungry for his high seat, and . . . Undarl froze as Hathan's mindsend stung him. It was loud because his senior apprentice was only in the courtyard below, and high with excitement and a little fear. He'd have a headache for sure. The mage royal listened, curtly bid Hathan return to his own affairs, and broke the contact. Forgotten, the creatures splashed and gurgled in the tank behind him as he strode out. Undarl hastened down a dark passage to a certain spot where he laid one hand on the bare wall and murmured a word. The wall swung open with the faintest of rumbles; he reached into the revealed darkness, felt the iron lid, and laid his hand on it.

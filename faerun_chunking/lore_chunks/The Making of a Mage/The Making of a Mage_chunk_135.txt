@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 135
-characters  : elmara, braer
-events      : Elmara decides to leave High Forest, Elmara starts journey towards Ladyhouse Falls
-location    : High Forest, Kingdom of the Stag, Ladyhouse Falls
+characters  : elmara
+events      : Elmara leaves High Forest after being encouraged by Braer, marking the beginning of her journey.
+location    : High Forest, Ladyhouse Falls
 === CONTENT ===
 "Why?" he asked lightly. "You didn't do it-'tis the magelords who should be sorry ... and I and my kin are counting on you to make them so, someday." Elmara drew herself up. "I intend to. Soon." The elf shook his head. "No, lass, not yet. You aren't ready... and a single archmage, no matter how mighty, can't hope to succeed against all the magelords and their servant creatures, if they whelm against you." He smiled and added, "And you haven't even learned to be an archmage yet. Set aside revenge for a time. 'Tis best savored when one waits a long time for it, anyway." Elmara sighed. "I may die of old age with the magelords still lording it over Athalantar." "I've read that fear in your mind often, since we first met," Braer replied, "and I know it will drive you until your death-or theirs.
 

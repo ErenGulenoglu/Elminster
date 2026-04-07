@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 171
-characters  : ilhundyl, mystra
-events      : Ilhundyl receives book from spirit; Mystra appears
-location    : Faerun
+characters  : ilhundyl, elmara
+events      : First meeting between Ilhundyl and Mystra's manifestation; Elmara survives near-death experience
+location    : Shar's Tomb
 === CONTENT ===
 She extended the book to the robed man, who stretched forth his hand in a quick gesture. Brief lightnings played around the book, and then died. Satisfied, the man took it. The ghostly face leaned close. Its entreating whisper was almost a sob. "Now will ye let me rest, Mage Most Mighty?" Ilhundyl nodded once. "For a time," he said curtly. "Now-go!" The spirit's shadowy form wavered above the stone block, as if it were whipped in a gale, and her faint voice came again. "Who was the young mage, and what is her fate?" "Death is her fate, and so she is nothing, of course," Ilhundyl said, and there was a clear edge of anger in his cold tones. "Go!" The lich moaned and sank back into the stone; the last that could be seen of her before she faded utterly was a pair of spread, beseeching hands.
 

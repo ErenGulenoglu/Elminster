@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 47
-characters  : elminster
-events      : Characters discuss travel methods and plans
-location    : Upshyn, Woodsedge Inn
+characters  : elminster, helm
+events      : First meeting between Elminster and Helm; discussion on journey methods and Athalantar's struggle against magelords.
+location    : Woodsedge Inn
 === CONTENT ===
 Feeling up to the trip afoot, or would ye rather ride? The one's easier-as long as ye can find hay enough for the horse, an' they eat like proper pigs, mind. But they'll draw eyes yer way in a hurry, especially when ye cross the Run in Upshyn. Try to do that with a few wagons an' look like ye're part of the group, howe'er ye go. If anyone sees the spellbooks and scrolls ye're carrying, 'twill mean yer death." The knight scratched at his beard and went on. "The other way, though, is slow and hard, even if ye can keep warm-an' mind; to get feet wet is death in this weather...." "I'll walk," Elminster said. "I'll take a bow and as much food as I can stagger along with, as well... no armor, so long as I can get good gloves and a better scabbard." Helm grinned.
 

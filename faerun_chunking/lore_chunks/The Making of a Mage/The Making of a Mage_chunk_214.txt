@@ -1,8 +1,8 @@
 === METADATA ===
 chunk_index : 214
 characters  : elminster, ander
-events      : Elminster receives gender transformation spell from Ander
-location    : Haunted Vale
+events      : El receives gender-transforming spell from Ander
+location    : none
 === CONTENT ===
 Mind ye return, in ten seasons or so, and talk with Ander again. Thy mind'll have fresh memories and learning for me by then." "I-I'll try to return," El said uncertainly. Though she'd now mastered her fear, only the gods above knew if she'd live that long, or still be able to work magic ... and not be a twisted prisoner of some magelord or other. "That's all any mortal can promise," Ander said, drifting nearer. "Take this gift from me, sith ye did not come to seize anything." A shaft of light descended in front of Elmara's nose, and within it hung an open book, a book of circular pages, open at one. As El stared at the crawling runes on that page, they seemed to writhe and reform until she could suddenly read them.
 

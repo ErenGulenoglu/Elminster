@@ -1,7 +1,7 @@
 === METADATA ===
 chunk_index : 59
 characters  : farl, elminster
-events      : Thieves plan to use cobbler's shop as loot-cache, leave behind cheese for rats
+events      : Planning theft; Eladar leaves shop first
 location    : Hastarl
 === CONTENT ===
 Around them, the gloomy back room of the shut-up cobbler's shop stank from its occasional use as a toilet by cats, dogs, drunks, and stray street folk. The cobbler had died of black-tongue fever early in the spring, and sane folk made no plans to disturb the place until at least a season had passed. Then it would be smoked to clear disease-vapors and torn down; by then, Farl and Elminster planned to have a new and better loot-cache among the ornamental roof-spires of the proud houses near Hastarl's north wall. They had their eyes on a tall residence whose roof sported crouching, snarling sculpted gargoyles; if one could be beheaded and hollowed out without anyone in the grand house beneath noticing, they'd have an ideal place. Aye, 'if.' The two youths nodded to each other, knowing their silent thoughts had skulked along the same alley.
